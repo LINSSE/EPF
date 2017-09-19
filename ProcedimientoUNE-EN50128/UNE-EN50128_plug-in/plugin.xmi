@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_R1rQkJjGEeeafv7hrIg7lQ" guid="_R1rQkJjGEeeafv7hrIg7lQ"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
+    <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkZjGEeeafv7hrIg7lQ" name="Content" guid="_R1hfkZjGEeeafv7hrIg7lQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkpjGEeeafv7hrIg7lQ" name="Categories" guid="_R1hfkpjGEeeafv7hrIg7lQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfk5jGEeeafv7hrIg7lQ" name="Domains" guid="_R1hfk5jGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflpjGEeeafv7hrIg7lQ" name="WP Types" guid="_R1hflpjGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfl5jGEeeafv7hrIg7lQ" name="Tools" guid="_R1hfl5jGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmJjGEeeafv7hrIg7lQ" name="StandardCategories" guid="_R1hfmJjGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmZjGEeeafv7hrIg7lQ" name="CustomCategories" guid="_R1hfmZjGEeeafv7hrIg7lQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmpjGEeeafv7hrIg7lQ" name="Hidden" guid="_R1hfmpjGEeeafv7hrIg7lQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_R1iGoJjGEeeafv7hrIg7lQ" name="Custom Categories" guid="_R1iGoJjGEeeafv7hrIg7lQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1iGoZjGEeeafv7hrIg7lQ" name="CoreContent" guid="_R1iGoZjGEeeafv7hrIg7lQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8t2P4JlBEeeafv7hrIg7lQ" name="SIL 1_2" guid="_8t2P4JlBEeeafv7hrIg7lQ">
+          <methodElementProperty xmi:id="_8t228JlBEeeafv7hrIg7lQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_EALOAJlCEeeafv7hrIg7lQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_E9tNQJlCEeeafv7hrIg7lQ" name="Jefe de proyecto (PM)" guid="_E9tNQJlCEeeafv7hrIg7lQ" presentationName="PM">
+            <methodElementProperty xmi:id="_LEj2wJlCEeeafv7hrIg7lQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_RYPLcJrbEeeJCveAr0xebw" name="Gestor de requisitos (RQM)" guid="_RYPLcJrbEeeJCveAr0xebw" presentationName="RQM">
+            <methodElementProperty xmi:id="_Xh-J0JrbEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Z4ANEJrbEeeJCveAr0xebw" name="Diseñador (DES)" guid="_Z4ANEJrbEeeJCveAr0xebw" presentationName="DES">
+            <methodElementProperty xmi:id="_dlEUsJrbEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gwThoJrbEeeJCveAr0xebw" name="Implementador (IMP)" guid="_gwThoJrbEeeJCveAr0xebw" presentationName="IMP">
+            <methodElementProperty xmi:id="_jI37gJrbEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rw79gJrbEeeJCveAr0xebw" name="Integrador (INT)" guid="_rw79gJrbEeeJCveAr0xebw" presentationName="INT">
+            <methodElementProperty xmi:id="_tNyWAJrbEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_wVnpoJrbEeeJCveAr0xebw" name="Encargado de los ensayos (TST)" guid="_wVnpoJrbEeeJCveAr0xebw" presentationName="TST">
+            <methodElementProperty xmi:id="_-rFTUJrbEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_N6NI4JrcEeeJCveAr0xebw" name="Verificador (VER)" guid="_N6NI4JrcEeeJCveAr0xebw" presentationName="VER">
+            <methodElementProperty xmi:id="_Q6QZgJrcEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_WF_ekJrcEeeJCveAr0xebw" name="Validador (VAL)" guid="_WF_ekJrcEeeJCveAr0xebw" presentationName="VAL">
+            <methodElementProperty xmi:id="_Yks8sJrcEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ZVv_IJrcEeeJCveAr0xebw" name="Evaluador (ASR)" guid="_ZVv_IJrcEeeJCveAr0xebw" presentationName="ASR">
+            <methodElementProperty xmi:id="_cO9A4JrcEeeJCveAr0xebw" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JEqXsJpXEeec5o-eL9dCWg" name="SIL 3_4" guid="_JEqXsJpXEeec5o-eL9dCWg">
+          <methodElementProperty xmi:id="_JEqXsZpXEeec5o-eL9dCWg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_LjBQgJpXEeec5o-eL9dCWg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_1WyjsJxrEeeMMerVlw_6Kg" name="Diseñador (DES)" guid="_1WyjsJxrEeeMMerVlw_6Kg" presentationName="DES">
+            <methodElementProperty xmi:id="_1YOuIJxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29vTYJxrEeeMMerVlw_6Kg" name="Encargado de los ensayos (TST)" guid="_29vTYJxrEeeMMerVlw_6Kg" presentationName="TST">
+            <methodElementProperty xmi:id="_2-JjEJxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29vTYZxrEeeMMerVlw_6Kg" name="Evaluador (ASR)" guid="_29vTYZxrEeeMMerVlw_6Kg" presentationName="ASR">
+            <methodElementProperty xmi:id="_2-JjEZxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29vTYpxrEeeMMerVlw_6Kg" name="Gestor de requisitos (RQM)" guid="_29vTYpxrEeeMMerVlw_6Kg" presentationName="RQM">
+            <methodElementProperty xmi:id="_2-JjEpxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29vTY5xrEeeMMerVlw_6Kg" name="Implementador (IMP)" guid="_29vTY5xrEeeMMerVlw_6Kg" presentationName="IMP">
+            <methodElementProperty xmi:id="_2-JjE5xrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29v6cJxrEeeMMerVlw_6Kg" name="Integrador (INT)" guid="_29v6cJxrEeeMMerVlw_6Kg" presentationName="INT">
+            <methodElementProperty xmi:id="_2-JjFJxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29v6cZxrEeeMMerVlw_6Kg" name="Jefe de proyecto (PM)" guid="_29v6cZxrEeeMMerVlw_6Kg" presentationName="PM">
+            <methodElementProperty xmi:id="_2-JjFZxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29v6cpxrEeeMMerVlw_6Kg" name="Validador (VAL)" guid="_29v6cpxrEeeMMerVlw_6Kg" presentationName="VAL">
+            <methodElementProperty xmi:id="_2-JjFpxrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_29v6c5xrEeeMMerVlw_6Kg" name="Verificador (VER)" guid="_29v6c5xrEeeMMerVlw_6Kg" presentationName="VER">
+            <methodElementProperty xmi:id="_2-JjF5xrEeeMMerVlw_6Kg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGopjGEeeafv7hrIg7lQ" name="CapabilityPatterns" guid="_R1iGopjGEeeafv7hrIg7lQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGo5jGEeeafv7hrIg7lQ" name="DeliveryProcesses" guid="_R1iGo5jGEeeafv7hrIg7lQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGpJjGEeeafv7hrIg7lQ" name="ProcessContributions" guid="_R1iGpJjGEeeafv7hrIg7lQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
