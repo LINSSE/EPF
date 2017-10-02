@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-aIZ9f0kxDt51mMFr2JcJvA" name="Garantía de Calidad,_VE_1IaOvEeeGc7DhWFpAog" guid="-aIZ9f0kxDt51mMFr2JcJvA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3hEHX70JzYrjJugS-14tNw" name="Verificador (VER),_d06IQKekEeeVyNDbClInfQ" guid="-3hEHX70JzYrjJugS-14tNw">
+    <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPS-BoldMT&quot;>Responsabilidades:&lt;/font>&lt;/font>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>1. debe desarrollar un Plan de&#xD;
+    Verificación del Software (que puede incluir cuestiones relativas a la calidad)&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>exponiendo qué necesita verificarse y&#xD;
+    qué tipos de procesos (por ejemplo, revisiones, análisis, etc.) y ensayos&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>se requieren como prueba&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>2. debe comprobar la adecuación&#xD;
+    (compleción, coherencia, corrección, relevancia y trazabilidad) de las pruebas&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>documentadas a partir de las&#xD;
+    revisiones, de la integración y de los ensayos con los objetivos de verificación&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>especificados&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>3. debe identificar las anomalías,&#xD;
+    evaluarlas en términos del riesgo (impacto) que suponen, y registrarlas y&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>comunicarlas al organismo competente de&#xD;
+    la gestión de las modificaciones para su evaluación y toma de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>decisiones&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>4. debe gestionar el proceso de&#xD;
+    verificación (revisión, integración y ensayos) y garantizar la independencia de las&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>actividades según sea&#xD;
+    necesario&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>5. debe desarrollar y mantener&#xD;
+    registros de las actividades de verificación&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>6. debe desarrollar un Informe de&#xD;
+    Verificación exponiendo el resultado de las actividades de verificación&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>
