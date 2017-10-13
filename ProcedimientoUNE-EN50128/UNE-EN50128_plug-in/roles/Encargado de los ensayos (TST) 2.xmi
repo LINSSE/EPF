@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JS0MALJr8kQL7eICm3t8Ew" name="Encargado de los ensayos (TST),_wVnpoJrbEeeJCveAr0xebw" guid="-JS0MALJr8kQL7eICm3t8Ew" changeDate="2017-09-21T15:22:52.630-0300">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Tpo-xPB9u1vGKvrJg-v2jA" name="Encargado de los ensayos (TST),_wVnpoJrbEeeJCveAr0xebw" guid="-Tpo-xPB9u1vGKvrJg-v2jA" changeDate="2017-09-21T15:22:52.630-0300">
   <mainDescription>&lt;p align=&quot;left&quot;>&#xD;
     &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
     face=&quot;TimesNewRomanPS-BoldMT&quot;>Responsabilidades:&lt;/font>&lt;/font>&lt;/b>&#xD;
