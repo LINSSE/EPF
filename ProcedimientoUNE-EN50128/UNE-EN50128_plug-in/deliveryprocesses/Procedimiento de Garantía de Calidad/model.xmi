@@ -2,44 +2,58 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_VFVMUKOvEeeGc7DhWFpAog" guid="_VFVMUKOvEeeGc7DhWFpAog">
     <resourceDescriptors xmi:id="_VFVMUaOvEeeGc7DhWFpAog" id="-aIZ9f0kxDt51mMFr2JcJvA" uri="content.xmi"/>
-    <resourceDescriptors xmi:id="_iokEgKekEeeVyNDbClInfQ" id="-3hEHX70JzYrjJugS-14tNw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_-nWKcLKjEeeZ_J4nQ47s2A" id="-HY4PHVDScFyfG4TQH6YAYA" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_VE_1IKOvEeeGc7DhWFpAog" name="Procedimiento de Garantía de Calidad" guid="_VE_1IKOvEeeGc7DhWFpAog">
     <methodElementProperty xmi:id="_VE_1IqOvEeeGc7DhWFpAog" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_0DH6MKOvEeeGc7DhWFpAog" name="me_edited" value="true"/>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_d05hMKekEeeVyNDbClInfQ" name="1) Redactar Plan de Garantía de Calidad del Software" guid="_d05hMKekEeeVyNDbClInfQ" presentationName="1) Redactar Plan de Garantía de Calidad del Software" superActivities="_VE_1IaOvEeeGc7DhWFpAog" mandatoryInput="_d06IQqekEeeVyNDbClInfQ" output="_d06IRKekEeeVyNDbClInfQ" performedPrimarilyBy="_d06IQKekEeeVyNDbClInfQ">
-      <methodElementProperty xmi:id="_d08kgKekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_fB1SgKN_EeeYD-dxpZ0cxw"/>
-      <selectedSteps href="uma://-YR2j7M-cmcqqyQHz22-9cw#_k9tbIKedEeeVyNDbClInfQ"/>
-      <selectedSteps href="uma://-YR2j7M-cmcqqyQHz22-9cw#_mtmrcKedEeeVyNDbClInfQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_d06IQKekEeeVyNDbClInfQ" name="Verificador (VER)" guid="_d06IQKekEeeVyNDbClInfQ" presentationName="Verificador (VER)" briefDescription="Entidad responsable de una o más actividades de verificación." isPlanned="false" superActivities="_VE_1IaOvEeeGc7DhWFpAog" modifies="_d06IRKekEeeVyNDbClInfQ _edLCIaekEeeVyNDbClInfQ">
-      <methodElementProperty xmi:id="_d06IQaekEeeVyNDbClInfQ" name="descriptor_createdByReference" value="true"/>
-      <methodElementProperty xmi:id="_d09LkaekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <presentation xmi:id="-3hEHX70JzYrjJugS-14tNw" href="uma://-aIZ9f0kxDt51mMFr2JcJvA#-3hEHX70JzYrjJugS-14tNw"/>
-      <Role href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_N6NI4JrcEeeJCveAr0xebw"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_d06IQqekEeeVyNDbClInfQ" name="Documentos del ciclo de vida (E)" guid="_d06IQqekEeeVyNDbClInfQ" presentationName="Documentos del ciclo de vida" isPlanned="false" superActivities="_VE_1IaOvEeeGc7DhWFpAog">
-      <methodElementProperty xmi:id="_d06IQ6ekEeeVyNDbClInfQ" name="descriptor_createdByReference" value="true"/>
-      <methodElementProperty xmi:id="_d09LkKekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_0Y5SsKOrEeeGc7DhWFpAog"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_d06IRKekEeeVyNDbClInfQ" name="1) Plan de Garantía de Calidad del Software (S)" guid="_d06IRKekEeeVyNDbClInfQ" presentationName="1) Plan de Garantía de Calidad del Software (S)" isPlanned="false" superActivities="_VE_1IaOvEeeGc7DhWFpAog">
-      <methodElementProperty xmi:id="_d06IRaekEeeVyNDbClInfQ" name="descriptor_createdByReference" value="true"/>
-      <methodElementProperty xmi:id="_d09yoKekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_6QTb8KLwEeeYD-dxpZ0cxw"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_edLCIKekEeeVyNDbClInfQ" name="2) Redactar Informe de Verificación de Garantía de Calidad del Software" guid="_edLCIKekEeeVyNDbClInfQ" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" superActivities="_VE_1IaOvEeeGc7DhWFpAog" linkToPredecessor="_iQAakKekEeeVyNDbClInfQ" mandatoryInput="_d06IRKekEeeVyNDbClInfQ" output="_edLCIaekEeeVyNDbClInfQ" performedPrimarilyBy="_d06IQKekEeeVyNDbClInfQ">
-      <methodElementProperty xmi:id="_edOFcKekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_ZMgEoKeiEeeVyNDbClInfQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_edLCIaekEeeVyNDbClInfQ" name="2) Informe de Verificación de Garantía de Calidad del Software (S)" guid="_edLCIaekEeeVyNDbClInfQ" presentationName="2) Informe de Verificación de Garantía de Calidad del Software (S)" isPlanned="false" superActivities="_VE_1IaOvEeeGc7DhWFpAog">
-      <methodElementProperty xmi:id="_edLCIqekEeeVyNDbClInfQ" name="descriptor_createdByReference" value="true"/>
-      <methodElementProperty xmi:id="_edOFcaekEeeVyNDbClInfQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
-      <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_W6YDMKN_EeeYD-dxpZ0cxw"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iQAakKekEeeVyNDbClInfQ" guid="_iQAakKekEeeVyNDbClInfQ" pred="_d05hMKekEeeVyNDbClInfQ"/>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_VE_1IaOvEeeGc7DhWFpAog" name="Procedimiento de Garantía de Calidad" guid="_VE_1IaOvEeeGc7DhWFpAog" presentationName="Procedimiento de Garantía de Calidad" breakdownElements="_d05hMKekEeeVyNDbClInfQ _d06IQKekEeeVyNDbClInfQ _d06IQqekEeeVyNDbClInfQ _d06IRKekEeeVyNDbClInfQ _edLCIKekEeeVyNDbClInfQ _edLCIaekEeeVyNDbClInfQ">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qieG4LKjEeeZ_J4nQ47s2A" name="Test" guid="_qieG4LKjEeeZ_J4nQ47s2A">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qiet8LKjEeeZ_J4nQ47s2A" name="Test" guid="_qiet8LKjEeeZ_J4nQ47s2A" presentationName="Realizar Plan de Garantia Informe de Verificación" superActivities="_VE_1IaOvEeeGc7DhWFpAog" breakdownElements="_9uRNYLKjEeeZ_J4nQ47s2A _9uRNYbKjEeeZ_J4nQ47s2A _9uRNY7KjEeeZ_J4nQ47s2A _9uRNZbKjEeeZ_J4nQ47s2A _-NKI0LKjEeeZ_J4nQ47s2A _-NKI0bKjEeeZ_J4nQ47s2A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_9uRNYLKjEeeZ_J4nQ47s2A" name="1) Redactar Plan de Garantía de Calidad del Software" guid="_9uRNYLKjEeeZ_J4nQ47s2A" presentationName="1) Redactar Plan de Garantía de Calidad del Software" superActivities="_qiet8LKjEeeZ_J4nQ47s2A" mandatoryInput="_9uRNY7KjEeeZ_J4nQ47s2A" output="_9uRNZbKjEeeZ_J4nQ47s2A" performedPrimarilyBy="_9uRNYbKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_9u-YALKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_KkbQoK03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3s603EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3ta03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3sa03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3tK03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3tq03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3sq03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_Kkb3sK03EeeTbJlYDwtuwA"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_m1dAYLAjEeeT49cX23SF-A"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_sHgI0LAjEeeT49cX23SF-A"/>
+        <selectedSteps href="uma://-VR5wqhFJEkkOHf45JFWt-g#_w3OnULAjEeeT49cX23SF-A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_9uRNYbKjEeeZ_J4nQ47s2A" name="Verificador (VER)" guid="_9uRNYbKjEeeZ_J4nQ47s2A" presentationName="Verificador (VER)" briefDescription="Entidad responsable de una o más actividades de verificación." isPlanned="false" superActivities="_qiet8LKjEeeZ_J4nQ47s2A" modifies="_9uRNZbKjEeeZ_J4nQ47s2A _-NKI0bKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_9uRNYrKjEeeZ_J4nQ47s2A" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_9vBbULKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-HY4PHVDScFyfG4TQH6YAYA" href="uma://-aIZ9f0kxDt51mMFr2JcJvA#-HY4PHVDScFyfG4TQH6YAYA"/>
+        <Role href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_X_FUYa02EeeTbJlYDwtuwA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9uRNY7KjEeeZ_J4nQ47s2A" name="Documentos del ciclo de vida (E)" guid="_9uRNY7KjEeeZ_J4nQ47s2A" presentationName="Documentos del ciclo de vida" isPlanned="false" superActivities="_qiet8LKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_9uRNZLKjEeeZ_J4nQ47s2A" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_9vCCYLKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_E-wooK03EeeTbJlYDwtuwA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_9uRNZbKjEeeZ_J4nQ47s2A" name="Plan de Garantía de Calidad del Software (S)" guid="_9uRNZbKjEeeZ_J4nQ47s2A" presentationName="Plan de Garantía de Calidad del Software (S)" isPlanned="false" superActivities="_qiet8LKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_9uRNZrKjEeeZ_J4nQ47s2A" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_9u_mILKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <templates href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_H4vlsLKWEeeZ_J4nQ47s2A"/>
+        <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_E-xPsK03EeeTbJlYDwtuwA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_-NKI0LKjEeeZ_J4nQ47s2A" name="2) Redactar Informe de Verificación de Garantía de Calidad del Software" guid="_-NKI0LKjEeeZ_J4nQ47s2A" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" superActivities="_qiet8LKjEeeZ_J4nQ47s2A" linkToPredecessor="_TZUkkLKkEeeZ_J4nQ47s2A" optionalInput="_9uRNZbKjEeeZ_J4nQ47s2A" output="_-NKI0bKjEeeZ_J4nQ47s2A" performedPrimarilyBy="_9uRNYbKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_-NNMILKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_MwanEK03EeeTbJlYDwtuwA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-NKI0bKjEeeZ_J4nQ47s2A" name="Informe de Verificación de Garantía de Calidad del Software (S)" guid="_-NKI0bKjEeeZ_J4nQ47s2A" presentationName="Informe de Verificación de Garantía de Calidad del Software (S)" isPlanned="false" superActivities="_qiet8LKjEeeZ_J4nQ47s2A">
+        <methodElementProperty xmi:id="_-NKI0rKjEeeZ_J4nQ47s2A" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_-NNMIbKjEeeZ_J4nQ47s2A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <WorkProduct href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_E-wooa03EeeTbJlYDwtuwA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_TZUkkLKkEeeZ_J4nQ47s2A" guid="_TZUkkLKkEeeZ_J4nQ47s2A" pred="_9uRNYLKjEeeZ_J4nQ47s2A"/>
+    </childPackages>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iQAakKekEeeVyNDbClInfQ" guid="_iQAakKekEeeVyNDbClInfQ"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ff5QELJ3EeeZ_J4nQ47s2A" guid="_Ff5QELJ3EeeZ_J4nQ47s2A"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_VE_1IaOvEeeGc7DhWFpAog" name="Procedimiento de Garantía de Calidad" guid="_VE_1IaOvEeeGc7DhWFpAog" presentationName="Procedimiento de Garantía de Calidad" breakdownElements="_qiet8LKjEeeZ_J4nQ47s2A">
       <presentation xmi:id="-aIZ9f0kxDt51mMFr2JcJvA" href="uma://-aIZ9f0kxDt51mMFr2JcJvA#-aIZ9f0kxDt51mMFr2JcJvA"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>

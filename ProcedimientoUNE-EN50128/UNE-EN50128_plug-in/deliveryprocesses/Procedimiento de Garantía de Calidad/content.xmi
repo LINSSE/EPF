@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-aIZ9f0kxDt51mMFr2JcJvA" name="Garantía de Calidad,_VE_1IaOvEeeGc7DhWFpAog" guid="-aIZ9f0kxDt51mMFr2JcJvA"/>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3hEHX70JzYrjJugS-14tNw" name="Verificador (VER),_d06IQKekEeeVyNDbClInfQ" guid="-3hEHX70JzYrjJugS-14tNw">
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HY4PHVDScFyfG4TQH6YAYA" name="Verificador (VER),_9uRNYbKjEeeZ_J4nQ47s2A" guid="-HY4PHVDScFyfG4TQH6YAYA">
     <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
     &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
     face=&quot;TimesNewRomanPS-BoldMT&quot;>Responsabilidades:&lt;/font>&lt;/font>&lt;/b>&#xD;

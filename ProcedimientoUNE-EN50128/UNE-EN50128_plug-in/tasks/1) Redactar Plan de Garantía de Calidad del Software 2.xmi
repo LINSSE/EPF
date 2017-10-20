@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VR5wqhFJEkkOHf45JFWt-g" name="1) Redactar Plan de Garantía de Calidad del Software,_fB1SgKN_EeeYD-dxpZ0cxw" guid="-VR5wqhFJEkkOHf45JFWt-g">
+  <sections xmi:id="_Kkb3s603EeeTbJlYDwtuwA" name="1) Identificar las normas y reglamentaciones obligatorias." guid="_Kkb3s603EeeTbJlYDwtuwA">
+    <sectionDescription>El objetivo de esta sección es identificar todas las normas y reglamentos que deben ser respetados durante el desarrollo&#xD;
+del software. Es necesario para identificar claramente los títulos, referencias y versiones de estos documentos. Esta&#xD;
+incluye ISO 9001: 2008, CENELEC 50128: 20xx, IEC 62279: 20xx,etc .;</sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3ta03EeeTbJlYDwtuwA" name="2) Establecer organización del proyecto, demostración de independencia y justificación de las habilidades " guid="_Kkb3ta03EeeTbJlYDwtuwA">
+    <sectionDescription>Esto puede basarse en un proceso local al proceso y en la gestión de los recursos humanos de la empresa</sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3sa03EeeTbJlYDwtuwA" name="3) Establecer límite del software que esta siendo creado." guid="_Kkb3sa03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_Kkb3tK03EeeTbJlYDwtuwA" name="4) Definición de control de la calidad (métricas, puntos de control, auditorías, etc.);" guid="_Kkb3tK03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_Kkb3tq03EeeTbJlYDwtuwA" name="5) Definición del ciclo de desarrollo de software (modelo V, etc) y de cada paso involucrado." guid="_Kkb3tq03EeeTbJlYDwtuwA">
+    <sectionDescription>Subdivisión, que describe los elementos de entrada, los elementos de salida, las actividades los recursos humanos, los&#xD;
+recursos técnicos &lt;br />&#xD;
+(herramientas, pruebas ambientes, laboratorios, etc.) y los criterios de aceptación y de fin de fase criterios de gestión.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3sq03EeeTbJlYDwtuwA" name="6) Presentación de la gestión de la configuración." guid="_Kkb3sq03EeeTbJlYDwtuwA">
+    <sectionDescription>Herramientas, procedimiento, identificación de la versión, identificación de los elementos de gestionado, etc. Será&#xD;
+necesario definir explícitamente la forma en que el software se produce la especificación de la versión.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3sK03EeeTbJlYDwtuwA" name="7)  Presentación del proceso de gestión de las anomalías y demandas de modificaciones y correcciones" guid="_Kkb3sK03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_m1dAYLAjEeeT49cX23SF-A" name="8) Presentación del proceso de gestión de herramientas (identificación, gestión de la configuración, etc.)" guid="_m1dAYLAjEeeT49cX23SF-A">
+    <sectionDescription>Especialmente gestión de la certificación de herramientas.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_sHgI0LAjEeeT49cX23SF-A" name="9) Definir la lista de los documentos que deben ser producido durante el proceso de desarrollo de software." guid="_sHgI0LAjEeeT49cX23SF-A"/>
+  <sections xmi:id="_w3OnULAjEeeT49cX23SF-A" name="10) Demostrar la conformidad con las normas identificados en el paso 1 - específicamente al CENELEC 50128 (o IEC 62279)" guid="_w3OnULAjEeeT49cX23SF-A"/>
+</org.eclipse.epf.uma:TaskDescription>
