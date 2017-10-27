@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_R1rQkJjGEeeafv7hrIg7lQ" guid="_R1rQkJjGEeeafv7hrIg7lQ">
-    <subManagers xmi:id="_VFVMUKOvEeeGc7DhWFpAog" href="uma://_VE_1IKOvEeeGc7DhWFpAog#_VFVMUKOvEeeGc7DhWFpAog"/>
-    <resourceDescriptors xmi:id="_VFC4cKOvEeeGc7DhWFpAog" id="_VE_1IKOvEeeGc7DhWFpAog" uri="deliveryprocesses/Procedimiento%20de%20Garantía%20de%20Calidad/model.xmi"/>
+    <subManagers xmi:id="_SH3SkLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SH3SkLqNEeexnaZ05SXmkw"/>
+    <subManagers xmi:id="_ESQyQLsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ESQyQLsdEee0oJqAmnTP4g"/>
     <resourceDescriptors xmi:id="_YAEy4K02EeeTbJlYDwtuwA" id="-5zKjj2rW0C57huOsgn7Euw" uri="roles/Diseñador%20(DES)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAj7EK02EeeTbJlYDwtuwA" id="-Tpo-xPB9u1vGKvrJg-v2jA" uri="roles/Encargado%20de%20los%20ensayos%20(TST)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAlwQK02EeeTbJlYDwtuwA" id="-cQ3kVC0Xwk0q2aAsz9FKZg" uri="roles/Evaluador%20(ASR)%202.xmi"/>
@@ -13,8 +13,16 @@
     <resourceDescriptors xmi:id="_YAsd8K02EeeTbJlYDwtuwA" id="-VRxHN5a9PlJ5F6Y2fxTA3w" uri="roles/Jefe%20de%20proyecto%20(PM)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAtsEK02EeeTbJlYDwtuwA" id="-pcfmaYu7UhOl_mNTx0rKfA" uri="roles/Validador%20(VAL)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAvhQK02EeeTbJlYDwtuwA" id="-H4-c15yeUs7JvQnQSTVlDw" uri="roles/Verificador%20(VER)%202.xmi"/>
-    <resourceDescriptors xmi:id="_Kk38kK03EeeTbJlYDwtuwA" id="-VR5wqhFJEkkOHf45JFWt-g" uri="tasks/1)%20Redactar%20Plan%20de%20Garantía%20de%20Calidad%20del%20Software%202.xmi"/>
-    <resourceDescriptors xmi:id="_tDJqALKaEeeZ_J4nQ47s2A" id="-tFJfbrWUndpqMiSOR-WDHA" uri="guidances/templates/Plantilla%20Plan.xmi"/>
+    <resourceDescriptors xmi:id="_Kk38kK03EeeTbJlYDwtuwA" id="-VR5wqhFJEkkOHf45JFWt-g" uri="tasks/1)%20Redactar%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_tDJqALKaEeeZ_J4nQ47s2A" id="-tFJfbrWUndpqMiSOR-WDHA" uri="guidances/templates/Template%20-%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_Hexd4LglEeePcv8WYT7Ymg" id="-a4924Mib7wegzNbuj-pQoA" uri="guidances/guidelines/Estructura%20SIL%200.xmi"/>
+    <resourceDescriptors xmi:id="_F5tKQLg1EeePcv8WYT7Ymg" id="-5Rwgno_oHbKpAlSWy1wumA" uri="guidances/guidelines/Estructura%20SIL%203-4.xmi"/>
+    <resourceDescriptors xmi:id="_xadKsLjrEeeZeLPMD4Xhmw" id="-jeG-7mA8nGUYQOk3H3Sz8w" uri="guidances/guidelines/Estructura%20SIL%201-2.xmi"/>
+    <resourceDescriptors xmi:id="_yd51oLj0EeepNNDSMGJFeQ" id="-iAfbqf0u6pPJTSK2C33-SA" uri="guidances/checklists/checklist_sil_0.xmi"/>
+    <resourceDescriptors xmi:id="_rtK58Lj6EeepNNDSMGJFeQ" id="-ncR8GZSC-8lxpk2Iv_5AeQ" uri="guidances/checklists/checklist_SIL_1-2.xmi"/>
+    <resourceDescriptors xmi:id="_C9toQLj7EeepNNDSMGJFeQ" id="-Nspk7JZlvp5DUIKUIb5A9A" uri="guidances/checklists/checklist_SIL_3-4.xmi"/>
+    <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20del%20Desarrollo/model.xmi"/>
+    <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -24,7 +32,9 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflpjGEeeafv7hrIg7lQ" name="WP Types" guid="_R1hflpjGEeeafv7hrIg7lQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfl5jGEeeafv7hrIg7lQ" name="Tools" guid="_R1hfl5jGEeeafv7hrIg7lQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfl5jGEeeafv7hrIg7lQ" name="Tools" guid="_R1hfl5jGEeeafv7hrIg7lQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_QKtiALgfEeePcv8WYT7Ymg" name="new_tool" guid="_QKtiALgfEeePcv8WYT7Ymg" presentationName="New Tool"/>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmJjGEeeafv7hrIg7lQ" name="StandardCategories" guid="_R1hfmJjGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmZjGEeeafv7hrIg7lQ" name="CustomCategories" guid="_R1hfmZjGEeeafv7hrIg7lQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmpjGEeeafv7hrIg7lQ" name="Hidden" guid="_R1hfmpjGEeeafv7hrIg7lQ">
@@ -87,32 +97,57 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooK03EeeTbJlYDwtuwA" name="Documentos del ciclo de vida (E)" guid="_E-wooK03EeeTbJlYDwtuwA" presentationName="Documentos del ciclo de vida">
             <methodElementProperty xmi:id="_E_MGcK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooa03EeeTbJlYDwtuwA" name="Informe de Verificación de Garantía de Calidad del Software (S)" guid="_E-wooa03EeeTbJlYDwtuwA" presentationName="Informe de Verificación de Garantía de Calidad del Software (S)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooa03EeeTbJlYDwtuwA" name="Informe de Verificacion de Garantia de Calidad del Software (S)" guid="_E-wooa03EeeTbJlYDwtuwA" presentationName="Informe de Verificación de Garantía de Calidad del Software (S)">
             <methodElementProperty xmi:id="_E_MGca03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsK03EeeTbJlYDwtuwA" name="Plan de Garantía de Calidad del Software (S)" guid="_E-xPsK03EeeTbJlYDwtuwA" presentationName="Plan de Garantía de Calidad del Software (S)" templates="_H4vlsLKWEeeZ_J4nQ47s2A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsK03EeeTbJlYDwtuwA" name="Plan de Garantia de Calidad del Software (S)" guid="_E-xPsK03EeeTbJlYDwtuwA" presentationName="Plan de Garantía de Calidad del Software (S)" templates="_H4vlsLKWEeeZ_J4nQ47s2A">
             <methodElementProperty xmi:id="_E_MGcq03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsa03EeeTbJlYDwtuwA" name="Plan de Gestión de la Configuración del Software (S)" guid="_E-xPsa03EeeTbJlYDwtuwA" presentationName="Plan de Gestión de la Configuración del Software (S)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsa03EeeTbJlYDwtuwA" name="Plan de Gestion de la Configuracion del Software (S)" guid="_E-xPsa03EeeTbJlYDwtuwA" presentationName="Plan de Gestión de la Configuración del Software (S)">
             <methodElementProperty xmi:id="_E_MGc603EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="1) Redactar Plan de Garantía de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="1) Redactar Plan de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="1) Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="1) Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_Kk1gUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-VR5wqhFJEkkOHf45JFWt-g" href="uma://-VR5wqhFJEkkOHf45JFWt-g#-VR5wqhFJEkkOHf45JFWt-g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MwanEK03EeeTbJlYDwtuwA" name="2) Redactar Informe de Verificación de Garantía de Calidad del Software" guid="_MwanEK03EeeTbJlYDwtuwA" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-wooa03EeeTbJlYDwtuwA" optionalInput="_E-xPsK03EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MwanEK03EeeTbJlYDwtuwA" name="2) Redactar Informe de Verificacion de Garantia de Calidad del Software" guid="_MwanEK03EeeTbJlYDwtuwA" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-wooa03EeeTbJlYDwtuwA" optionalInput="_E-xPsK03EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_MwwlUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H4vlsLKWEeeZ_J4nQ47s2A" name="Plantilla Plan" guid="_H4vlsLKWEeeZ_J4nQ47s2A" presentationName="Plantilla Plan">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H4vlsLKWEeeZ_J4nQ47s2A" name="Template - Plan de Garantia de Calidad del Software" guid="_H4vlsLKWEeeZ_J4nQ47s2A" presentationName="Plantilla - Plan garantia de calidad">
             <methodElementProperty xmi:id="_KFVZELKWEeeZ_J4nQ47s2A" name="me_edited" value="true"/>
             <presentation xmi:id="-tFJfbrWUndpqMiSOR-WDHA" href="uma://-tFJfbrWUndpqMiSOR-WDHA#-tFJfbrWUndpqMiSOR-WDHA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_fQbZYLgeEeePcv8WYT7Ymg" name="Estructura SIL 1-2" guid="_fQbZYLgeEeePcv8WYT7Ymg" presentationName="Estructura SIL 1-2" shapeicon="guidances/guidelines/resources/SIL+1-2(Nuevo).png" checklists="_3K5W8Lj5EeepNNDSMGJFeQ">
+            <methodElementProperty xmi:id="_uQwlALgeEeePcv8WYT7Ymg" name="me_edited" value="true"/>
+            <presentation xmi:id="-jeG-7mA8nGUYQOk3H3Sz8w" href="uma://-jeG-7mA8nGUYQOk3H3Sz8w#-jeG-7mA8nGUYQOk3H3Sz8w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_UNY7ALgkEeePcv8WYT7Ymg" name="Estructura SIL 0" guid="_UNY7ALgkEeePcv8WYT7Ymg" presentationName="Estructura SIL 0" shapeicon="guidances/guidelines/resources/SIL+0(Nuevo).png" checklists="_niwWsLj0EeepNNDSMGJFeQ">
+            <methodElementProperty xmi:id="_Y3ZzELgkEeePcv8WYT7Ymg" name="me_edited" value="true"/>
+            <presentation xmi:id="-a4924Mib7wegzNbuj-pQoA" href="uma://-a4924Mib7wegzNbuj-pQoA#-a4924Mib7wegzNbuj-pQoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_doCdQLg0EeePcv8WYT7Ymg" name="Estructura SIL 3-4" guid="_doCdQLg0EeePcv8WYT7Ymg" presentationName="Estructura SIL 3-4" shapeicon="guidances/guidelines/resources/SIL+3-4(Nuevo).png" checklists="_8-ma8Lj5EeepNNDSMGJFeQ">
+            <methodElementProperty xmi:id="_f6GmgLg0EeePcv8WYT7Ymg" name="me_edited" value="true"/>
+            <presentation xmi:id="-5Rwgno_oHbKpAlSWy1wumA" href="uma://-5Rwgno_oHbKpAlSWy1wumA#-5Rwgno_oHbKpAlSWy1wumA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_niwWsLj0EeepNNDSMGJFeQ" name="checklist_SIL_0" guid="_niwWsLj0EeepNNDSMGJFeQ" presentationName="checklist_SIL_0">
+            <methodElementProperty xmi:id="_s7dgwLj0EeepNNDSMGJFeQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-iAfbqf0u6pPJTSK2C33-SA" href="uma://-iAfbqf0u6pPJTSK2C33-SA#-iAfbqf0u6pPJTSK2C33-SA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_3K5W8Lj5EeepNNDSMGJFeQ" name="checklist_SIL_1-2" guid="_3K5W8Lj5EeepNNDSMGJFeQ" presentationName="checklist_SIL_1-2">
+            <methodElementProperty xmi:id="_8cCgcLj5EeepNNDSMGJFeQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ncR8GZSC-8lxpk2Iv_5AeQ" href="uma://-ncR8GZSC-8lxpk2Iv_5AeQ#-ncR8GZSC-8lxpk2Iv_5AeQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_8-ma8Lj5EeepNNDSMGJFeQ" name="checklist_SIL_3-4" guid="_8-ma8Lj5EeepNNDSMGJFeQ" presentationName="checklist_SIL_3-4">
+            <methodElementProperty xmi:id="_-GAu8Lj5EeepNNDSMGJFeQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Nspk7JZlvp5DUIKUIb5A9A" href="uma://-Nspk7JZlvp5DUIKUIb5A9A#-Nspk7JZlvp5DUIKUIb5A9A"/>
           </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGopjGEeeafv7hrIg7lQ" name="CapabilityPatterns" guid="_R1iGopjGEeeafv7hrIg7lQ"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGo5jGEeeafv7hrIg7lQ" name="DeliveryProcesses" guid="_R1iGo5jGEeeafv7hrIg7lQ">
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_VE_1IKOvEeeGc7DhWFpAog" href="uma://_VE_1IKOvEeeGc7DhWFpAog#_VE_1IKOvEeeGc7DhWFpAog"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_SHQ1oLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1oLqNEeexnaZ05SXmkw"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_ERn5ELsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5ELsdEee0oJqAmnTP4g"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGpJjGEeeafv7hrIg7lQ" name="ProcessContributions" guid="_R1iGpJjGEeeafv7hrIg7lQ"/>
   </org.eclipse.epf.uma:MethodPlugin>

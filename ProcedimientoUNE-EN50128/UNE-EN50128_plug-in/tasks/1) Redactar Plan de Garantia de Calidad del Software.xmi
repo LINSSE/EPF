@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VR5wqhFJEkkOHf45JFWt-g" name="1) Redactar Plan de Garantía de Calidad del Software,_fB1SgKN_EeeYD-dxpZ0cxw" guid="-VR5wqhFJEkkOHf45JFWt-g">
+  <sections xmi:id="_Kkb3s603EeeTbJlYDwtuwA" name="a) Definir el ciclo de vida que se va utilizar en el proyecto:" guid="_Kkb3s603EeeTbJlYDwtuwA">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>1) actividades y tareas básicas&#xD;
+    compatibles con los planes, por ejemplo, el Plan de Seguridad que se ha establecido a Nivel del sistema;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>2) criterios de entrada y salida de&#xD;
+    cada actividad;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>3) entradas y salidas de cada&#xD;
+    actividad;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>4) principales actividades de&#xD;
+    calidad;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>5) entidad responsable de cada&#xD;
+    actividad.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3ta03EeeTbJlYDwtuwA" name="b) Definir la estructura de la documentación." guid="_Kkb3ta03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_Kkb3sa03EeeTbJlYDwtuwA" name="c) Definir el control de la documentación:" guid="_Kkb3sa03EeeTbJlYDwtuwA">
+    <sectionDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>1) roles de aquellos implicados en su&#xD;
+    redacción, control y aprobación;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>2) campo de aplicación de la&#xD;
+    distribución;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>3) archivo.&lt;/font>&lt;/font>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_Kkb3tK03EeeTbJlYDwtuwA" name="d) Definir como se realizará el seguimiento y trazabilidad de las desviaciones." guid="_Kkb3tK03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_Kkb3tq03EeeTbJlYDwtuwA" name="e) Definir los métodos, medidas y herramientas para la garantía de calidad en función de los niveles de integridad de seguridad (ver Estructura SIL 0, 1-2 y 3-4)" guid="_Kkb3tq03EeeTbJlYDwtuwA"/>
+  <sections xmi:id="_Kkb3sq03EeeTbJlYDwtuwA" name="f) Realizar justificaciones, de que cada combinación de técnicas o medidas seleccionada es apropiada para cada nivel definido de integridad de seguridad del software. " guid="_Kkb3sq03EeeTbJlYDwtuwA"/>
+</org.eclipse.epf.uma:TaskDescription>
