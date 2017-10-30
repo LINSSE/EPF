@@ -1,28 +1,46 @@
-Info: DeliveryProcess:Garantia de Calidad: 145 mini seconds publishing element
-Info: DeliveryProcess:Garantia de Calidad: 37 mini seconds publishing process specific layout data
-Info: Task:1) Redactar Plan de Garantia de Calidad del Software: 44 mini seconds publishing element
-Info: TaskDescriptor:1) Redactar Plan de Garantia de Calidad del Software: 148 mini seconds publishing element
-Info: Role:Verificador (VER): 25 mini seconds publishing element
-Info: RoleDescriptor:Verificador (VER): 116 mini seconds publishing element
-Info: Artifact:Documentos del ciclo de vida (E): 7 mini seconds publishing element
-Info: WorkProductDescriptor:Documentos del ciclo de vida (E): 165 mini seconds publishing element
-Info: Artifact:Plan de Garantia de Calidad del Software (S): 7 mini seconds publishing element
+Info: DeliveryProcess:Garantia de Calidad: 259 mini seconds publishing element
+Info: DeliveryProcess:Garantia de Calidad: 113 mini seconds publishing process specific layout data
+Info: Task:1) Redactar Plan de Garantia de Calidad del Software: 19 mini seconds publishing element
+Info: TaskDescriptor:1) Redactar Plan de Garantia de Calidad del Software: 15 mini seconds publishing element
+Info: Role:Verificador (VER): 40 mini seconds publishing element
+Info: RoleDescriptor:Verificador (VER): 9 mini seconds publishing element
+Info: Role:Disenador (DES): 17 mini seconds publishing element
+Info: RoleDescriptor:Disenador (DES): 6 mini seconds publishing element
+Info: Role:Encargado de los ensayos (TST): 17 mini seconds publishing element
+Info: RoleDescriptor:Encargado de los ensayos (TST): 7 mini seconds publishing element
+Info: Role:Evaluador (ASR): 22 mini seconds publishing element
+Info: RoleDescriptor:Evaluador (ASR): 6 mini seconds publishing element
+Info: Role:Gestor de Configuracion: 16 mini seconds publishing element
+Info: RoleDescriptor:Gestor de Configuracion: 5 mini seconds publishing element
+Info: Role:Gestor de requisitos (RQM): 15 mini seconds publishing element
+Info: RoleDescriptor:Gestor de requisitos (RQM): 6 mini seconds publishing element
+Info: Role:Implementador (IMP): 15 mini seconds publishing element
+Info: RoleDescriptor:Implementador (IMP): 6 mini seconds publishing element
+Info: Role:Integrador (INT): 17 mini seconds publishing element
+Info: RoleDescriptor:Integrador (INT): 6 mini seconds publishing element
+Info: Role:Jefe de proyecto (PM): 16 mini seconds publishing element
+Info: RoleDescriptor:Jefe de proyecto (PM): 6 mini seconds publishing element
+Info: Role:Validador (VAL): 17 mini seconds publishing element
+Info: RoleDescriptor:Validador (VAL): 7 mini seconds publishing element
+Info: Artifact:Documentos del ciclo de vida (E): 5 mini seconds publishing element
+Info: WorkProductDescriptor:Documentos del ciclo de vida (E): 6 mini seconds publishing element
+Info: Artifact:Plan de Garantia de Calidad del Software (S): 10 mini seconds publishing element
 Info: WorkProductDescriptor:Plan de Garantia de Calidad del Software (S): 7 mini seconds publishing element
-Info: Task:2) Redactar Informe de Verificacion de Garantia de Calidad del Software: 6 mini seconds publishing element
-Info: TaskDescriptor:2) Redactar Informe de Verificacion de Garantia de Calidad del Software: 7 mini seconds publishing element
-Info: Artifact:Informe de Verificacion de Garantia de Calidad del Software (S): 6 mini seconds publishing element
-Info: WorkProductDescriptor:Informe de Verificacion de Garantia de Calidad del Software (S): 7 mini seconds publishing element
-Info: Guideline:Estructura SIL 0: 10 mini seconds publishing element
-Info: Guideline:Estructura SIL 1-2: 5 mini seconds publishing element
-Info: Guideline:Estructura SIL 3-4: 5 mini seconds publishing element
-Info: Template:Template - Plan de Garantia de Calidad del Software: 7 mini seconds publishing element
-Info: CustomCategory:Configuration free process view: 6 mini seconds publishing element
-Info: CustomCategory:Tasks: 4 mini seconds publishing element
-Info: CustomCategory:Roles: 4 mini seconds publishing element
-Info: CustomCategory:Work Products: 4 mini seconds publishing element
-Info: CustomCategory:Guidance: 5 mini seconds publishing element
-Info: Checklist:checklist_SIL_1-2: 13 mini seconds publishing element
-Info: Checklist:checklist_SIL_3-4: 9 mini seconds publishing element
-Info: Checklist:checklist_SIL_0: 8 mini seconds publishing element
-Info: CustomCategory:Processes: 8 mini seconds publishing element
+Info: Task:2) Redactar Informe de Verificacion de Garantia de Calidad del Software: 5 mini seconds publishing element
+Info: TaskDescriptor:2) Redactar Informe de Verificacion de Garantia de Calidad del Software: 10 mini seconds publishing element
+Info: Artifact:Informe de Verificacion de Garantia de Calidad del Software (S): 8 mini seconds publishing element
+Info: WorkProductDescriptor:Informe de Verificacion de Garantia de Calidad del Software (S): 6 mini seconds publishing element
+Info: Guideline:Estructura SIL 0: 6 mini seconds publishing element
+Info: Guideline:Estructura SIL 1-2: 35 mini seconds publishing element
+Info: Guideline:Estructura SIL 3-4: 7 mini seconds publishing element
+Info: Template:Formulario - Plan de Garantia de Calidad del Software: 15 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 9 mini seconds publishing element
+Info: CustomCategory:Tasks: 6 mini seconds publishing element
+Info: CustomCategory:Roles: 7 mini seconds publishing element
+Info: CustomCategory:Work Products: 6 mini seconds publishing element
+Info: CustomCategory:Guidance: 7 mini seconds publishing element
+Info: Checklist:checklist_SIL_0: 16 mini seconds publishing element
+Info: Checklist:checklist_SIL_1-2: 11 mini seconds publishing element
+Info: Checklist:checklist_SIL_3-4: 71 mini seconds publishing element
+Info: CustomCategory:Processes: 11 mini seconds publishing element
 Info: : Publishing time: 0 minutes 1 seconds
