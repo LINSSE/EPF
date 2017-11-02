@@ -3,10 +3,10 @@
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_R1rQkJjGEeeafv7hrIg7lQ" guid="_R1rQkJjGEeeafv7hrIg7lQ">
     <subManagers xmi:id="_SH3SkLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SH3SkLqNEeexnaZ05SXmkw"/>
     <subManagers xmi:id="_ESQyQLsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ESQyQLsdEee0oJqAmnTP4g"/>
-    <resourceDescriptors xmi:id="_YAEy4K02EeeTbJlYDwtuwA" id="-5zKjj2rW0C57huOsgn7Euw" uri="roles/Diseñador%20(DES)%202.xmi"/>
+    <resourceDescriptors xmi:id="_YAEy4K02EeeTbJlYDwtuwA" id="-5zKjj2rW0C57huOsgn7Euw" uri="roles/Disenador%20(DES).xmi"/>
     <resourceDescriptors xmi:id="_YAj7EK02EeeTbJlYDwtuwA" id="-Tpo-xPB9u1vGKvrJg-v2jA" uri="roles/Encargado%20de%20los%20ensayos%20(TST)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAlwQK02EeeTbJlYDwtuwA" id="-cQ3kVC0Xwk0q2aAsz9FKZg" uri="roles/Evaluador%20(ASR)%202.xmi"/>
-    <resourceDescriptors xmi:id="_YAm-YK02EeeTbJlYDwtuwA" id="-6laEeOYM7rMludb_eARZHg" uri="roles/Gestor%20de%20Configuración%202.xmi"/>
+    <resourceDescriptors xmi:id="_YAm-YK02EeeTbJlYDwtuwA" id="-6laEeOYM7rMludb_eARZHg" uri="roles/Gestor%20de%20Configuracion.xmi"/>
     <resourceDescriptors xmi:id="_YAoMgK02EeeTbJlYDwtuwA" id="-sWdTJZVipc9xt_FDR_3_og" uri="roles/Gestor%20de%20requisitos%20(RQM)%202.xmi"/>
     <resourceDescriptors xmi:id="_YApaoK02EeeTbJlYDwtuwA" id="-NO9xK3YKp0hxfYzeRj6GMw" uri="roles/Implementador%20(IMP)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAqowK02EeeTbJlYDwtuwA" id="-xtfsegkvdiqtiG8-JPizRQ" uri="roles/Integrador%20(INT)%202.xmi"/>
@@ -14,14 +14,14 @@
     <resourceDescriptors xmi:id="_YAtsEK02EeeTbJlYDwtuwA" id="-pcfmaYu7UhOl_mNTx0rKfA" uri="roles/Validador%20(VAL)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAvhQK02EeeTbJlYDwtuwA" id="-H4-c15yeUs7JvQnQSTVlDw" uri="roles/Verificador%20(VER)%202.xmi"/>
     <resourceDescriptors xmi:id="_Kk38kK03EeeTbJlYDwtuwA" id="-VR5wqhFJEkkOHf45JFWt-g" uri="tasks/1)%20Redactar%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
-    <resourceDescriptors xmi:id="_tDJqALKaEeeZ_J4nQ47s2A" id="-tFJfbrWUndpqMiSOR-WDHA" uri="guidances/templates/Template%20-%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_tDJqALKaEeeZ_J4nQ47s2A" id="-tFJfbrWUndpqMiSOR-WDHA" uri="guidances/templates/Formulario%20-%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
     <resourceDescriptors xmi:id="_Hexd4LglEeePcv8WYT7Ymg" id="-a4924Mib7wegzNbuj-pQoA" uri="guidances/guidelines/Estructura%20SIL%200.xmi"/>
     <resourceDescriptors xmi:id="_F5tKQLg1EeePcv8WYT7Ymg" id="-5Rwgno_oHbKpAlSWy1wumA" uri="guidances/guidelines/Estructura%20SIL%203-4.xmi"/>
     <resourceDescriptors xmi:id="_xadKsLjrEeeZeLPMD4Xhmw" id="-jeG-7mA8nGUYQOk3H3Sz8w" uri="guidances/guidelines/Estructura%20SIL%201-2.xmi"/>
     <resourceDescriptors xmi:id="_yd51oLj0EeepNNDSMGJFeQ" id="-iAfbqf0u6pPJTSK2C33-SA" uri="guidances/checklists/checklist_sil_0.xmi"/>
     <resourceDescriptors xmi:id="_rtK58Lj6EeepNNDSMGJFeQ" id="-ncR8GZSC-8lxpk2Iv_5AeQ" uri="guidances/checklists/checklist_SIL_1-2.xmi"/>
     <resourceDescriptors xmi:id="_C9toQLj7EeepNNDSMGJFeQ" id="-Nspk7JZlvp5DUIKUIb5A9A" uri="guidances/checklists/checklist_SIL_3-4.xmi"/>
-    <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20del%20Desarrollo/model.xmi"/>
+    <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20en%20V/model.xmi"/>
     <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
@@ -29,17 +29,39 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkZjGEeeafv7hrIg7lQ" name="Content" guid="_R1hfkZjGEeeafv7hrIg7lQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkpjGEeeafv7hrIg7lQ" name="Categories" guid="_R1hfkpjGEeeafv7hrIg7lQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfk5jGEeeafv7hrIg7lQ" name="Domains" guid="_R1hfk5jGEeeafv7hrIg7lQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflpjGEeeafv7hrIg7lQ" name="WP Types" guid="_R1hflpjGEeeafv7hrIg7lQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfl5jGEeeafv7hrIg7lQ" name="Tools" guid="_R1hfl5jGEeeafv7hrIg7lQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_QKtiALgfEeePcv8WYT7Ymg" name="new_tool" guid="_QKtiALgfEeePcv8WYT7Ymg" presentationName="New Tool"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
+            <methodElementProperty xmi:id="_osht4MAVEeepstfmonv3dA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7f4fMMAVEeepstfmonv3dA" name="procesos" guid="_7f4fMMAVEeepstfmonv3dA" presentationName="Procesos">
+            <methodElementProperty xmi:id="_8Y6Y8MAVEeepstfmonv3dA" name="me_edited" value="true"/>
+            <referenceWorkflows href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5EbsdEee0oJqAmnTP4g"/>
+          </contentElements>
         </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_DzsaYMAUEeepstfmonv3dA" name="roles" guid="_DzsaYMAUEeepstfmonv3dA" presentationName="Roles" roles="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA _X_FUYa02EeeTbJlYDwtuwA">
+            <methodElementProperty xmi:id="_E876YMAUEeepstfmonv3dA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflpjGEeeafv7hrIg7lQ" name="WP Types" guid="_R1hflpjGEeeafv7hrIg7lQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_rUymEMAUEeepstfmonv3dA" name="productos" guid="_rUymEMAUEeepstfmonv3dA" presentationName="Productos" workProducts="_E-wooK03EeeTbJlYDwtuwA _E-wooa03EeeTbJlYDwtuwA _E-xPsK03EeeTbJlYDwtuwA _E-xPsa03EeeTbJlYDwtuwA">
+            <methodElementProperty xmi:id="_vmHRUMAUEeepstfmonv3dA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfl5jGEeeafv7hrIg7lQ" name="Tools" guid="_R1hfl5jGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmJjGEeeafv7hrIg7lQ" name="StandardCategories" guid="_R1hfmJjGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmZjGEeeafv7hrIg7lQ" name="CustomCategories" guid="_R1hfmZjGEeeafv7hrIg7lQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfmpjGEeeafv7hrIg7lQ" name="Hidden" guid="_R1hfmpjGEeeafv7hrIg7lQ">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_R1iGoJjGEeeafv7hrIg7lQ" name="Custom Categories" guid="_R1iGoJjGEeeafv7hrIg7lQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_R1iGoJjGEeeafv7hrIg7lQ" name="Custom Categories" guid="_R1iGoJjGEeeafv7hrIg7lQ" categorizedElements="_kVEXsMAQEeeGdvmz7d8XrA"/>
           </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_kVEXsMAQEeeGdvmz7d8XrA" name="custom_category" guid="_kVEXsMAQEeeGdvmz7d8XrA" presentationName="UNE-EN 50128">
+            <methodElementProperty xmi:id="_xvHFgMAREeeGdvmz7d8XrA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1obqNEeexnaZ05SXmkw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_DzsaYMAUEeepstfmonv3dA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_rUymEMAUEeepstfmonv3dA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_nJz98MAVEeepstfmonv3dA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_7f4fMMAVEeepstfmonv3dA"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1iGoZjGEeeafv7hrIg7lQ" name="CoreContent" guid="_R1iGoZjGEeeafv7hrIg7lQ">
@@ -54,39 +76,39 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_g2jEIK0REeeTbJlYDwtuwA" name="Base" guid="_g2jEIK0REeeTbJlYDwtuwA" presentationName="Base">
           <methodElementProperty xmi:id="_g2kSQK0REeeTbJlYDwtuwA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_ittaEK0REeeTbJlYDwtuwA" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Diseñador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="DES" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">
             <methodElementProperty xmi:id="_X_lDoK02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-5zKjj2rW0C57huOsgn7Euw" href="uma://-5zKjj2rW0C57huOsgn7Euw#-5zKjj2rW0C57huOsgn7Euw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMa02EeeTbJlYDwtuwA" name="Encargado de los ensayos (TST)" guid="_X_DfMa02EeeTbJlYDwtuwA" presentationName="TST" briefDescription="Entidad que realiza los ensayos.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMa02EeeTbJlYDwtuwA" name="Encargado de los ensayos (TST)" guid="_X_DfMa02EeeTbJlYDwtuwA" presentationName="Encargado de los ensayos (TST)" briefDescription="Entidad que realiza los ensayos.">
             <methodElementProperty xmi:id="_X_lDoa02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-Tpo-xPB9u1vGKvrJg-v2jA" href="uma://-Tpo-xPB9u1vGKvrJg-v2jA#-Tpo-xPB9u1vGKvrJg-v2jA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQK02EeeTbJlYDwtuwA" name="Evaluador (ASR)" guid="_X_EGQK02EeeTbJlYDwtuwA" presentationName="ASR" briefDescription="Entidad encargada de realizar una evaluación.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQK02EeeTbJlYDwtuwA" name="Evaluador (ASR)" guid="_X_EGQK02EeeTbJlYDwtuwA" presentationName="Evaluador (ASR)" briefDescription="Entidad encargada de realizar una evaluación.">
             <methodElementProperty xmi:id="_X_lDoq02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-cQ3kVC0Xwk0q2aAsz9FKZg" href="uma://-cQ3kVC0Xwk0q2aAsz9FKZg#-cQ3kVC0Xwk0q2aAsz9FKZg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQa02EeeTbJlYDwtuwA" name="Gestor de Configuración" guid="_X_EGQa02EeeTbJlYDwtuwA" presentationName="Gestor de Configuración" briefDescription="Entidad responsable de implementar y realizar los procesos para la gestión de la configuración de los documentos, del&#xD;&#xA;software y de las herramientas relacionadas, incluyendo la gestión de las modificaciones.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQa02EeeTbJlYDwtuwA" name="Gestor de Configuracion" guid="_X_EGQa02EeeTbJlYDwtuwA" presentationName="Gestor de Configuración" briefDescription="Entidad responsable de implementar y realizar los procesos para la gestión de la configuración de los documentos, del&#xD;&#xA;software y de las herramientas relacionadas, incluyendo la gestión de las modificaciones.">
             <methodElementProperty xmi:id="_X_lDo602EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-6laEeOYM7rMludb_eARZHg" href="uma://-6laEeOYM7rMludb_eARZHg#-6laEeOYM7rMludb_eARZHg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQq02EeeTbJlYDwtuwA" name="Gestor de requisitos (RQM)" guid="_X_EGQq02EeeTbJlYDwtuwA" presentationName="RQM" briefDescription="Entidad que lleva a cabo la gestión de requisitos.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EGQq02EeeTbJlYDwtuwA" name="Gestor de requisitos (RQM)" guid="_X_EGQq02EeeTbJlYDwtuwA" presentationName="Gestor de requisitos (RQM)" briefDescription="Entidad que lleva a cabo la gestión de requisitos.">
             <methodElementProperty xmi:id="_X_lDpK02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-sWdTJZVipc9xt_FDR_3_og" href="uma://-sWdTJZVipc9xt_FDR_3_og#-sWdTJZVipc9xt_FDR_3_og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUK02EeeTbJlYDwtuwA" name="Implementador (IMP)" guid="_X_EtUK02EeeTbJlYDwtuwA" presentationName="IMP" briefDescription="Entidad que transforma los diseños especificados en sus realizaciones físicas.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUK02EeeTbJlYDwtuwA" name="Implementador (IMP)" guid="_X_EtUK02EeeTbJlYDwtuwA" presentationName="Implementador (IMP)" briefDescription="Entidad que transforma los diseños especificados en sus realizaciones físicas.">
             <methodElementProperty xmi:id="_X_lDpa02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-NO9xK3YKp0hxfYzeRj6GMw" href="uma://-NO9xK3YKp0hxfYzeRj6GMw#-NO9xK3YKp0hxfYzeRj6GMw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUa02EeeTbJlYDwtuwA" name="Integrador (INT)" guid="_X_EtUa02EeeTbJlYDwtuwA" presentationName="INT" briefDescription="Entidad que lleva a cabo la integración del software.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUa02EeeTbJlYDwtuwA" name="Integrador (INT)" guid="_X_EtUa02EeeTbJlYDwtuwA" presentationName="Integrador (INT)" briefDescription="Entidad que lleva a cabo la integración del software.">
             <methodElementProperty xmi:id="_X_lDpq02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-xtfsegkvdiqtiG8-JPizRQ" href="uma://-xtfsegkvdiqtiG8-JPizRQ#-xtfsegkvdiqtiG8-JPizRQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUq02EeeTbJlYDwtuwA" name="Jefe de proyecto (PM)" guid="_X_EtUq02EeeTbJlYDwtuwA" presentationName="PM" briefDescription="Entidad encargada de realizar la dirección de un proyecto.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_EtUq02EeeTbJlYDwtuwA" name="Jefe de proyecto (PM)" guid="_X_EtUq02EeeTbJlYDwtuwA" presentationName="Jefe de proyecto (PM)" briefDescription="Entidad encargada de realizar la dirección de un proyecto.">
             <methodElementProperty xmi:id="_X_lqsK02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-VRxHN5a9PlJ5F6Y2fxTA3w" href="uma://-VRxHN5a9PlJ5F6Y2fxTA3w#-VRxHN5a9PlJ5F6Y2fxTA3w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_FUYK02EeeTbJlYDwtuwA" name="Validador (VAL)" guid="_X_FUYK02EeeTbJlYDwtuwA" presentationName="VAL" briefDescription="Entidad responsable de la validación.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_FUYK02EeeTbJlYDwtuwA" name="Validador (VAL)" guid="_X_FUYK02EeeTbJlYDwtuwA" presentationName="Validador (VAL)" briefDescription="Entidad responsable de la validación.">
             <methodElementProperty xmi:id="_X_lqsa02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-pcfmaYu7UhOl_mNTx0rKfA" href="uma://-pcfmaYu7UhOl_mNTx0rKfA#-pcfmaYu7UhOl_mNTx0rKfA"/>
           </contentElements>
@@ -106,14 +128,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsa03EeeTbJlYDwtuwA" name="Plan de Gestion de la Configuracion del Software (S)" guid="_E-xPsa03EeeTbJlYDwtuwA" presentationName="Plan de Gestión de la Configuración del Software (S)">
             <methodElementProperty xmi:id="_E_MGc603EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="1) Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="1) Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="1) Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="1) Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA" additionallyPerformedBy="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_Kk1gUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-VR5wqhFJEkkOHf45JFWt-g" href="uma://-VR5wqhFJEkkOHf45JFWt-g#-VR5wqhFJEkkOHf45JFWt-g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MwanEK03EeeTbJlYDwtuwA" name="2) Redactar Informe de Verificacion de Garantia de Calidad del Software" guid="_MwanEK03EeeTbJlYDwtuwA" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-wooa03EeeTbJlYDwtuwA" optionalInput="_E-xPsK03EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_MwwlUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H4vlsLKWEeeZ_J4nQ47s2A" name="Template - Plan de Garantia de Calidad del Software" guid="_H4vlsLKWEeeZ_J4nQ47s2A" presentationName="Plantilla - Plan garantia de calidad">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H4vlsLKWEeeZ_J4nQ47s2A" name="Formulario - Plan de Garantia de Calidad del Software" guid="_H4vlsLKWEeeZ_J4nQ47s2A" presentationName="Formulario - Plan garantia de calidad">
             <methodElementProperty xmi:id="_KFVZELKWEeeZ_J4nQ47s2A" name="me_edited" value="true"/>
             <presentation xmi:id="-tFJfbrWUndpqMiSOR-WDHA" href="uma://-tFJfbrWUndpqMiSOR-WDHA#-tFJfbrWUndpqMiSOR-WDHA"/>
           </contentElements>

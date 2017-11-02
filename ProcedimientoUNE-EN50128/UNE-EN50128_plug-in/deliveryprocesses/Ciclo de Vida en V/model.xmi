@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_SH3SkLqNEeexnaZ05SXmkw" guid="_SH3SkLqNEeexnaZ05SXmkw">
+    <resourceDescriptors xmi:id="_SH3SkbqNEeexnaZ05SXmkw" id="-oga0e-lEfZgtevQILy_IHg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_SHQ1oLqNEeexnaZ05SXmkw" name="Ciclo de Vida en V" guid="_SHQ1oLqNEeexnaZ05SXmkw">
+    <methodElementProperty xmi:id="_SHRcsLqNEeexnaZ05SXmkw" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_yTvkMLqNEeexnaZ05SXmkw" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WNMwQLqNEeexnaZ05SXmkw" name="New Phase" guid="_WNMwQLqNEeexnaZ05SXmkw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ftxucL9KEeeXR7irnfn8Jw" name="Especificacion Requisitos" guid="_ftxucL9KEeeXR7irnfn8Jw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_ftxucb9KEeeXR7irnfn8Jw" name="Especificacion Requisitos" guid="_ftxucb9KEeeXR7irnfn8Jw" presentationName="Especificación Requisitos del Sistema" superActivities="_WNcn4LqNEeexnaZ05SXmkw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_N5ZNIMAWEeepstfmonv3dA" name="especifi" guid="_N5ZNIMAWEeepstfmonv3dA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_N5ZNIcAWEeepstfmonv3dA" name="especifi" guid="_N5ZNIcAWEeepstfmonv3dA" presentationName="Especificación Requisitos de Seguridad del Sistema" superActivities="_WNcn4LqNEeexnaZ05SXmkw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_UH1sYMAWEeepstfmonv3dA" name="Descripcion de la Arquitectura del Sistema" guid="_UH1sYMAWEeepstfmonv3dA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_UH1sYcAWEeepstfmonv3dA" name="Descripcion de la Arquitectura del Sistema" guid="_UH1sYcAWEeepstfmonv3dA" presentationName="Descripción de la Arquitectura del Sistema" superActivities="_WNcn4LqNEeexnaZ05SXmkw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZQfoQMAWEeepstfmonv3dA" name="Plan de Seguridad del Sistema" guid="_ZQfoQMAWEeepstfmonv3dA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_ZQfoQcAWEeepstfmonv3dA" name="Plan de Seguridad del Sistema" guid="_ZQfoQcAWEeepstfmonv3dA" presentationName="Plan de Seguridad del Sistema" superActivities="_WNcn4LqNEeexnaZ05SXmkw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_WNcn4LqNEeexnaZ05SXmkw" name="New Phase" guid="_WNcn4LqNEeexnaZ05SXmkw" presentationName="Fase de Desarrollo del Sistema" superActivities="_SHQ1obqNEeexnaZ05SXmkw" breakdownElements="_ftxucb9KEeeXR7irnfn8Jw _N5ZNIcAWEeepstfmonv3dA _UH1sYcAWEeepstfmonv3dA _ZQfoQcAWEeepstfmonv3dA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pcWswLqNEeexnaZ05SXmkw" name="asdfsdf" guid="_pcWswLqNEeexnaZ05SXmkw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_uU5PIMAWEeepstfmonv3dA" name="espe" guid="_uU5PIMAWEeepstfmonv3dA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_uU5PIcAWEeepstfmonv3dA" name="espe" guid="_uU5PIcAWEeepstfmonv3dA" presentationName="Especificación de Requisitos del Software" superActivities="_pcWswbqNEeexnaZ05SXmkw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_pcWswbqNEeexnaZ05SXmkw" name="asdfsdf" guid="_pcWswbqNEeexnaZ05SXmkw" presentationName="Fase de Requisitos del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" breakdownElements="_uU5PIcAWEeepstfmonv3dA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pLbjcL6AEeeiGtSEVKM1dA" name="New Phase_2" guid="_pLbjcL6AEeeiGtSEVKM1dA">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_pLktYL6AEeeiGtSEVKM1dA" name="New Phase_2" guid="_pLktYL6AEeeiGtSEVKM1dA" presentationName="Arquitectura del Software y Fase de Diseño" superActivities="_SHQ1obqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yEkuYL6AEeeiGtSEVKM1dA" name="New Phase_3" guid="_yEkuYL6AEeeiGtSEVKM1dA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_cDTuIMAWEeepstfmonv3dA" name="Plan de Garantia de Calidad del Software" guid="_cDTuIMAWEeepstfmonv3dA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_cDTuIcAWEeepstfmonv3dA" name="Plan de Garantia de Calidad del Software" guid="_cDTuIcAWEeepstfmonv3dA" presentationName="Plan de Garantia de Calidad del Software" superActivities="_yEo_0L6AEeeiGtSEVKM1dA"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_yEo_0L6AEeeiGtSEVKM1dA" name="New Phase_3" guid="_yEo_0L6AEeeiGtSEVKM1dA" presentationName="Fase de Planificacion del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" breakdownElements="_cDTuIcAWEeepstfmonv3dA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_a2e3EL9EEeeXR7irnfn8Jw" name="New Phase_4" guid="_a2e3EL9EEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_a2gsQL9EEeeXR7irnfn8Jw" name="New Phase_4" guid="_a2gsQL9EEeeXR7irnfn8Jw" presentationName="Fase de Diseño de los Componentes del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SpVaAL9FEeeXR7irnfn8Jw" name="New Phase_5" guid="_SpVaAL9FEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_SpZEYL9FEeeXR7irnfn8Jw" name="New Phase_5" guid="_SpZEYL9FEeeXR7irnfn8Jw" presentationName="Fase de Implementación de los Componentes del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_h_GqIL9FEeeXR7irnfn8Jw" name="New Phase_6" guid="_h_GqIL9FEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_h_P0EL9FEeeXR7irnfn8Jw" name="New Phase_6" guid="_h_P0EL9FEeeXR7irnfn8Jw" presentationName="Fase de Ensayo de los Componentes del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" linkToPredecessor="_U4pUwL9GEeeXR7irnfn8Jw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_U4pUwL9GEeeXR7irnfn8Jw" guid="_U4pUwL9GEeeXR7irnfn8Jw" pred="_a2gsQL9EEeeXR7irnfn8Jw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hwwPoL9GEeeXR7irnfn8Jw" name="New Phase_7" guid="_hwwPoL9GEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_hw4LcL9GEeeXR7irnfn8Jw" name="New Phase_7" guid="_hw4LcL9GEeeXR7irnfn8Jw" presentationName="Fase de Integración del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" linkToPredecessor="_nViG0L9GEeeXR7irnfn8Jw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nViG0L9GEeeXR7irnfn8Jw" guid="_nViG0L9GEeeXR7irnfn8Jw" pred="_pLktYL6AEeeiGtSEVKM1dA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DmSmsL9HEeeXR7irnfn8Jw" name="New Phase_8" guid="_DmSmsL9HEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_DmYtUL9HEeeXR7irnfn8Jw" name="New Phase_8" guid="_DmYtUL9HEeeXR7irnfn8Jw" presentationName="Fase de Validación del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" linkToPredecessor="_PS_eYL9HEeeXR7irnfn8Jw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PS_eYL9HEeeXR7irnfn8Jw" guid="_PS_eYL9HEeeXR7irnfn8Jw" pred="_pcWswbqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bRQAIL9HEeeXR7irnfn8Jw" name="New Phase_9" guid="_bRQAIL9HEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_bRWt0L9HEeeXR7irnfn8Jw" name="New Phase_9" guid="_bRWt0L9HEeeXR7irnfn8Jw" presentationName="Fase de Mantenimiento del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fxt6ob9HEeeXR7irnfn8Jw" name="New Phase_10" guid="_fxt6ob9HEeeXR7irnfn8Jw">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_fx0oUL9HEeeXR7irnfn8Jw" name="New Phase_10" guid="_fx0oUL9HEeeXR7irnfn8Jw" presentationName="Fase de Evaluación del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_SHQ1obqNEeexnaZ05SXmkw" name="Ciclo de Vida en V" guid="_SHQ1obqNEeexnaZ05SXmkw" presentationName="Ciclo de Vida en V" breakdownElements="_WNcn4LqNEeexnaZ05SXmkw _pcWswbqNEeexnaZ05SXmkw _pLktYL6AEeeiGtSEVKM1dA _yEo_0L6AEeeiGtSEVKM1dA _a2gsQL9EEeeXR7irnfn8Jw _SpZEYL9FEeeXR7irnfn8Jw _h_P0EL9FEeeXR7irnfn8Jw _hw4LcL9GEeeXR7irnfn8Jw _DmYtUL9HEeeXR7irnfn8Jw _bRWt0L9HEeeXR7irnfn8Jw _fx0oUL9HEeeXR7irnfn8Jw">
+      <presentation xmi:id="-oga0e-lEfZgtevQILy_IHg" href="uma://-oga0e-lEfZgtevQILy_IHg#-oga0e-lEfZgtevQILy_IHg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
