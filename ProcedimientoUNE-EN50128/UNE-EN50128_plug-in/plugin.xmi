@@ -13,7 +13,7 @@
     <resourceDescriptors xmi:id="_YAsd8K02EeeTbJlYDwtuwA" id="-VRxHN5a9PlJ5F6Y2fxTA3w" uri="roles/Jefe%20de%20proyecto%20(PM)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAtsEK02EeeTbJlYDwtuwA" id="-pcfmaYu7UhOl_mNTx0rKfA" uri="roles/Validador%20(VAL)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAvhQK02EeeTbJlYDwtuwA" id="-H4-c15yeUs7JvQnQSTVlDw" uri="roles/Verificador%20(VER)%202.xmi"/>
-    <resourceDescriptors xmi:id="_Kk38kK03EeeTbJlYDwtuwA" id="-VR5wqhFJEkkOHf45JFWt-g" uri="tasks/1)%20Redactar%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_Kk38kK03EeeTbJlYDwtuwA" id="-VR5wqhFJEkkOHf45JFWt-g" uri="tasks/Redactar%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
     <resourceDescriptors xmi:id="_tDJqALKaEeeZ_J4nQ47s2A" id="-tFJfbrWUndpqMiSOR-WDHA" uri="guidances/templates/Formulario%20-%20Plan%20de%20Garantia%20de%20Calidad%20del%20Software.xmi"/>
     <resourceDescriptors xmi:id="_Hexd4LglEeePcv8WYT7Ymg" id="-a4924Mib7wegzNbuj-pQoA" uri="guidances/guidelines/Estructura%20SIL%200.xmi"/>
     <resourceDescriptors xmi:id="_F5tKQLg1EeePcv8WYT7Ymg" id="-5Rwgno_oHbKpAlSWy1wumA" uri="guidances/guidelines/Estructura%20SIL%203-4.xmi"/>
@@ -128,11 +128,11 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsa03EeeTbJlYDwtuwA" name="Plan de Gestion de la Configuracion del Software (S)" guid="_E-xPsa03EeeTbJlYDwtuwA" presentationName="Plan de Gestión de la Configuración del Software (S)">
             <methodElementProperty xmi:id="_E_MGc603EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="1) Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="1) Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA" additionallyPerformedBy="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA" additionallyPerformedBy="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_Kk1gUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-VR5wqhFJEkkOHf45JFWt-g" href="uma://-VR5wqhFJEkkOHf45JFWt-g#-VR5wqhFJEkkOHf45JFWt-g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MwanEK03EeeTbJlYDwtuwA" name="2) Redactar Informe de Verificacion de Garantia de Calidad del Software" guid="_MwanEK03EeeTbJlYDwtuwA" presentationName="2) Redactar Informe de Verificación de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-wooa03EeeTbJlYDwtuwA" optionalInput="_E-xPsK03EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MwanEK03EeeTbJlYDwtuwA" name="Redactar Informe de Verificacion de Garantia de Calidad del Software" guid="_MwanEK03EeeTbJlYDwtuwA" presentationName="Redactar Informe de Verificación de Garantía de Calidad del Software" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-wooa03EeeTbJlYDwtuwA" optionalInput="_E-xPsK03EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_MwwlUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H4vlsLKWEeeZ_J4nQ47s2A" name="Formulario - Plan de Garantia de Calidad del Software" guid="_H4vlsLKWEeeZ_J4nQ47s2A" presentationName="Formulario - Plan garantia de calidad">
