@@ -23,6 +23,7 @@
     <resourceDescriptors xmi:id="_C9toQLj7EeepNNDSMGJFeQ" id="-Nspk7JZlvp5DUIKUIb5A9A" uri="guidances/checklists/checklist_SIL_3-4.xmi"/>
     <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20en%20V/model.xmi"/>
     <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
+    <resourceDescriptors xmi:id="_5rll0NnZEeeandfM8vtSQw" id="-YIhnYAjVRzBF0A0X4d-4jA" uri="tasks/Construir_el_entorno_de_gestin_colaborativa_del_proyecto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -162,6 +163,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_8-ma8Lj5EeepNNDSMGJFeQ" name="checklist_SIL_3-4" guid="_8-ma8Lj5EeepNNDSMGJFeQ" presentationName="checklist_SIL_3-4">
             <methodElementProperty xmi:id="_-GAu8Lj5EeepNNDSMGJFeQ" name="me_edited" value="true"/>
             <presentation xmi:id="-Nspk7JZlvp5DUIKUIb5A9A" href="uma://-Nspk7JZlvp5DUIKUIb5A9A#-Nspk7JZlvp5DUIKUIb5A9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-RFmwNnYEeeandfM8vtSQw" name="Construir_el_entorno_de_gestin_colaborativa_del_proyecto" guid="_-RFmwNnYEeeandfM8vtSQw" presentationName="Construir el entorno de gestión colaborativa del proyecto">
+            <methodElementProperty xmi:id="_5rZYkNnZEeeandfM8vtSQw" name="me_edited" value="true"/>
+            <presentation xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" href="uma://-YIhnYAjVRzBF0A0X4d-4jA#-YIhnYAjVRzBF0A0X4d-4jA"/>
           </contentElements>
         </childPackages>
       </childPackages>
