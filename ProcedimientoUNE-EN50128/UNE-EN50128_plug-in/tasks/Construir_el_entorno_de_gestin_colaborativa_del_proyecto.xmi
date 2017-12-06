@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" name=",_-RFmwNnYEeeandfM8vtSQw" guid="-YIhnYAjVRzBF0A0X4d-4jA">
+  <sections xmi:id="_GxVwkNnZEeeandfM8vtSQw" name="Evaluar el tipo de proyecto" guid="_GxVwkNnZEeeandfM8vtSQw">
+    <sectionDescription>Evaluar el tipo de proyecto de acuerdo con la documentación de Fase 1 a 4 de la norma EN 50126.</sectionDescription>
+  </sections>
+  <sections xmi:id="_UDYOYNnZEeeandfM8vtSQw" name="Seleccionar el tipo de proyecto y crear el entorno colaborativo" guid="_UDYOYNnZEeeandfM8vtSQw">
+    <sectionDescription>&lt;table title=&quot;&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot;>&#xD;
+    &lt;tbody>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                Nivel SIL&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                Entorno colaborativo&#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                0&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;a href=&quot;http://redmine.linsse.com.ar/redmine/projects/50128_12/copy&quot; target=&quot;_blank&quot;>Crear&lt;/a> &#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                1-2&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;a href=&quot;http://redmine.linsse.com.ar/redmine/projects/50128_12/copy&quot; target=&quot;_blank&quot;>Crear&lt;/a> &#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+        &lt;tr>&#xD;
+            &lt;td>&#xD;
+                3-4&#xD;
+            &lt;/td>&#xD;
+            &lt;td>&#xD;
+                &lt;a href=&quot;http://redmine.linsse.com.ar/redmine/projects/50128_12/copy&quot; target=&quot;_blank&quot;>Crear&lt;/a> &#xD;
+            &lt;/td>&#xD;
+        &lt;/tr>&#xD;
+    &lt;/tbody>&#xD;
+&lt;/table></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
