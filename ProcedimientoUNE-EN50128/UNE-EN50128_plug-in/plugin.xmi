@@ -2,6 +2,7 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_R1rQkJjGEeeafv7hrIg7lQ" guid="_R1rQkJjGEeeafv7hrIg7lQ">
     <subManagers xmi:id="_SH3SkLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SH3SkLqNEeexnaZ05SXmkw"/>
+    <subManagers xmi:id="_ESQyQLsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ESQyQLsdEee0oJqAmnTP4g"/>
     <resourceDescriptors xmi:id="_YAEy4K02EeeTbJlYDwtuwA" id="-5zKjj2rW0C57huOsgn7Euw" uri="roles/Disenador%20(DES).xmi"/>
     <resourceDescriptors xmi:id="_YAj7EK02EeeTbJlYDwtuwA" id="-Tpo-xPB9u1vGKvrJg-v2jA" uri="roles/Encargado%20de%20los%20ensayos%20(TST)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAlwQK02EeeTbJlYDwtuwA" id="-cQ3kVC0Xwk0q2aAsz9FKZg" uri="roles/Evaluador%20(ASR)%202.xmi"/>
@@ -21,6 +22,8 @@
     <resourceDescriptors xmi:id="_rtK58Lj6EeepNNDSMGJFeQ" id="-ncR8GZSC-8lxpk2Iv_5AeQ" uri="guidances/checklists/checklist_SIL_1-2.xmi"/>
     <resourceDescriptors xmi:id="_C9toQLj7EeepNNDSMGJFeQ" id="-Nspk7JZlvp5DUIKUIb5A9A" uri="guidances/checklists/checklist_SIL_3-4.xmi"/>
     <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20en%20V/model.xmi"/>
+    <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
+    <resourceDescriptors xmi:id="_5rll0NnZEeeandfM8vtSQw" id="-YIhnYAjVRzBF0A0X4d-4jA" uri="tasks/Construir_el_entorno_de_gestin_colaborativa_del_proyecto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -31,8 +34,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
             <methodElementProperty xmi:id="_osht4MAVEeepstfmonv3dA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_c8M2wMPAEeeLc_rF2D1YWQ" name="Tareas" guid="_c8M2wMPAEeeLc_rF2D1YWQ" presentationName="Tareas" tasks="_KkbQoK03EeeTbJlYDwtuwA _MwanEK03EeeTbJlYDwtuwA">
-            <methodElementProperty xmi:id="_hatpcMPAEeeLc_rF2D1YWQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7f4fMMAVEeepstfmonv3dA" name="procesos" guid="_7f4fMMAVEeepstfmonv3dA" presentationName="Procesos">
+            <methodElementProperty xmi:id="_8Y6Y8MAVEeepstfmonv3dA" name="me_edited" value="true"/>
+            <referenceWorkflows href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5EbsdEee0oJqAmnTP4g"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ">
@@ -56,8 +60,8 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1obqNEeexnaZ05SXmkw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_DzsaYMAUEeepstfmonv3dA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_rUymEMAUEeepstfmonv3dA"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_c8M2wMPAEeeLc_rF2D1YWQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_nJz98MAVEeepstfmonv3dA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_7f4fMMAVEeepstfmonv3dA"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -160,12 +164,17 @@
             <methodElementProperty xmi:id="_-GAu8Lj5EeepNNDSMGJFeQ" name="me_edited" value="true"/>
             <presentation xmi:id="-Nspk7JZlvp5DUIKUIb5A9A" href="uma://-Nspk7JZlvp5DUIKUIb5A9A#-Nspk7JZlvp5DUIKUIb5A9A"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-RFmwNnYEeeandfM8vtSQw" name="Construir_el_entorno_de_gestin_colaborativa_del_proyecto" guid="_-RFmwNnYEeeandfM8vtSQw" presentationName="Construir el entorno de gestión colaborativa del proyecto">
+            <methodElementProperty xmi:id="_5rZYkNnZEeeandfM8vtSQw" name="me_edited" value="true"/>
+            <presentation xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" href="uma://-YIhnYAjVRzBF0A0X4d-4jA#-YIhnYAjVRzBF0A0X4d-4jA"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGopjGEeeafv7hrIg7lQ" name="CapabilityPatterns" guid="_R1iGopjGEeeafv7hrIg7lQ"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGo5jGEeeafv7hrIg7lQ" name="DeliveryProcesses" guid="_R1iGo5jGEeeafv7hrIg7lQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_SHQ1oLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1oLqNEeexnaZ05SXmkw"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_ERn5ELsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5ELsdEee0oJqAmnTP4g"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGpJjGEeeafv7hrIg7lQ" name="ProcessContributions" guid="_R1iGpJjGEeeafv7hrIg7lQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
