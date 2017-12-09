@@ -2,7 +2,6 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_R1rQkJjGEeeafv7hrIg7lQ" guid="_R1rQkJjGEeeafv7hrIg7lQ">
     <subManagers xmi:id="_SH3SkLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SH3SkLqNEeexnaZ05SXmkw"/>
-    <subManagers xmi:id="_ESQyQLsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ESQyQLsdEee0oJqAmnTP4g"/>
     <resourceDescriptors xmi:id="_YAEy4K02EeeTbJlYDwtuwA" id="-5zKjj2rW0C57huOsgn7Euw" uri="roles/Disenador%20(DES).xmi"/>
     <resourceDescriptors xmi:id="_YAj7EK02EeeTbJlYDwtuwA" id="-Tpo-xPB9u1vGKvrJg-v2jA" uri="roles/Encargado%20de%20los%20ensayos%20(TST)%202.xmi"/>
     <resourceDescriptors xmi:id="_YAlwQK02EeeTbJlYDwtuwA" id="-cQ3kVC0Xwk0q2aAsz9FKZg" uri="roles/Evaluador%20(ASR)%202.xmi"/>
@@ -34,9 +33,8 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
             <methodElementProperty xmi:id="_osht4MAVEeepstfmonv3dA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7f4fMMAVEeepstfmonv3dA" name="procesos" guid="_7f4fMMAVEeepstfmonv3dA" presentationName="Procesos">
-            <methodElementProperty xmi:id="_8Y6Y8MAVEeepstfmonv3dA" name="me_edited" value="true"/>
-            <referenceWorkflows href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5EbsdEee0oJqAmnTP4g"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_c8M2wMPAEeeLc_rF2D1YWQ" name="Tareas" guid="_c8M2wMPAEeeLc_rF2D1YWQ" presentationName="Tareas" tasks="_KkbQoK03EeeTbJlYDwtuwA _MwanEK03EeeTbJlYDwtuwA">
+            <methodElementProperty xmi:id="_hatpcMPAEeeLc_rF2D1YWQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflZjGEeeafv7hrIg7lQ" name="RoleSets" guid="_R1hflZjGEeeafv7hrIg7lQ">
@@ -60,8 +58,8 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1obqNEeexnaZ05SXmkw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_DzsaYMAUEeepstfmonv3dA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_rUymEMAUEeepstfmonv3dA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_c8M2wMPAEeeLc_rF2D1YWQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_nJz98MAVEeepstfmonv3dA"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Discipline" href="#_7f4fMMAVEeepstfmonv3dA"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -174,7 +172,6 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGo5jGEeeafv7hrIg7lQ" name="DeliveryProcesses" guid="_R1iGo5jGEeeafv7hrIg7lQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_SHQ1oLqNEeexnaZ05SXmkw" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1oLqNEeexnaZ05SXmkw"/>
-      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_ERn5ELsdEee0oJqAmnTP4g" href="uma://_ERn5ELsdEee0oJqAmnTP4g#_ERn5ELsdEee0oJqAmnTP4g"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_R1iGpJjGEeeafv7hrIg7lQ" name="ProcessContributions" guid="_R1iGpJjGEeeafv7hrIg7lQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
