@@ -73,6 +73,12 @@
     </node>
     <node xmi:type="uml:InitialNode" xmi:id="_M5-xENCJEeemeeNwjvKTkg" outgoing="_RJ0OkNCJEeemeeNwjvKTkg"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_wlTlENCJEeemeeNwjvKTkg" incoming="_yJetkNCJEeemeeNwjvKTkg"/>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_qkzOoN9EEeeI0exrfmj3cg" name="FASE 0 - Construir entorno de gestión">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_qkzOod9EEeeI0exrfmj3cg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qkzOot9EEeeI0exrfmj3cg" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_fo-aQN9EEeeI0exrfmj3cg"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qkzOo99EEeeI0exrfmj3cg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
     <edge xmi:type="uml:ControlFlow" xmi:id="_U4otsL9GEeeXR7irnfn8Jw" source="_a2eQAL9EEeeXR7irnfn8Jw" target="_h_GDEL9FEeeXR7irnfn8Jw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_nVg4sL9GEeeXR7irnfn8Jw" source="_pLWq8L6AEeeiGtSEVKM1dA" target="_hwvokL9GEeeXR7irnfn8Jw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_PS-QQL9HEeeXR7irnfn8Jw" source="_1tIh4LqNEeexnaZ05SXmkw" target="_DmR_oL9HEeeXR7irnfn8Jw"/>
@@ -197,6 +203,14 @@
       <styles xmi:type="notation:FillStyle" xmi:id="_wlVaQ9CJEeemeeNwjvKTkg"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_wlVaRNCJEeemeeNwjvKTkg" lineColor="0"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wlVaRdCJEeemeeNwjvKTkg" x="530"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_qlqKQN9EEeeI0exrfmj3cg" type="1010" element="_qkzOoN9EEeeI0exrfmj3cg">
+      <children xmi:type="notation:Node" xmi:id="_ql6o8N9EEeeI0exrfmj3cg" type="4009"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_qlqKQd9EEeeI0exrfmj3cg" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_qlqKQt9EEeeI0exrfmj3cg"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_qlqKQ99EEeeI0exrfmj3cg"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_qlqKRN9EEeeI0exrfmj3cg" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qlqKRd9EEeeI0exrfmj3cg" x="210" y="5"/>
     </children>
     <styles xmi:type="notation:PageStyle" xmi:id="_TcDeVbqNEeexnaZ05SXmkw"/>
     <styles xmi:type="notation:GuideStyle" xmi:id="_TcDeVrqNEeexnaZ05SXmkw"/>
