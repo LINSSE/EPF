@@ -202,11 +202,12 @@
         </childPackages>
         <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_xxf9Ac95EeezQ7b2X4kDfw" name="Iteracion Planificacion" guid="_xxf9Ac95EeezQ7b2X4kDfw" presentationName="Iteración Planificación [1...n]" superActivities="_yEo_0L6AEeeiGtSEVKM1dA" isRepeatable="true" breakdownElements="_cDTuIcAWEeepstfmonv3dA _GnAUocM3EeeLc_rF2D1YWQ _WGmPIcM3EeeLc_rF2D1YWQ _aqGPgcM3EeeLc_rF2D1YWQ _e5foIcM3EeeLc_rF2D1YWQ"/>
       </childPackages>
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_yEo_0L6AEeeiGtSEVKM1dA" name="FasePlanificacion" guid="_yEo_0L6AEeeiGtSEVKM1dA" presentationName="FASE 1 - Planificacion del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" breakdownElements="_xxf9Ac95EeezQ7b2X4kDfw __0ZWsNCPEeeY4P3Pq2l9Mg">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_yEo_0L6AEeeiGtSEVKM1dA" name="FasePlanificacion" guid="_yEo_0L6AEeeiGtSEVKM1dA" presentationName="FASE 1 - Planificacion del Software" superActivities="_SHQ1obqNEeexnaZ05SXmkw" linkToPredecessor="_hWSC4OGwEeesytrDgMPbcw" breakdownElements="_xxf9Ac95EeezQ7b2X4kDfw __0ZWsNCPEeeY4P3Pq2l9Mg">
         <methodElementProperty xmi:id="_OtdeYsM3EeeLc_rF2D1YWQ" name="wbe_GlobalPresentedAfter" value="_fo-aQN9EEeeI0exrfmj3cg"/>
       </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:Milestone" xmi:id="__0ZWsNCPEeeY4P3Pq2l9Mg" name="Hito Planificacion" guid="__0ZWsNCPEeeY4P3Pq2l9Mg" presentationName="Hito Planificación" superActivities="_yEo_0L6AEeeiGtSEVKM1dA" linkToPredecessor="_bsJgsNCQEeeY4P3Pq2l9Mg"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_bsJgsNCQEeeY4P3Pq2l9Mg" guid="_bsJgsNCQEeeY4P3Pq2l9Mg" pred="_xxf9Ac95EeezQ7b2X4kDfw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hWSC4OGwEeesytrDgMPbcw" guid="_hWSC4OGwEeesytrDgMPbcw" pred="_fo-aQN9EEeeI0exrfmj3cg"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_a2e3EL9EEeeXR7irnfn8Jw" name="FaseDiseno" guid="_a2e3EL9EEeeXR7irnfn8Jw">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_9U-ioMPFEeeLc_rF2D1YWQ" name="Especificacion de Diseno de los Componentes" guid="_9U-ioMPFEeeLc_rF2D1YWQ">
