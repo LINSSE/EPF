@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5T6eapZ3B4D4U-JKZFeL2Q" name="obtencion_de_requisitos,_9WxGMOZSEeeoX-3oEkoa6Q" guid="-5T6eapZ3B4D4U-JKZFeL2Q" changeDate="2017-12-21T14:53:46.113-0300">
+  <mainDescription>&lt;p id=&quot;docs-internal-guid-eb5482d6-7a37-e225-84f8-ffd79133a8f0&quot;&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-2e47f2ce-7a46-a1bf-23c8-7075367c2ced&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    En&amp;nbsp;la siguiente&amp;nbsp;Figura&amp;nbsp;se muestran los pasos de esta tarea:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 95px; WIDTH: 542px&quot; alt=&quot;&quot; src=&quot;resources/Obtencion.png&quot; width=&quot;565&quot; height=&quot;105&quot; />&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Resultados esperados&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : Requerimientos software del sistema.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Alcance:&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    El Sistema de Gestión de Requerimientos del Software.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Errores a evitar:&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &amp;nbsp; Fuentes de entradas de requerimientos no identificadas, canales de comunicación no definidos y requerimientos&#xD;
+    mal obtenidos.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <sections xmi:id="_kU0PYOZ4Eee3VMeDAXBNcw" name="1- Realizar un análisis sistemático de la documentación de entrada." guid="_kU0PYOZ4Eee3VMeDAXBNcw">
+    <sectionDescription>&lt;p>&#xD;
+    Se debe registar&amp;nbsp;la información del análisis en las filas: &lt;span&#xD;
+    id=&quot;docs-internal-guid-48dd0cf7-7a54-9bb0-7b8d-529df2428d4c&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    2, 3, 4, 5, 6 y 7 de la&amp;nbsp;&lt;/span>siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;./resources/TablaAnalisisDocumentacionEntrada.png&quot; width=&quot;600&quot; height=&quot;455&quot; />&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_niKNwOZ7Eee3VMeDAXBNcw" name="2- Identificar los stakeholders (interesados) y canales de entrada de los requerimientos." guid="_niKNwOZ7Eee3VMeDAXBNcw">
+    <sectionDescription>&lt;p id=&quot;docs-internal-guid-22c393d9-7a4e-e3f9-6078-faf50851ebf5&quot; style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Los stakeholders serán identificados mediante un valor con el formato SH-XXXXX.&lt;/span> &lt;span     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Los grupos de stakeholders serán identificados mediante un valor con el formato GSH-XXX.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    Se debe registar&amp;nbsp;la información del análisis en las fila: &lt;span     id=&quot;docs-internal-guid-48dd0cf7-7a54-9bb0-7b8d-529df2428d4c&quot;     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    2 de las&amp;nbsp;&lt;/span>siguientes tablas:&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/IdentificacionInteresados111.png&quot; width=&quot;600&quot; height=&quot;392&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+    &amp;nbsp; &lt;span id=&quot;docs-internal-guid-2e47f2ce-7a72-b0f6-33c0-8596e376ae7f&quot;     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Los stakeholders identificados pueden ser incluidos dentro de grupos para su mejor tratamiento, como se puede ver en la&#xD;
+    siguiente tabla:&lt;/span>&lt;img alt=&quot;&quot; src=&quot;./resources/GrupoInteresados111.png&quot; width=&quot;600&quot; height=&quot;295&quot; />&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_jQeHYOaBEee3VMeDAXBNcw" name="3- Definir el formato y las técnicas de elicitación a utilizar, al igual que la planificación." guid="_jQeHYOaBEee3VMeDAXBNcw">
+    <sectionDescription>&lt;p>&#xD;
+    Se debe registar&amp;nbsp;la información en &lt;span id=&quot;docs-internal-guid-48dd0cf7-7a54-9bb0-7b8d-529df2428d4c&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    la&amp;nbsp;&lt;/span>siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;resources/TecnicasElicitacion.png&quot; width=&quot;600&quot; height=&quot;381&quot; />&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_D2fXUOaCEee3VMeDAXBNcw" name="4- Realizar la elicitación de los requerimientos." guid="_D2fXUOaCEee3VMeDAXBNcw">
+    <sectionDescription>&lt;p id=&quot;docs-internal-guid-2887202c-7a78-bf4b-9cf5-8e38a0ca1d9b&quot; style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Los requerimientos serán identificados mediante un valor con el formato RQ-XXXXX.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Los requerimientos de seguridad serán identificados mediante un valor con el formato RQS-XXXXX.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &amp;nbsp; Se debe registar&amp;nbsp;la información en &lt;span id=&quot;docs-internal-guid-48dd0cf7-7a54-9bb0-7b8d-529df2428d4c&quot;     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    la&amp;nbsp;&lt;/span>siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/ElicitacionRequerimientos.png&quot; width=&quot;600&quot; height=&quot;470&quot; />&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <purpose>&lt;span id=&quot;docs-internal-guid-eb5482d6-7a35-8f18-905f-01ab7b27e077&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Realizar la obtención de requerimientos de software del sistema asegurando la calidad de los mismos.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>
