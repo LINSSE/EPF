@@ -5,12 +5,6 @@
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TcDeUrqNEeexnaZ05SXmkw" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SHQ1obqNEeexnaZ05SXmkw"/>
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TcDeU7qNEeexnaZ05SXmkw" key="type" value="Activity"/>
     </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_WNJs8LqNEeexnaZ05SXmkw" name="FASE 2 - Desarrollo del Sistema" isLeaf="true" outgoing="_c3WzwNCJEeemeeNwjvKTkg" incoming="_aP96wNCJEeemeeNwjvKTkg">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_WNN-YLqNEeexnaZ05SXmkw" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WNN-YbqNEeexnaZ05SXmkw" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_WNcn4LqNEeexnaZ05SXmkw"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_WNaysLqNEeexnaZ05SXmkw" key="type" value="Phase"/>
-      </eAnnotations>
-    </node>
     <node xmi:type="uml:StructuredActivityNode" xmi:id="_1tIh4LqNEeexnaZ05SXmkw" name="FASE 3 - Requisitos del Software" outgoing="_PS-QQL9HEeeXR7irnfn8Jw _eouqwNCJEeemeeNwjvKTkg" incoming="_c3WzwNCJEeemeeNwjvKTkg">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_1tIh4bqNEeexnaZ05SXmkw" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_1tIh4rqNEeexnaZ05SXmkw" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_pcWswbqNEeexnaZ05SXmkw"/>
@@ -83,8 +77,8 @@
     <edge xmi:type="uml:ControlFlow" xmi:id="_nVg4sL9GEeeXR7irnfn8Jw" source="_pLWq8L6AEeeiGtSEVKM1dA" target="_hwvokL9GEeeXR7irnfn8Jw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_PS-QQL9HEeeXR7irnfn8Jw" source="_1tIh4LqNEeexnaZ05SXmkw" target="_DmR_oL9HEeeXR7irnfn8Jw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_RJ0OkNCJEeemeeNwjvKTkg" source="_M5-xENCJEeemeeNwjvKTkg" target="_yEfO0L6AEeeiGtSEVKM1dA"/>
-    <edge xmi:type="uml:ControlFlow" xmi:id="_aP96wNCJEeemeeNwjvKTkg" source="_yEfO0L6AEeeiGtSEVKM1dA" target="_WNJs8LqNEeexnaZ05SXmkw"/>
-    <edge xmi:type="uml:ControlFlow" xmi:id="_c3WzwNCJEeemeeNwjvKTkg" source="_WNJs8LqNEeexnaZ05SXmkw" target="_1tIh4LqNEeexnaZ05SXmkw"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_aP96wNCJEeemeeNwjvKTkg" source="_yEfO0L6AEeeiGtSEVKM1dA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_c3WzwNCJEeemeeNwjvKTkg" target="_1tIh4LqNEeexnaZ05SXmkw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_eouqwNCJEeemeeNwjvKTkg" source="_1tIh4LqNEeexnaZ05SXmkw" target="_pLWq8L6AEeeiGtSEVKM1dA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_hpS4wNCJEeemeeNwjvKTkg" source="_pLWq8L6AEeeiGtSEVKM1dA" target="_a2eQAL9EEeeXR7irnfn8Jw"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_mS_nwNCJEeemeeNwjvKTkg" source="_a2eQAL9EEeeXR7irnfn8Jw" target="_SpRvoL9FEeeXR7irnfn8Jw"/>
@@ -97,14 +91,6 @@
     <edge xmi:type="uml:ControlFlow" xmi:id="_wHBJ0OXCEee3O4UYWqsU5g" source="_qkzOoN9EEeeI0exrfmj3cg" target="_yEfO0L6AEeeiGtSEVKM1dA"/>
   </uml:Activity>
   <notation:Diagram xmi:id="_TcDeVLqNEeexnaZ05SXmkw" type="AD" element="_TcDeULqNEeexnaZ05SXmkw" name="test" measurementUnit="Pixel">
-    <children xmi:type="notation:Node" xmi:id="_WNd2ALqNEeexnaZ05SXmkw" type="1010" element="_WNJs8LqNEeexnaZ05SXmkw">
-      <children xmi:type="notation:Node" xmi:id="_WNedELqNEeexnaZ05SXmkw" type="4009"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_WNd2AbqNEeexnaZ05SXmkw" fontName="Arial" fontHeight="8"/>
-      <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNd2ArqNEeexnaZ05SXmkw"/>
-      <styles xmi:type="notation:FillStyle" xmi:id="_WNd2A7qNEeexnaZ05SXmkw"/>
-      <styles xmi:type="notation:LineStyle" xmi:id="_WNd2BLqNEeexnaZ05SXmkw" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNd2BbqNEeexnaZ05SXmkw" x="40" y="135"/>
-    </children>
     <children xmi:type="notation:Node" xmi:id="_1tJwALqNEeexnaZ05SXmkw" type="1010" element="_1tIh4LqNEeexnaZ05SXmkw">
       <children xmi:type="notation:Node" xmi:id="_1tKXELqNEeexnaZ05SXmkw" type="4009"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_1tJwAbqNEeexnaZ05SXmkw" fontName="Arial" fontHeight="8"/>
@@ -257,26 +243,6 @@
       <styles xmi:type="notation:LineStyle" xmi:id="_RJ2q09CJEeemeeNwjvKTkg" lineColor="0"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RJ2q1NCJEeemeeNwjvKTkg" points="[7, 10, -20, -26]$[24, 30, -3, -6]"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RJ6VMNCJEeemeeNwjvKTkg" id="(0.4437869822485207,0.08163265306122448)"/>
-    </edges>
-    <edges xmi:type="notation:Edge" xmi:id="_aQDaUNCJEeemeeNwjvKTkg" type="3001" element="_aP96wNCJEeemeeNwjvKTkg" source="_yEqN8L6AEeeiGtSEVKM1dA" target="_WNd2ALqNEeexnaZ05SXmkw">
-      <children xmi:type="notation:Node" xmi:id="_aQEBYNCJEeemeeNwjvKTkg" type="4012">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_aQEBYdCJEeemeeNwjvKTkg" y="40"/>
-      </children>
-      <styles xmi:type="notation:RoutingStyle" xmi:id="_aQDaUdCJEeemeeNwjvKTkg"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_aQDaUtCJEeemeeNwjvKTkg" fontName="Arial" fontHeight="8"/>
-      <styles xmi:type="notation:LineStyle" xmi:id="_aQDaU9CJEeemeeNwjvKTkg" lineColor="0"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aQDaVNCJEeemeeNwjvKTkg" points="[43, 25, -73, -41]$[112, 61, -4, -5]"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aQF2kNCJEeemeeNwjvKTkg" id="(0.4666666666666667,0.02040816326530612)"/>
-    </edges>
-    <edges xmi:type="notation:Edge" xmi:id="_c3bFMNCJEeemeeNwjvKTkg" type="3001" element="_c3WzwNCJEeemeeNwjvKTkg" source="_WNd2ALqNEeexnaZ05SXmkw" target="_1tJwALqNEeexnaZ05SXmkw">
-      <children xmi:type="notation:Node" xmi:id="_c3bsQNCJEeemeeNwjvKTkg" type="4012">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_c3bsQdCJEeemeeNwjvKTkg" y="40"/>
-      </children>
-      <styles xmi:type="notation:RoutingStyle" xmi:id="_c3bFMdCJEeemeeNwjvKTkg"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_c3bFMtCJEeemeeNwjvKTkg" fontName="Arial" fontHeight="8"/>
-      <styles xmi:type="notation:LineStyle" xmi:id="_c3bFM9CJEeemeeNwjvKTkg" lineColor="0"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_c3bFNNCJEeemeeNwjvKTkg" points="[7, 25, -21, -69]$[29, 86, 1, -8]"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_c3c6YNCJEeemeeNwjvKTkg" id="(0.44654088050314467,0.04081632653061224)"/>
     </edges>
     <edges xmi:type="notation:Edge" xmi:id="_eoy8MNCJEeemeeNwjvKTkg" type="3001" element="_eouqwNCJEeemeeNwjvKTkg" source="_1tJwALqNEeexnaZ05SXmkw" target="_pLmikL6AEeeiGtSEVKM1dA">
       <children xmi:type="notation:Node" xmi:id="_eozjQNCJEeemeeNwjvKTkg" type="4012">
@@ -607,41 +573,6 @@
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gY0rMNCQEeeY4P3Pq2l9Mg" id="(0.0,0.1836734693877551)"/>
     </edges>
   </notation:Diagram>
-  <uml:Activity xmi:id="_Nyp0YL9EEeeXR7irnfn8Jw" name="New Phase">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Nyp0Yb9EEeeXR7irnfn8Jw" source="uma_element">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Nyp0Yr9EEeeXR7irnfn8Jw" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_WNcn4LqNEeexnaZ05SXmkw"/>
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Nyp0Y79EEeeXR7irnfn8Jw" key="type" value="Phase"/>
-    </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_hPSDwMAWEeepstfmonv3dA" name="Especificación Requisitos del Sistema">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_hPSDwcAWEeepstfmonv3dA" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDwsAWEeepstfmonv3dA" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_ftxucb9KEeeXR7irnfn8Jw"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDw8AWEeepstfmonv3dA" key="type" value="Activity"/>
-      </eAnnotations>
-    </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_hPSDxMAWEeepstfmonv3dA" name="Especificación Requisitos de Seguridad del Sistema">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_hPSDxcAWEeepstfmonv3dA" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDxsAWEeepstfmonv3dA" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_N5ZNIcAWEeepstfmonv3dA"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDx8AWEeepstfmonv3dA" key="type" value="Activity"/>
-      </eAnnotations>
-    </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_hPSDyMAWEeepstfmonv3dA" name="Descripción de la Arquitectura del Sistema">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_hPSDycAWEeepstfmonv3dA" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDysAWEeepstfmonv3dA" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_UH1sYcAWEeepstfmonv3dA"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDy8AWEeepstfmonv3dA" key="type" value="Activity"/>
-      </eAnnotations>
-    </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_hPSDzMAWEeepstfmonv3dA" name="Plan de Seguridad del Sistema">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_hPSDzcAWEeepstfmonv3dA" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDzsAWEeepstfmonv3dA" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_ZQfoQcAWEeepstfmonv3dA"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_hPSDz8AWEeepstfmonv3dA" key="type" value="Activity"/>
-      </eAnnotations>
-    </node>
-  </uml:Activity>
-  <notation:Diagram xmi:id="_Nyp0ZL9EEeeXR7irnfn8Jw" type="AD" element="_Nyp0YL9EEeeXR7irnfn8Jw" name="New Phase" measurementUnit="Pixel">
-    <styles xmi:type="notation:PageStyle" xmi:id="_Nyp0Zb9EEeeXR7irnfn8Jw"/>
-    <styles xmi:type="notation:GuideStyle" xmi:id="_Nyp0Zr9EEeeXR7irnfn8Jw"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Nyp0Z79EEeeXR7irnfn8Jw"/>
-  </notation:Diagram>
   <uml:Activity xmi:id="_UMKesL9FEeeXR7irnfn8Jw" name="New Phase_5">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UMKesb9FEeeXR7irnfn8Jw" source="uma_element">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UMKesr9FEeeXR7irnfn8Jw" key="uri" value="uma://_SHQ1oLqNEeexnaZ05SXmkw#_SpZEYL9FEeeXR7irnfn8Jw"/>
@@ -666,14 +597,6 @@
     <styles xmi:type="notation:PageStyle" xmi:id="_L-ub0r9IEeeXR7irnfn8Jw"/>
     <styles xmi:type="notation:GuideStyle" xmi:id="_L-ub079IEeeXR7irnfn8Jw"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_L-ub1L9IEeeXR7irnfn8Jw"/>
-  </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_MJStEL9IEeeXR7irnfn8Jw">
-    <linkedElement xmi:type="org.eclipse.epf.uma:Phase" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_WNcn4LqNEeexnaZ05SXmkw"/>
-  </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
-  <notation:Diagram xmi:id="_MJStEb9IEeeXR7irnfn8Jw" type="ADD" element="_MJStEL9IEeeXR7irnfn8Jw" name="New Phase" measurementUnit="Pixel">
-    <styles xmi:type="notation:PageStyle" xmi:id="_MJStEr9IEeeXR7irnfn8Jw"/>
-    <styles xmi:type="notation:GuideStyle" xmi:id="_MJStE79IEeeXR7irnfn8Jw"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_MJStFL9IEeeXR7irnfn8Jw"/>
   </notation:Diagram>
   <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_MJaB0L9IEeeXR7irnfn8Jw">
     <linkedElement xmi:type="org.eclipse.epf.uma:Phase" href="uma://_SHQ1oLqNEeexnaZ05SXmkw#_pcWswbqNEeexnaZ05SXmkw"/>

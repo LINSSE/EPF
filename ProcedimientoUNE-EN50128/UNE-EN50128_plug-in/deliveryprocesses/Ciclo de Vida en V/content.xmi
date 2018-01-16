@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-oga0e-lEfZgtevQILy_IHg" name="test,_SHQ1obqNEeexnaZ05SXmkw" guid="-oga0e-lEfZgtevQILy_IHg"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-oga0e-lEfZgtevQILy_IHg" name="test,_SHQ1obqNEeexnaZ05SXmkw" guid="-oga0e-lEfZgtevQILy_IHg">
+    <purpose>El objeto del ciiclo de vida es ordenar las actividades y minimizar los riesgos de seguridad aumentando la fiabilidad, la&#xD;
+mantenibilidad y la disponibilidad del sistema.</purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-rPC__IXJ13vlvAWGmW3aDw" name="Verificador (VER),_bpj9oMi3Eeek0ZpXlk_Y3Q" guid="-rPC__IXJ13vlvAWGmW3aDw">
     <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
     &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
@@ -557,30 +560,43 @@ Este procedimiento general se usa para gestionar los requisitos del software de 
 normativa UNE-EN 50128.&lt;/span></purpose>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CcKyR1uPLLjOyD7iykX1vA" name="obtencin_de_requisitos,_KjAeAOZTEeeoX-3oEkoa6Q" guid="-CcKyR1uPLLjOyD7iykX1vA">
-    <refinedDescription>&lt;img alt=&quot;&quot; src=&quot;resources/Obtencion.png&quot; width=&quot;565&quot; height=&quot;105&quot; />&lt;br&#xD;
-id=&quot;docs-internal-guid-eb5482d6-7a37-e225-84f8-ffd79133a8f0&quot;&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
-&lt;br />&#xD;
-&lt;p id=&quot;docs-internal-guid-eb5482d6-7a37-e225-84f8-ffd79133a8f0&quot;&#xD;
+    <refinedDescription>&lt;p id=&quot;docs-internal-guid-eb5482d6-7a37-e225-84f8-ffd79133a8f0&quot;&#xD;
 style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-2e47f2ce-7a46-a1bf-23c8-7075367c2ced&quot;&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    En&amp;nbsp;la siguiente&amp;nbsp;Figura&amp;nbsp;se muestran los pasos de esta tarea:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #333333; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;img style=&quot;HEIGHT: 95px; WIDTH: 542px&quot; alt=&quot;&quot; src=&quot;resources/Obtencion.png&quot; width=&quot;565&quot; height=&quot;105&quot; />&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Resultados esperados&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
     : Requerimientos software del sistema.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Alcance:&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
     El Sistema de Gestión de Requerimientos del Software.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Errores a evitar:&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Errores a evitar:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &amp;nbsp;&lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
     &amp;nbsp; Fuentes de entradas de requerimientos no identificadas, canales de comunicación no definidos y requerimientos&#xD;
     mal obtenidos.&lt;/span>&#xD;
 &lt;/p>&#xD;
@@ -626,6 +642,55 @@ style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGI
 &lt;p>&#xD;
     &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>6. debe desarrollar y mantener los&#xD;
     documentos de requisitos relativos al software&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pd5vekWieYZsiLEbpI4ioQ" name="Jefe de proyecto (PM),_17DsQfrPEeedUZaR7BGHeQ" guid="-pd5vekWieYZsiLEbpI4ioQ">
+    <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPS-BoldMT&quot;>Responsabilidades:&lt;/font>&lt;/font>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>1. debe garantizar que se cumple el&#xD;
+    sistema de gestión de la calidad y la independencia de los roles y que se comprueba la evolución en relación a los&#xD;
+    planes previstos&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>2. debe dedicar una cantidad suficiente&#xD;
+    de recursos en el proyecto a realizar tareas esenciales, incluyendo las&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>actividades de seguridad, teniendo en&#xD;
+    cuenta el espíritu de independencia necesario de los roles&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>3. debe garantizar que se ha nombrado a&#xD;
+    un validador apropiado para el proyecto como se define en la Norma EN&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>50128&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>4. debe ser el responsable de la&#xD;
+    entrega e implantación del software y garantizar que también se cumplen y se&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>entregan los requisitos de seguridad de&#xD;
+    las partes interesadas&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>5. debe proporcionar suficiente tiempo&#xD;
+    para la implementación y el cumplimiento correcto de las tareas de&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>seguridad&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>6. debe aprobar los productos de&#xD;
+    seguridad completos y parciales a entregar por el proceso de desarrollo&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>7. debe garantizar que se&#xD;
+    mantienen&lt;/font>&lt;/font>&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>
