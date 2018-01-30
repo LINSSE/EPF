@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Wc3pVSyeeyBvuIIqoet4mw" name="Guía de Calibración de Multímetro digital,_IM-wkAT5Eeijd9RhshXkDQ" guid="-Wc3pVSyeeyBvuIIqoet4mw" authors="Emanuel Irrazabal" changeDate="2018-01-29T10:37:51.259-0300" version="1">
+  <mainDescription>1. Utiliza el selector para ajustar el multímetro en el rango de resistencia más alto de &quot;ohmios&quot;.&lt;br />&#xD;
+2. Une las sondas de prueba del multímetro digital. La pantalla debe indicar &quot;0 ohmios.&quot;&lt;br />&#xD;
+3. Pulsa la perilla de calibración hasta que la pantalla del multímetro muestre &quot;0&quot; si no apareció &quot;0 ohmios&quot; inicialmente.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r_3SoiJDGea_kKIeHDFA3A" name=",_50i9UAT2Eeijd9RhshXkDQ" guid="-r_3SoiJDGea_kKIeHDFA3A" authors="Emanuel Irrazábal" changeDate="2018-01-29T10:19:12.370-0300" version="0.9">
+  <mainDescription>&lt;p>&#xD;
+    Durante los ensayos de software es necesario realizar&amp;nbsp;diferentes comprobaciones con distintos equipos de medición.&#xD;
+    Estos equipos pueden estar relacionados a los ensayos en la interfaz hardware-software o también a los equipos de&#xD;
+    medición del software. Así, por ejemplo, si se utiliza una hoja de cálculo en línea para mantener información del&#xD;
+    ensayo en tiempo real es necesario asegurar el acceso correcto a este medio.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_atqS8AT4Eeijd9RhshXkDQ" name="Identificar los puntos del ensayo que utilizan un equipo de medición" guid="_atqS8AT4Eeijd9RhshXkDQ">
+    <sectionDescription>&lt;p>&#xD;
+    Las diferentes especificaciones de ensayo tienen un apartado donde se indica el equipo de medición. Una vez realizada&#xD;
+    la especificación de los ensayos es necesario identificar estos puntos.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_pnLE4AT4Eeijd9RhshXkDQ" name="Listar los equipos de medición" guid="_pnLE4AT4Eeijd9RhshXkDQ">
+    <sectionDescription>&lt;p>&#xD;
+    En el formulario de calibración se incorporarán los equipos de medición a ser utilizados.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5SHTwAT4Eeijd9RhshXkDQ" name="Comprobar los equipos de medición" guid="_5SHTwAT4Eeijd9RhshXkDQ">
+    <sectionDescription>&lt;p>&#xD;
+    Se seguirá la guía de calibración de cada equipo de medición comprobándose los valores umbrales de una serie de ensayos&#xD;
+    independientes. Por ejemplo la &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UNE-EN50128_plug-in/guidances/guidelines/Guía de Calibración de Multímetro digital_9544C05.html&quot;&#xD;
+    guid=&quot;_IM-wkAT5Eeijd9RhshXkDQ&quot;>Guía de Calibración de Multímetro digital&lt;/a>. Finalizada la calibración se dará o no el&#xD;
+    OK en la lista de equipos para el ensayo.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    Verificar que los equipos utilizados para los ensayos se encuentren calibrados, y así evitar desvìos en los resultados.&#xD;
+    Normativa 6.1.4.2 UNE-EN 50128:2012&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

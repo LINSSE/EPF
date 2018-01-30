@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hDOwk6fTL45TgAC9t-3ROA" name="new_toolmentor,_Bl22IAT6Eeijd9RhshXkDQ" guid="-hDOwk6fTL45TgAC9t-3ROA" authors="Emanuel Irrazabal" changeDate="2018-01-29T10:49:47.925-0300" version="0.5">
+  <mainDescription>&lt;p>&#xD;
+    Describir la herramienta testlink y còmo realizar los siguiente pasos:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Especificación de ensayo contiene:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Objetivo&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Casos de ensayo con datos de entrada, descripción&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Descripción del tipo de ensayo&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Descripción del entorno de ensayo, las herramientas a ser utilizadas y las configuraciones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los criterios a satisfacer y la cobertura del ensayo&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Roles y responsabilidades de los integrantes del ensayo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los requisitos cubiertos&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los equipos de ensayo&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    INFORME DE ENSAYO CON TESTLINK&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
