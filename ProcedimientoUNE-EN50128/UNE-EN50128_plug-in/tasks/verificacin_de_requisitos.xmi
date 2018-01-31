@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iqtAg2SpyXE4gMI-Np6ArA" name="verificacin_de_requisitos,_GV0r4OZTEeeoX-3oEkoa6Q" guid="-iqtAg2SpyXE4gMI-Np6ArA" changeDate="2018-01-30T11:11:58.106-0300">
+  <mainDescription>Resultados esperados: Requerimientos del sistema validados. Especificación de ensayos del software en conjunto. Informe de&#xD;
+verificación de los requisitos del software.&lt;br />&#xD;
+Alcance: El Sistema de Gestión de Requerimientos.&lt;br />&#xD;
+Errores a evitar: Requerimientos mal especificados o no verificados.</mainDescription>
+  <sections xmi:id="_m1ulAAXJEei-0Y9CFnbgCQ" name="1- Validar con los stakeholders los requerimientos especificados mediante el uso de modelos." guid="_m1ulAAXJEei-0Y9CFnbgCQ">
+    <sectionDescription>&lt;p>&#xD;
+    Se debe registar la información del análisis en la fila: 2 de la siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título1.png&quot; width=&quot;600&quot; height=&quot;386&quot; />&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_nboucAXJEei-0Y9CFnbgCQ" name="2- Definir los distintos ensayos del software a realizar." guid="_nboucAXJEei-0Y9CFnbgCQ">
+    <sectionDescription>&lt;img alt=&quot;&quot; src=&quot;resources/Sem título777.png&quot; width=&quot;600&quot; height=&quot;574&quot; /></sectionDescription>
+  </sections>
+  <sections xmi:id="_pE7AcAXJEei-0Y9CFnbgCQ" name="3- Verificar la no contradicción de los requerimientos." guid="_pE7AcAXJEei-0Y9CFnbgCQ">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;es&quot;&#xD;
+    style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 115%; mso-fareast-font-family: Arial; mso-ansi-language: #000A; mso-fareast-language: ES-AR; mso-bidi-language: AR-SA'>&#xD;
+    Se debe registar la información del análisis en la fila: 2 de la siguiente tabla:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título66666.png&quot; width=&quot;600&quot; height=&quot;340&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_qWGUcAXJEei-0Y9CFnbgCQ" name="4- Verificar el cumplimiento de los requerimientos con los niveles de seguridad especificados para el software." guid="_qWGUcAXJEei-0Y9CFnbgCQ">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span lang=&quot;es&quot;&#xD;
+    style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 115%; mso-fareast-font-family: Arial; mso-ansi-language: #000A; mso-fareast-language: ES-AR; mso-bidi-language: AR-SA'>&#xD;
+    Se debe registar la información del análisis en la fila: 2 de la siguiente tabla:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;resources/Sem título66666.png&quot; width=&quot;600&quot; height=&quot;340&quot; />&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_rc6LgAXJEei-0Y9CFnbgCQ" name="5- Verificar los requisitos del software." guid="_rc6LgAXJEei-0Y9CFnbgCQ">
+    <sectionDescription>&lt;img alt=&quot;&quot; src=&quot;resources/Sem título00000000000000000.png&quot; width=&quot;600&quot; height=&quot;567&quot; /></sectionDescription>
+  </sections>
+  <sections xmi:id="_sxbucAXJEei-0Y9CFnbgCQ" name="6- En caso de generarse modificaciones en los requerimientos durante el proceso, modificar las especificaciones." guid="_sxbucAXJEei-0Y9CFnbgCQ"/>
+  <purpose>Validar los requerimientos especificados con los usuarios, y definir sus modos de comportamiento y los ensayos a realizarse&#xD;
+sobre los mismos con tal de verificarlos.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

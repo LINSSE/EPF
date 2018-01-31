@@ -24,7 +24,11 @@
     <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
     <resourceDescriptors xmi:id="_5rll0NnZEeeandfM8vtSQw" id="-YIhnYAjVRzBF0A0X4d-4jA" uri="tasks/Construir_el_entorno_de_gestin_colaborativa_del_proyecto.xmi"/>
     <resourceDescriptors xmi:id="_GC0QgOZ4Eee3VMeDAXBNcw" id="-5T6eapZ3B4D4U-JKZFeL2Q" uri="tasks/obtencion_de_requisitos.xmi"/>
-    <resourceDescriptors xmi:id="_NuvfwOaLEee5Z7c-_0eY9A" id="-9PC3Ct1zSKdjwbI-VRxxHQ" uri="guidances/templates/formulario_-_especificacin_de_requisitos_software_-_proyecto_xx.xmi"/>
+    <resourceDescriptors xmi:id="_NuvfwOaLEee5Z7c-_0eY9A" id="-9PC3Ct1zSKdjwbI-VRxxHQ" uri="guidances/templates/Formulario%20-%20Especificacin_de_requisitos_software_-_proyecto_xx.xmi"/>
+    <resourceDescriptors xmi:id="_Q1EQ0AUyEei-0Y9CFnbgCQ" id="-DzX54ypx8CP1md335Pg-sQ" uri="tasks/especificacin_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_kg_NIAXHEei-0Y9CFnbgCQ" id="-iqtAg2SpyXE4gMI-Np6ArA" uri="tasks/verificacin_de_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_RZhWwAX4Eei-0Y9CFnbgCQ" id="-eAvpsgrcoxG4pUZQP3-P6w" uri="guidances/templates/Formulario%20-%20Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx.xmi"/>
+    <resourceDescriptors xmi:id="_lXZacAX4Eei-0Y9CFnbgCQ" id="-CEoHXIq7zGGXhKZCP4H2Wg" uri="guidances/templates/Formulario%20-%20Informe_de_verificacin_de_los_requisitos_del_software_-_proyecto_xx.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -54,7 +58,7 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflpjGEeeafv7hrIg7lQ" name="WP Types" guid="_R1hflpjGEeeafv7hrIg7lQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_rUymEMAUEeepstfmonv3dA" name="productos" guid="_rUymEMAUEeepstfmonv3dA" presentationName="Productos" workProducts="_E-wooK03EeeTbJlYDwtuwA _E-wooa03EeeTbJlYDwtuwA _E-xPsK03EeeTbJlYDwtuwA _E-xPsa03EeeTbJlYDwtuwA _zmO14OZ2Eee3VMeDAXBNcw _JcBk0OZ0Eee3VMeDAXBNcw _F2khEOZ0Eee3VMeDAXBNcw _BBY40OaKEeexkdd4W9kOcQ _07G-IOZ2Eee3VMeDAXBNcw _4GjmcOZ2Eee3VMeDAXBNcw">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_rUymEMAUEeepstfmonv3dA" name="productos" guid="_rUymEMAUEeepstfmonv3dA" presentationName="Productos" workProducts="_E-wooa03EeeTbJlYDwtuwA _E-xPsK03EeeTbJlYDwtuwA _BBY40OaKEeexkdd4W9kOcQ _4xXAIAX1Eei-0Y9CFnbgCQ _9ZIcgAX1Eei-0Y9CFnbgCQ">
             <methodElementProperty xmi:id="_vmHRUMAUEeepstfmonv3dA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -126,19 +130,13 @@
             <methodElementProperty xmi:id="_X_lqsq02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-H4-c15yeUs7JvQnQSTVlDw" href="uma://-H4-c15yeUs7JvQnQSTVlDw#-H4-c15yeUs7JvQnQSTVlDw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooK03EeeTbJlYDwtuwA" name="Documentos del ciclo de vida (E)" guid="_E-wooK03EeeTbJlYDwtuwA" presentationName="Documentos del ciclo de vida">
-            <methodElementProperty xmi:id="_E_MGcK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooa03EeeTbJlYDwtuwA" name="Informe de Verificacion de Garantia de Calidad del Software (S)" guid="_E-wooa03EeeTbJlYDwtuwA" presentationName="Informe de Verificación de Garantía de Calidad del Software (S)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-wooa03EeeTbJlYDwtuwA" name="Informe de Verificacion de Garantia de Calidad del Software" guid="_E-wooa03EeeTbJlYDwtuwA" presentationName="Informe de Verificación de Garantía de Calidad del Software ">
             <methodElementProperty xmi:id="_E_MGca03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsK03EeeTbJlYDwtuwA" name="Plan de Garantia de Calidad del Software" guid="_E-xPsK03EeeTbJlYDwtuwA" presentationName="Plan de Garantía de Calidad del Software" templates="_H4vlsLKWEeeZ_J4nQ47s2A">
             <methodElementProperty xmi:id="_E_MGcq03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-xPsa03EeeTbJlYDwtuwA" name="Plan de Gestion de la Configuracion del Software" guid="_E-xPsa03EeeTbJlYDwtuwA" presentationName="Plan de Gestión de la Configuración del Software">
-            <methodElementProperty xmi:id="_E_MGc603EeeTbJlYDwtuwA" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" mandatoryInput="_E-wooK03EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA" additionallyPerformedBy="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KkbQoK03EeeTbJlYDwtuwA" name="Redactar Plan de Garantia de Calidad del Software" guid="_KkbQoK03EeeTbJlYDwtuwA" presentationName="Redactar Plan de Garantía de Calidad del Software" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg" performedBy="_X_FUYa02EeeTbJlYDwtuwA" output="_E-xPsK03EeeTbJlYDwtuwA" additionallyPerformedBy="_X_DfMK02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA _X_EGQK02EeeTbJlYDwtuwA _X_EGQa02EeeTbJlYDwtuwA _X_EGQq02EeeTbJlYDwtuwA _X_EtUK02EeeTbJlYDwtuwA _X_EtUa02EeeTbJlYDwtuwA _X_EtUq02EeeTbJlYDwtuwA _X_FUYK02EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_Kk1gUK03EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-VR5wqhFJEkkOHf45JFWt-g" href="uma://-VR5wqhFJEkkOHf45JFWt-g#-VR5wqhFJEkkOHf45JFWt-g"/>
           </contentElements>
@@ -177,37 +175,38 @@
             <methodElementProperty xmi:id="_5rZYkNnZEeeandfM8vtSQw" name="me_edited" value="true"/>
             <presentation xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" href="uma://-YIhnYAjVRzBF0A0X4d-4jA#-YIhnYAjVRzBF0A0X4d-4jA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9WxGMOZSEeeoX-3oEkoa6Q" name="obtencion_de_requisitos" guid="_9WxGMOZSEeeoX-3oEkoa6Q" presentationName="Obtención de Requisitos" briefDescription="La tarea de obtención de requerimientos indica las pautas a seguir para obtener, documentar, identificar, clarificar y justificar los mismos." performedBy="_X_EGQq02EeeTbJlYDwtuwA" mandatoryInput="_F2khEOZ0Eee3VMeDAXBNcw _JcBk0OZ0Eee3VMeDAXBNcw _zmO14OZ2Eee3VMeDAXBNcw _07G-IOZ2Eee3VMeDAXBNcw _E-xPsK03EeeTbJlYDwtuwA _4GjmcOZ2Eee3VMeDAXBNcw" output="_BBY40OaKEeexkdd4W9kOcQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9WxGMOZSEeeoX-3oEkoa6Q" name="obtencion_de_requisitos" guid="_9WxGMOZSEeeoX-3oEkoa6Q" presentationName="Obtención de Requisitos" briefDescription="La tarea de obtención de requerimientos indica las pautas a seguir para obtener, documentar, identificar, clarificar y justificar los mismos.&#xD;&#xA;&#xD;&#xA;" performedBy="_X_EGQq02EeeTbJlYDwtuwA" output="_BBY40OaKEeexkdd4W9kOcQ">
             <methodElementProperty xmi:id="_CiRhwOZTEeeoX-3oEkoa6Q" name="me_edited" value="true"/>
             <presentation xmi:id="-5T6eapZ3B4D4U-JKZFeL2Q" href="uma://-5T6eapZ3B4D4U-JKZFeL2Q#-5T6eapZ3B4D4U-JKZFeL2Q"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Dl0pcOZTEeeoX-3oEkoa6Q" name="especificacin_de_requisitos" guid="_Dl0pcOZTEeeoX-3oEkoa6Q" presentationName="Especificación de Requisitos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Dl0pcOZTEeeoX-3oEkoa6Q" name="especificacin_de_requisitos" guid="_Dl0pcOZTEeeoX-3oEkoa6Q" presentationName="Especificación de Requisitos" briefDescription="La tarea de especificación de requerimientos indica las pautas a seguir para analizarlos, definirlos y especificar los cambios que estos provocarán en el sistema en caso de implementarse.&#xD;&#xA;El nivel de integridad de seguridad del software debe registrarse en la Especificación de Requisitos del Software.&#xD;&#xA;Los requerimientos de tipo no funcional pueden tener incluídos, entre otros, los subtipos: robustez, mantenibilidad, seguridad, eficiencia, usabilidad y portabilidad.&#xD;&#xA;El otro tipo de requerimientos, además de los no funcionales, son los funcionales, los cuales hacen referencia a cualidades o funcionalidades del software." performedBy="_X_EGQq02EeeTbJlYDwtuwA" output="_BBY40OaKEeexkdd4W9kOcQ">
             <methodElementProperty xmi:id="_FhMxAOZTEeeoX-3oEkoa6Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-DzX54ypx8CP1md335Pg-sQ" href="uma://-DzX54ypx8CP1md335Pg-sQ#-DzX54ypx8CP1md335Pg-sQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GV0r4OZTEeeoX-3oEkoa6Q" name="verificacin_de_requisitos" guid="_GV0r4OZTEeeoX-3oEkoa6Q" presentationName="3.1.3 - Verificación de Requisitos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GV0r4OZTEeeoX-3oEkoa6Q" name="verificacin_de_requisitos" guid="_GV0r4OZTEeeoX-3oEkoa6Q" presentationName="Verificación de Requisitos" briefDescription="La tarea de validación de requerimientos del software indica las pautas a seguir para validar las especificaciones de requerimientos generadas en el proceso anterior con los stakeholders, modificarlos y redefinirlos en un proceso iterativo de ser necesario, definir los ensayos a realizarse sobre los mismos.&#xD;&#xA;Los requerimientos pueden ser validados con stakeholders individuales o grupos identificados." performedBy="_X_EGQq02EeeTbJlYDwtuwA _X_DfMa02EeeTbJlYDwtuwA" output="_BBY40OaKEeexkdd4W9kOcQ _4xXAIAX1Eei-0Y9CFnbgCQ _9ZIcgAX1Eei-0Y9CFnbgCQ">
             <methodElementProperty xmi:id="_H_W1gOZTEeeoX-3oEkoa6Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-iqtAg2SpyXE4gMI-Np6ArA" href="uma://-iqtAg2SpyXE4gMI-Np6ArA#-iqtAg2SpyXE4gMI-Np6ArA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_F2khEOZ0Eee3VMeDAXBNcw" name="especificacin_de_requisitos_del_sistema" guid="_F2khEOZ0Eee3VMeDAXBNcw" presentationName="Especificación de Requisitos del Sistema">
-            <methodElementProperty xmi:id="_HEhh8OZ0Eee3VMeDAXBNcw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JcBk0OZ0Eee3VMeDAXBNcw" name="especificacin_de_requisitos_de_seguridad_del_sistema" guid="_JcBk0OZ0Eee3VMeDAXBNcw" presentationName="Especificación de Requisitos de Seguridad del Sistema">
-            <methodElementProperty xmi:id="_KXbdIOZ0Eee3VMeDAXBNcw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zmO14OZ2Eee3VMeDAXBNcw" name="descripcin_de_la_arquitectura_del_sistema" guid="_zmO14OZ2Eee3VMeDAXBNcw" presentationName="Descripción de la Arquitectura del sistema">
-            <methodElementProperty xmi:id="_0WLFEOZ2Eee3VMeDAXBNcw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_07G-IOZ2Eee3VMeDAXBNcw" name="especificaciones_de_la_interfaz_externa" guid="_07G-IOZ2Eee3VMeDAXBNcw" presentationName="Especificaciones de la Interfaz Externa">
-            <methodElementProperty xmi:id="_3KpX0OZ2Eee3VMeDAXBNcw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4GjmcOZ2Eee3VMeDAXBNcw" name="plan_de_validacin_del_software" guid="_4GjmcOZ2Eee3VMeDAXBNcw" presentationName="Plan de Validación del Software">
-            <methodElementProperty xmi:id="_EzfzIOZ3Eee3VMeDAXBNcw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BBY40OaKEeexkdd4W9kOcQ" name="especificacin_de_requisitos_software_ers" guid="_BBY40OaKEeexkdd4W9kOcQ" presentationName="Especificación de Requisitos Software (ERS)" templates="_GF5fEOaLEee5Z7c-_0eY9A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_BBY40OaKEeexkdd4W9kOcQ" name="Especificacin_de_requisitos_software_ERS" guid="_BBY40OaKEeexkdd4W9kOcQ" presentationName="Especificación de Requisitos Software (ERS)" templates="_GF5fEOaLEee5Z7c-_0eY9A">
             <methodElementProperty xmi:id="_CFwf4OaKEeexkdd4W9kOcQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_GF5fEOaLEee5Z7c-_0eY9A" name="formulario_-_especificacin_de_requisitos_software_-_proyecto_xx" guid="_GF5fEOaLEee5Z7c-_0eY9A" presentationName="Formulario - Especificación de Requisitos Software - Proyecto XX">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_GF5fEOaLEee5Z7c-_0eY9A" name="Formulario - Especificacin_de_requisitos_software_-_proyecto_xx" guid="_GF5fEOaLEee5Z7c-_0eY9A" presentationName="F_ERS_01 Especificación de Requisitos Software - Proyecto XX">
             <methodElementProperty xmi:id="_KgjFcOaLEee5Z7c-_0eY9A" name="me_edited" value="true"/>
             <presentation xmi:id="-9PC3Ct1zSKdjwbI-VRxxHQ" href="uma://-9PC3Ct1zSKdjwbI-VRxxHQ#-9PC3Ct1zSKdjwbI-VRxxHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4xXAIAX1Eei-0Y9CFnbgCQ" name="Especificacin_de_ensayos_del_software_en_conjunto_ESC" guid="_4xXAIAX1Eei-0Y9CFnbgCQ" presentationName="Especificación de Ensayos del Software en Conjunto (ESC)" templates="_CJjMoAX4Eei-0Y9CFnbgCQ">
+            <methodElementProperty xmi:id="_7-ecYAX1Eei-0Y9CFnbgCQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9ZIcgAX1Eei-0Y9CFnbgCQ" name="Informe_de_validacin_y_verificacin_de_los_requisitos_del_software_VRS" guid="_9ZIcgAX1Eei-0Y9CFnbgCQ" presentationName="Informe de Validación y verificación de los Requisitos del Software (VRS)">
+            <methodElementProperty xmi:id="_AOZZcAX2Eei-0Y9CFnbgCQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_CJjMoAX4Eei-0Y9CFnbgCQ" name="Formulario - Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx" guid="_CJjMoAX4Eei-0Y9CFnbgCQ" presentationName="Especificación de Ensayos del Software en Conjunto - Proyecto XX">
+            <methodElementProperty xmi:id="_M2NjoAX4Eei-0Y9CFnbgCQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-eAvpsgrcoxG4pUZQP3-P6w" href="uma://-eAvpsgrcoxG4pUZQP3-P6w#-eAvpsgrcoxG4pUZQP3-P6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_aIIssAX4Eei-0Y9CFnbgCQ" name="Formulario - Informe_de_verificacin_de_los_requisitos_del_software_-_proyecto_xx" guid="_aIIssAX4Eei-0Y9CFnbgCQ" presentationName="F_VRS_01 Informe de Verificación de los Requisitos del Software - Proyecto XX">
+            <methodElementProperty xmi:id="_d-UUEAX4Eei-0Y9CFnbgCQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CEoHXIq7zGGXhKZCP4H2Wg" href="uma://-CEoHXIq7zGGXhKZCP4H2Wg#-CEoHXIq7zGGXhKZCP4H2Wg"/>
           </contentElements>
         </childPackages>
       </childPackages>
