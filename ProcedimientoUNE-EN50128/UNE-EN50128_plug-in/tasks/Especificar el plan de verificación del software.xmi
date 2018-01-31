@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QADIKkpTxUb4oxmEGk1YFQ" name="Especificar el plan de verificación del software,_k5U44QT8Eeijd9RhshXkDQ" guid="-QADIKkpTxUb4oxmEGk1YFQ" changeDate="2018-01-29T16:42:15.922-0300">
+  <mainDescription>&lt;p>&#xD;
+    es un mini ciclo de vida identificando las diferentes verificacioens a ser llevadas adelante. Ver 6.2.4.9&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

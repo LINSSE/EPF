@@ -29,6 +29,9 @@
     <resourceDescriptors xmi:id="_kg_NIAXHEei-0Y9CFnbgCQ" id="-iqtAg2SpyXE4gMI-Np6ArA" uri="tasks/verificacin_de_requisitos.xmi"/>
     <resourceDescriptors xmi:id="_RZhWwAX4Eei-0Y9CFnbgCQ" id="-eAvpsgrcoxG4pUZQP3-P6w" uri="guidances/templates/Formulario%20-%20Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx.xmi"/>
     <resourceDescriptors xmi:id="_lXZacAX4Eei-0Y9CFnbgCQ" id="-CEoHXIq7zGGXhKZCP4H2Wg" uri="guidances/templates/Formulario%20-%20Informe_de_verificacin_de_los_requisitos_del_software_-_proyecto_xx.xmi"/>
+    <resourceDescriptors xmi:id="_INft8AT5Eeijd9RhshXkDQ" id="-r_3SoiJDGea_kKIeHDFA3A" uri="tasks/Calibrar%20el%20equipo%20de%20medición.xmi"/>
+    <resourceDescriptors xmi:id="_qD8D8AT5Eeijd9RhshXkDQ" id="-Wc3pVSyeeyBvuIIqoet4mw" uri="guidances/guidelines/Guía%20de%20Calibración%20de%20Multímetro%20digital.xmi"/>
+    <resourceDescriptors xmi:id="_yNO0YAT7Eeijd9RhshXkDQ" id="-hDOwk6fTL45TgAC9t-3ROA" uri="guidances/toolmentors/Uso%20de%20Testlink%20para%20realizar%20ensayos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -90,6 +93,55 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_g2jEIK0REeeTbJlYDwtuwA" name="Base" guid="_g2jEIK0REeeTbJlYDwtuwA" presentationName="Base">
           <methodElementProperty xmi:id="_g2kSQK0REeeTbJlYDwtuwA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_ittaEK0REeeTbJlYDwtuwA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qigzIAT1Eeijd9RhshXkDQ" name="Garantia de Calidad" guid="_qigzIAT1Eeijd9RhshXkDQ" presentationName="Garantia de Calidad">
+            <methodElementProperty xmi:id="_qip9EAT1Eeijd9RhshXkDQ" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_lTfEgAUsEeijd9RhshXkDQ" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3-WGIAT1Eeijd9RhshXkDQ" name="Especificar los ensayos de software en conjunto" guid="_3-WGIAT1Eeijd9RhshXkDQ" presentationName="Especificar los ensayos de software en conjunto">
+              <methodElementProperty xmi:id="_4AGZoAT1Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-u3n2ggLK5Q9IN-wM9x0x4Q" href="uma://-u3n2ggLK5Q9IN-wM9x0x4Q#-u3n2ggLK5Q9IN-wM9x0x4Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_C1hEAAT2Eeijd9RhshXkDQ" name="Ejecutar los ensayos de software en conjunto" guid="_C1hEAAT2Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de software en conjunto">
+              <methodElementProperty xmi:id="_L35DcAT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Mi3TEAT2Eeijd9RhshXkDQ" name="Especificar los ensayos de integración del software" guid="_Mi3TEAT2Eeijd9RhshXkDQ" presentationName="Especificar los ensayos de integración del software">
+              <methodElementProperty xmi:id="_QjLG0AT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SHuCwAT2Eeijd9RhshXkDQ" name="Ejecutar los ensayos de integración del software" guid="_SHuCwAT2Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
+              <methodElementProperty xmi:id="_Xda8IAT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YaWecAT2Eeijd9RhshXkDQ" name="Especificar los ensayos de integración del software_hardware" guid="_YaWecAT2Eeijd9RhshXkDQ" presentationName="Especificar los ensayos de integración del software_hardware">
+              <methodElementProperty xmi:id="_coSegAT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gHESgAT2Eeijd9RhshXkDQ" name="Ejecutar los ensayos de integración del software_hardware" guid="_gHESgAT2Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software_hardware">
+              <methodElementProperty xmi:id="_jPZ8cAT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_m5MGkAT2Eeijd9RhshXkDQ" name="Ejecutar los ensayos de los componentes software" guid="_m5MGkAT2Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
+              <methodElementProperty xmi:id="_q8T9wAT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_m5MGkQT2Eeijd9RhshXkDQ" name="Especificar los ensayos de los componentes software" guid="_m5MGkQT2Eeijd9RhshXkDQ" presentationName="Especificar los ensayos de integración del software">
+              <methodElementProperty xmi:id="_q8T9wQT2Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_50i9UAT2Eeijd9RhshXkDQ" name="Calibrar el equipo de medición" guid="_50i9UAT2Eeijd9RhshXkDQ" presentationName="Calibrar el equipo de medición" briefDescription="En el caso de las mediciones realizadas ">
+              <methodElementProperty xmi:id="_7-I_sAT5Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-r_3SoiJDGea_kKIeHDFA3A" href="uma://-r_3SoiJDGea_kKIeHDFA3A#-r_3SoiJDGea_kKIeHDFA3A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_IM-wkAT5Eeijd9RhshXkDQ" name="Guía de Calibración de Multímetro digital" guid="_IM-wkAT5Eeijd9RhshXkDQ" presentationName="Guía de Calibración de Multímetro digital">
+              <methodElementProperty xmi:id="_qDuBgAT5Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-Wc3pVSyeeyBvuIIqoet4mw" href="uma://-Wc3pVSyeeyBvuIIqoet4mw#-Wc3pVSyeeyBvuIIqoet4mw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Bl22IAT6Eeijd9RhshXkDQ" name="Uso de Testlink para realizar ensayos" guid="_Bl22IAT6Eeijd9RhshXkDQ" presentationName="Uso de Testlink para realizar ensayos" briefDescription="Se describirá el uso de la herramienta Testlink para el desarrollo de los ensayos de softwaro, tanto especificación como ejecución e informes.">
+              <methodElementProperty xmi:id="_yNFDYAT7Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-hDOwk6fTL45TgAC9t-3ROA" href="uma://-hDOwk6fTL45TgAC9t-3ROA#-hDOwk6fTL45TgAC9t-3ROA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_juSpIAT8Eeijd9RhshXkDQ" name="new_task" guid="_juSpIAT8Eeijd9RhshXkDQ" presentationName="New Task"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
+              <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44QT8Eeijd9RhshXkDQ" name="Especificar el plan de verificación del software" guid="_k5U44QT8Eeijd9RhshXkDQ" presentationName="Especificar el plan de verificación del software">
+              <methodElementProperty xmi:id="_ogaUUQT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-QADIKkpTxUb4oxmEGk1YFQ" href="uma://-QADIKkpTxUb4oxmEGk1YFQ#-QADIKkpTxUb4oxmEGk1YFQ"/>
+            </contentElements>
+          </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">
             <methodElementProperty xmi:id="_X_lDoK02EeeTbJlYDwtuwA" name="me_edited" value="true"/>
             <presentation xmi:id="-5zKjj2rW0C57huOsgn7Euw" href="uma://-5zKjj2rW0C57huOsgn7Euw#-5zKjj2rW0C57huOsgn7Euw"/>
