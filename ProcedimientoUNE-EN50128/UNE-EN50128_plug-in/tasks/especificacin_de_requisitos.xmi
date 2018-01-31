@@ -1,45 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DzX54ypx8CP1md335Pg-sQ" name="especificacin_de_requisitos,_Dl0pcOZTEeeoX-3oEkoa6Q" guid="-DzX54ypx8CP1md335Pg-sQ" changeDate="2018-01-29T17:23:24.541-0300">
-  <mainDescription>Resultados esperados: Especificación de requisitos del software.&lt;br />&#xD;
-Alcance: El Sistema de Gestión de Requerimientos.&lt;br />&#xD;
-Errores a evitar: Requerimientos contradictorios, mal interpretados o mal definidos.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DzX54ypx8CP1md335Pg-sQ" name="especificacin_de_requisitos,_Dl0pcOZTEeeoX-3oEkoa6Q" guid="-DzX54ypx8CP1md335Pg-sQ" changeDate="2018-01-31T17:13:24.006-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Resultados esperados : Especificación de requisitos del software.&lt;br />&#xD;
+    Alcance: El Sistema de Gestión de Requerimientos del Software.&lt;br />&#xD;
+    Errores a evitar: Requerimientos contradictorios, mal interpretados o mal definidos.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Salida: Se deben rellenar las tablas correspondientes en el siguiente formulario: &lt;a&#xD;
+    href=&quot;https://docs.google.com/document/d/1RjD0ShtcEjmbxT75fKRufKyuPdG_QBBfx3XmEek9KzA/edit#heading=h.ca32993wjl6i&quot;&#xD;
+    target=&quot;_blank&quot;>F_ERS_01 Especificación de Requisitos Software - Proyecto XX&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
   <sections xmi:id="_i6PGcAUyEei-0Y9CFnbgCQ" name="1- Realizar un análisis operacional de los requerimientos." guid="_i6PGcAUyEei-0Y9CFnbgCQ">
     <sectionDescription>&lt;p>&#xD;
     Se debe registar la información del análisis en las filas: 2 y&amp;nbsp;3 de la siguiente tabla:&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/Sem título1111.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/Captura2.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_jo4VIAUyEei-0Y9CFnbgCQ" name="2- Realizar un análisis sistémico de los requerimientos." guid="_jo4VIAUyEei-0Y9CFnbgCQ">
     <sectionDescription>&lt;p>&#xD;
-    Se debe registar la información del análisis en las filas:&amp;nbsp;4 y&amp;nbsp;5 de la siguiente tabla:&#xD;
+    Se debe registar la información del análisis en las filas:&amp;nbsp;4 y&amp;nbsp;5 de la siguiente tabla: &lt;img alt=&quot;&quot;&#xD;
+    src=&quot;resources/Captura2.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
 &lt;/p>&#xD;
-&lt;img alt=&quot;&quot; src=&quot;resources/Sem título1111.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&lt;br /></sectionDescription>
+&lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_kfcJsAUyEei-0Y9CFnbgCQ" name="3- Definir atributos característicos de los requerimientos" guid="_kfcJsAUyEei-0Y9CFnbgCQ">
     <sectionDescription>&lt;p>&#xD;
     Se debe registar la información del análisis en las fila:&amp;nbsp;2 de la siguiente tabla:&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título2.png&quot; width=&quot;600&quot; height=&quot;553&quot; />&#xD;
+    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/Captura3.png&quot; width=&quot;600&quot; height=&quot;553&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_36DIQAUyEei-0Y9CFnbgCQ" name="4- Definir los distintos modos de comportamiento del software." guid="_36DIQAUyEei-0Y9CFnbgCQ">
-    <sectionDescription>Árbol SSTA generado con la Figura 4.&lt;br />&#xD;
-&lt;br />&#xD;
+    <sectionDescription>&lt;p>&#xD;
+    Árbol SSTA generado.&#xD;
+&lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;./resources/Sem%20título3.png&quot; width=&quot;463&quot; height=&quot;600&quot; />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Captura4.png&quot; width=&quot;483&quot; height=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;img alt=&quot;&quot; src=&quot;resources/Captura5.png&quot; width=&quot;406&quot; height=&quot;285&quot; />&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_5og1MAUyEei-0Y9CFnbgCQ" name="5- Definir los distintos modos de fallo del software." guid="_5og1MAUyEei-0Y9CFnbgCQ">
-    <sectionDescription>&lt;p>&#xD;
-    Árbol SFTA generado con el complemento del árbol SSTA, como se puede observar en el ejemplo de la Figura 6.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título4.png&quot; width=&quot;437&quot; height=&quot;261&quot; />&#xD;
-&lt;/p>&#xD;
+    <sectionDescription>&lt;br />&#xD;
 &lt;br />&#xD;
 &lt;br /></sectionDescription>
   </sections>
@@ -53,17 +67,21 @@ Errores a evitar: Requerimientos contradictorios, mal interpretados o mal defini
     El grado de riesgo, en orden ascendente puede ser: aceptable, semi aceptable o no aceptable.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Captura6.png&quot; width=&quot;555&quot; height=&quot;416&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
     Para evaluar este último se debe utilizar la Tabla de Riesgos que se propone a continuación.&#xD;
 &lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;resources/Captura7.png&quot; width=&quot;572&quot; height=&quot;600&quot; />&lt;br />&#xD;
 &lt;br />&#xD;
-&lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título5.png&quot; width=&quot;569&quot; height=&quot;600&quot; />&amp;nbsp;&#xD;
-&lt;/p>&#xD;
+&lt;br />&#xD;
 &lt;br />&#xD;
 &lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_8EJxMAUyEei-0Y9CFnbgCQ" name="7- Construir un glosario de términos" guid="_8EJxMAUyEei-0Y9CFnbgCQ">
-    <sectionDescription>&lt;img alt=&quot;&quot; src=&quot;resources/Sem título000.png&quot; width=&quot;558&quot; height=&quot;238&quot; /></sectionDescription>
+    <sectionDescription>&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Captura8.png&quot; width=&quot;585&quot; height=&quot;250&quot; />&#xD;
+&lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_9MGQsAUyEei-0Y9CFnbgCQ" name="8- En caso de generarse nuevos requerimientos a partir de la especificación de los actuales, registrarlos." guid="_9MGQsAUyEei-0Y9CFnbgCQ"/>
   <purpose>Analizar, definir y especificar los requerimientos obtenidos en el proceso de Obtención, asegurando la calidad de los&#xD;
