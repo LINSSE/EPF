@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7d9RoWIHDRzHqI1vC6mwpA" name="A6 Integración,_Y2LFYAtlEeiCgPZABByP4Q" guid="-7d9RoWIHDRzHqI1vC6mwpA" changeDate="2018-02-06T14:44:44.084-0300">
+  <mainDescription>&lt;p>&#xD;
+    A continuación se describen las técnicas y buenas prácticas a tenerse en cuenta en las actividades&#xD;
+    de&amp;nbsp;integración&amp;nbsp;de componentes&amp;nbsp;de los proyectos de desarrollo software. Este conjunto de guías servirá&#xD;
+    como material de consulta y apoyo referenciado en los pasos y procedimientos del ciclo de vida del proyecto. Asimismo&#xD;
+    servirá como base para las evaluaciones internas, auditorías y revisiones.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_pYPwkAtlEeiCgPZABByP4Q" name="Ensayos Funcionales y de Caja Negra" guid="_pYPwkAtlEeiCgPZABByP4Q"/>
+  <sections xmi:id="_qk-pcAtlEeiCgPZABByP4Q" name="Ensayo de las Prestaciones" guid="_qk-pcAtlEeiCgPZABByP4Q"/>
+</org.eclipse.epf.uma:ContentDescription>

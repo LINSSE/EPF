@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-pdzQjtFE_dnhQ-Xrg12Mow" name="Guía de Cobertura de Ensayos para el Código,_d7qVUAthEeiCgPZABByP4Q" guid="-pdzQjtFE_dnhQ-Xrg12Mow" changeDate="2018-02-06T14:16:48.834-0300">
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: small; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Criterio de rama, de condición compuesta (2 y 3) y análisis de entradas D.50&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

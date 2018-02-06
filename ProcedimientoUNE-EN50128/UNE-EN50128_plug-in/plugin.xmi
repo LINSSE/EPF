@@ -34,6 +34,18 @@
     <resourceDescriptors xmi:id="_yNO0YAT7Eeijd9RhshXkDQ" id="-hDOwk6fTL45TgAC9t-3ROA" uri="guidances/toolmentors/Uso%20de%20Testlink%20para%20realizar%20ensayos.xmi"/>
     <resourceDescriptors xmi:id="_uPQD8AsyEeiCgPZABByP4Q" id="-_OceTX88nPAZgzatqB9Vqw" uri="tasks/Especificar%20el%20Plan%20de%20verificación%20del%20software%202.xmi"/>
     <resourceDescriptors xmi:id="_IrUg0As4EeiCgPZABByP4Q" id="-qbb9g4h7mXFDKGwIn9yCbw" uri="guidances/guidelines/Guía%20para%20realizar%20una%20Lista%20de%20Comprobación.xmi"/>
+    <resourceDescriptors xmi:id="_GG9OMAtaEeiCgPZABByP4Q" id="-ryNTrhPryA0imLh8YH0s1A" uri="guidances/guidelines/Guía%20para%20los%20Ensayos%20basados%20en%20la%20Inserción%20de%20Errores.xmi"/>
+    <resourceDescriptors xmi:id="_RxCPsAtaEeiCgPZABByP4Q" id="-65XJVRfvlobG13YvcRxv8Q" uri="guidances/guidelines/Guía%20para%20el%20Análisis%20de%20Valor%20Límite%20y%20Clases%20de%20Equivalencia.xmi"/>
+    <resourceDescriptors xmi:id="_RxLZoAtaEeiCgPZABByP4Q" id="-kqONYDLxVSv5CU6Dlh8a2Q" uri="guidances/guidelines/Guía%20para%20los%20Ensayos%20basados%20en%20la%20Suposición%20de%20Errores.xmi"/>
+    <resourceDescriptors xmi:id="_X7FXIAtaEeiCgPZABByP4Q" id="-t9m8vDL7NX1apLwdgm0rqA" uri="guidances/guidelines/Guía%20para%20el%20Modelado%20de%20las%20Prestaciones.xmi"/>
+    <resourceDescriptors xmi:id="_BdCAQAtbEeiCgPZABByP4Q" id="-MGRRm6qzZApj7kp7hNQWjA" uri="guidances/guidelines/Guía%20para%20los%20Ensayos%20basados%20en%20la%20Estructura.xmi"/>
+    <resourceDescriptors xmi:id="_zfnmAAthEeiCgPZABByP4Q" id="-pdzQjtFE_dnhQ-Xrg12Mow" uri="guidances/guidelines/Guía%20para%20la%20Cobertura%20de%20Ensayos%20para%20el%20Código.xmi"/>
+    <resourceDescriptors xmi:id="_BhFVoAtiEeiCgPZABByP4Q" id="-CBO6pmVVY0oLbHa4Rk88oQ" uri="guidances/guidelines/Guía%20para%20los%20Ensayos%20Funcionales%20y%20de%20Caja%20Negra.xmi"/>
+    <resourceDescriptors xmi:id="_mrfWwAtiEeiCgPZABByP4Q" id="-RSFPWRFM_fZiVaitkucoYA" uri="guidances/guidelines/Guía%20para%20la%20Ejecución%20de%20Ensayos%20a%20partir%20de%20Diagramas%20de%20Causa%20Efecto.xmi"/>
+    <resourceDescriptors xmi:id="_5YAgQAtiEeiCgPZABByP4Q" id="-C4lMnSHm5rqYPIg0oPu2kg" uri="guidances/guidelines/Guía%20para%20Prototipado%20y%20Animación.xmi"/>
+    <resourceDescriptors xmi:id="_BVUVEAtjEeiCgPZABByP4Q" id="-TTPJ_TOf_o4qn60Tw5auhA" uri="guidances/guidelines/Guía%20para%20la%20Simulación%20de%20Procesos.xmi"/>
+    <resourceDescriptors xmi:id="_0Za0cAtkEeiCgPZABByP4Q" id="-kDo8pv07rvBPchHB65O7Aw" uri="guidances/checklists/A5%20Verificación%20y%20Ensayos.xmi"/>
+    <resourceDescriptors xmi:id="_erRQgAtlEeiCgPZABByP4Q" id="-7d9RoWIHDRzHqI1vC6mwpA" uri="guidances/checklists/A6%20Integración.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -139,12 +151,13 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
               <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pZH38AsxEeiCgPZABByP4Q" name="Especificar el Plan de verificación del software" guid="_pZH38AsxEeiCgPZABByP4Q" presentationName="Especificar el Plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" performedBy="_X_FUYa02EeeTbJlYDwtuwA">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pZH38AsxEeiCgPZABByP4Q" name="Especificar el Plan de verificación del software" guid="_pZH38AsxEeiCgPZABByP4Q" presentationName="Especificar el plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" guidelines="_gIz4cAtYEeiCgPZABByP4Q" performedBy="_X_FUYa02EeeTbJlYDwtuwA">
               <methodElementProperty xmi:id="_ss1rcAsxEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-_OceTX88nPAZgzatqB9Vqw" href="uma://-_OceTX88nPAZgzatqB9Vqw#-_OceTX88nPAZgzatqB9Vqw"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_cg5ZkAs3EeiCgPZABByP4Q" name="Guía para el Análisis de Valor Límite" guid="_cg5ZkAs3EeiCgPZABByP4Q" presentationName="Guía para el Análisis de Valor Límite" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_cg5ZkAs3EeiCgPZABByP4Q" name="Guía para el Análisis de Valor Límite y Clases de Equivalencia" guid="_cg5ZkAs3EeiCgPZABByP4Q" presentationName="Guía para el Análisis de Valor Límite y Clases de Equivalencia" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
               <methodElementProperty xmi:id="_ye4T0As3EeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-65XJVRfvlobG13YvcRxv8Q" href="uma://-65XJVRfvlobG13YvcRxv8Q#-65XJVRfvlobG13YvcRxv8Q"/>
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2NyOgAs3EeiCgPZABByP4Q" name="Guía para realizar una Lista de Comprobación" guid="_2NyOgAs3EeiCgPZABByP4Q" presentationName="Guía para realizar una Lista de Comprobación" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
               <methodElementProperty xmi:id="_-FgYsAs3EeiCgPZABByP4Q" name="me_edited" value="true"/>
@@ -152,6 +165,74 @@
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_ErUPEAs4EeiCgPZABByP4Q" name="Guía para el Análisis de Flujo de Control" guid="_ErUPEAs4EeiCgPZABByP4Q" presentationName="Guía para el Análisis de Flujo de Control" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
               <methodElementProperty xmi:id="_WqApQAs4EeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_y2FFUAtXEeiCgPZABByP4Q" name="Guía para el Análisis de Flujo de Datos" guid="_y2FFUAtXEeiCgPZABByP4Q" presentationName="Guía para el Análisis de Flujo de Datos" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_zdV5oAtXEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_8Gs8IAtXEeiCgPZABByP4Q" name="Guía para los Ensayos basados en la Suposición de Errores" guid="_8Gs8IAtXEeiCgPZABByP4Q" presentationName="Guía para los Ensayos basados en la Suposición de Errores" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_-gBj8AtXEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-kqONYDLxVSv5CU6Dlh8a2Q" href="uma://-kqONYDLxVSv5CU6Dlh8a2Q#-kqONYDLxVSv5CU6Dlh8a2Q"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_FbFRkAtYEeiCgPZABByP4Q" name="Guía para la Revisión del Diseño" guid="_FbFRkAtYEeiCgPZABByP4Q" presentationName="Guía para la Revisión del Diseño" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_HUuTwAtYEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_gIz4cAtYEeiCgPZABByP4Q" name="Guía para el Análisis Estático" guid="_gIz4cAtYEeiCgPZABByP4Q" presentationName="Guía para el Análisis Estático" briefDescription="Conjunto de técnicas de verificación de acuerdo con la UNE-EN 50128 - A5" guidelines="_ErUPEAs4EeiCgPZABByP4Q _y2FFUAtXEeiCgPZABByP4Q _cg5ZkAs3EeiCgPZABByP4Q _FbFRkAtYEeiCgPZABByP4Q _8Gs8IAtXEeiCgPZABByP4Q _2NyOgAs3EeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_hRFIEAtYEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_wClNgAtYEeiCgPZABByP4Q" name="Guía para el Análisis Dinámico" guid="_wClNgAtYEeiCgPZABByP4Q" presentationName="Guía para el Análisis Dinámico" briefDescription="Conjunto de técnicas de verificación de acuerdo con la UNE-EN 50128 - A5" guidelines="_cg5ZkAs3EeiCgPZABByP4Q _WZjS8AtaEeiCgPZABByP4Q _9IS0oAtaEeiCgPZABByP4Q _0kdn0AtZEeiCgPZABByP4Q _8Gs8IAtXEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_1WORYAtYEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_0kdn0AtZEeiCgPZABByP4Q" name="Guía para los Ensayos basados en la Inserción de Errores" guid="_0kdn0AtZEeiCgPZABByP4Q" presentationName="Guía para los Ensayos basados en la Inserción de Errores" briefDescription="Técnica que forma parte del análisis dinámico UNE-EN 50128 - A13">
+              <methodElementProperty xmi:id="__mHXYAtZEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-ryNTrhPryA0imLh8YH0s1A" href="uma://-ryNTrhPryA0imLh8YH0s1A#-ryNTrhPryA0imLh8YH0s1A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_WZjS8AtaEeiCgPZABByP4Q" name="Guía para el Modelado de las Prestaciones" guid="_WZjS8AtaEeiCgPZABByP4Q" presentationName="Guía para el Modelado de las Prestaciones" briefDescription="Técnica que forma parte del análisis dinámico UNE-EN 50128 - A13">
+              <methodElementProperty xmi:id="_X6v_8AtaEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-t9m8vDL7NX1apLwdgm0rqA" href="uma://-t9m8vDL7NX1apLwdgm0rqA#-t9m8vDL7NX1apLwdgm0rqA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9IS0oAtaEeiCgPZABByP4Q" name="Guía para los Ensayos basados en la Estructura" guid="_9IS0oAtaEeiCgPZABByP4Q" presentationName="Guía para los Ensayos basados en la Estructura" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_BcnJgAtbEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-MGRRm6qzZApj7kp7hNQWjA" href="uma://-MGRRm6qzZApj7kp7hNQWjA#-MGRRm6qzZApj7kp7hNQWjA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_d7qVUAthEeiCgPZABByP4Q" name="Guía para la Cobertura de Ensayos para el Código" guid="_d7qVUAthEeiCgPZABByP4Q" presentationName="Guía para la Cobertura de Ensayos para el Código" briefDescription="Conjunto de técnicas de verificación de acuerdo con la UNE-EN 50128 - A5" guidelines="_cg5ZkAs3EeiCgPZABByP4Q _jWVY0AtiEeiCgPZABByP4Q _AByQoAtjEeiCgPZABByP4Q _zr9jcAtiEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_zfUrEAthEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-pdzQjtFE_dnhQ-Xrg12Mow" href="uma://-pdzQjtFE_dnhQ-Xrg12Mow#-pdzQjtFE_dnhQ-Xrg12Mow"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_9h_p4AthEeiCgPZABByP4Q" name="Guía para los Ensayos Funcionales y de Caja Negra" guid="_9h_p4AthEeiCgPZABByP4Q" presentationName="Guía para la Cobertura de Ensayos para el Código" briefDescription="Conjunto de técnicas de verificación de acuerdo con la UNE-EN 50128 - A5">
+              <methodElementProperty xmi:id="_BgyasAtiEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-CBO6pmVVY0oLbHa4Rk88oQ" href="uma://-CBO6pmVVY0oLbHa4Rk88oQ#-CBO6pmVVY0oLbHa4Rk88oQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_jWVY0AtiEeiCgPZABByP4Q" name="Guía para la Ejecución de Ensayos a partir de Diagramas de Causa Efecto" guid="_jWVY0AtiEeiCgPZABByP4Q" presentationName="Guía para la Ejecución de Ensayos a partir de Diagramas de Causa Efecto" briefDescription="Técnica que forma parte de los Ensayos Funcionales y de Caja Negra UNE-EN 50128 - A14">
+              <methodElementProperty xmi:id="_mrJ_kAtiEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-RSFPWRFM_fZiVaitkucoYA" href="uma://-RSFPWRFM_fZiVaitkucoYA#-RSFPWRFM_fZiVaitkucoYA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_zr9jcAtiEeiCgPZABByP4Q" name="Guía para Prototipado y Animación" guid="_zr9jcAtiEeiCgPZABByP4Q" presentationName="Guía para Prototipado y Animación" briefDescription="Técnica que forma parte de los Ensayos Funcionales y de Caja Negra UNE-EN 50128 - A14">
+              <methodElementProperty xmi:id="_5WbL4AtiEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-C4lMnSHm5rqYPIg0oPu2kg" href="uma://-C4lMnSHm5rqYPIg0oPu2kg#-C4lMnSHm5rqYPIg0oPu2kg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_AByQoAtjEeiCgPZABByP4Q" name="Guía para la Simulación de Procesos" guid="_AByQoAtjEeiCgPZABByP4Q" presentationName="Guía para la Simulación de Procesos" briefDescription="Técnica que forma parte de los Ensayos Funcionales y de Caja Negra UNE-EN 50128 - A14">
+              <methodElementProperty xmi:id="_BVLLIAtjEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-TTPJ_TOf_o4qn60Tw5auhA" href="uma://-TTPJ_TOf_o4qn60Tw5auhA#-TTPJ_TOf_o4qn60Tw5auhA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_zjV9gAtjEeiCgPZABByP4Q" name="A5 Verificación y Ensayos" guid="_zjV9gAtjEeiCgPZABByP4Q" presentationName="A5 Verificación y Ensayos" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y 7. 3 de la norma UNE-En 50128. Tabla A5" guidelines="_wClNgAtYEeiCgPZABByP4Q _gIz4cAtYEeiCgPZABByP4Q _d7qVUAthEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_0ZH5gAtkEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-kDo8pv07rvBPchHB65O7Aw" href="uma://-kDo8pv07rvBPchHB65O7Aw#-kDo8pv07rvBPchHB65O7Aw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_Y2LFYAtlEeiCgPZABByP4Q" name="A6 Integración" guid="_Y2LFYAtlEeiCgPZABByP4Q" presentationName="A6 Integración" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 7. 6 de la norma UNE-En 50128. Tabla A6" guidelines="_BiDCIAtmEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_UCCLgAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-7d9RoWIHDRzHqI1vC6mwpA" href="uma://-7d9RoWIHDRzHqI1vC6mwpA#-7d9RoWIHDRzHqI1vC6mwpA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_slZpEAtlEeiCgPZABByP4Q" name="Guía para los Ensayos de Avalancha y de Sobrecarga" guid="_slZpEAtlEeiCgPZABByP4Q" presentationName="Guía para los Ensayos de Avalancha y de Sobrecarga" briefDescription="Técnica que forma parte de los Ensayos de Prestaciones UNE-EN 50128 - A18">
+              <methodElementProperty xmi:id="_AGXuUAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_BiDCIAtmEeiCgPZABByP4Q" name="Guía para los Ensayos de Prestaciones" guid="_BiDCIAtmEeiCgPZABByP4Q" presentationName="Guía para los Ensayos de Prestaciones" briefDescription="Conjunto de técnicas de integración de acuerdo con la UNE-EN 50128 - A18" guidelines="_hWE0cAtmEeiCgPZABByP4Q _slZpEAtlEeiCgPZABByP4Q _VySBIAtmEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_DNnzIAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_VySBIAtmEeiCgPZABByP4Q" name="Guía para los Ensayos de Tiempo de Respuesta y Memoria" guid="_VySBIAtmEeiCgPZABByP4Q" presentationName="Guía para los Ensayos de Tiempo de Respuesta y Memoria" briefDescription="Técnica que forma parte de los Ensayos de Prestaciones UNE-EN 50128 - A18">
+              <methodElementProperty xmi:id="_Yl70gAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_hWE0cAtmEeiCgPZABByP4Q" name="Guía para la Verificación del cumplimiento de los Requisitos de las Prestaciones" guid="_hWE0cAtmEeiCgPZABByP4Q" presentationName="Guía para la Verificación del cumplimiento de los Requisitos de las Prestaciones" briefDescription="Técnica que forma parte de los Ensayos de Prestaciones UNE-EN 50128 - A18">
+              <methodElementProperty xmi:id="_l7cdEAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
             </contentElements>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">
