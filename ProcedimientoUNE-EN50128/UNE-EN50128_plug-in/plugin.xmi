@@ -32,6 +32,8 @@
     <resourceDescriptors xmi:id="_INft8AT5Eeijd9RhshXkDQ" id="-r_3SoiJDGea_kKIeHDFA3A" uri="tasks/Calibrar%20el%20equipo%20de%20medición.xmi"/>
     <resourceDescriptors xmi:id="_qD8D8AT5Eeijd9RhshXkDQ" id="-Wc3pVSyeeyBvuIIqoet4mw" uri="guidances/guidelines/Guía%20de%20Calibración%20de%20Multímetro%20digital.xmi"/>
     <resourceDescriptors xmi:id="_yNO0YAT7Eeijd9RhshXkDQ" id="-hDOwk6fTL45TgAC9t-3ROA" uri="guidances/toolmentors/Uso%20de%20Testlink%20para%20realizar%20ensayos.xmi"/>
+    <resourceDescriptors xmi:id="_uPQD8AsyEeiCgPZABByP4Q" id="-_OceTX88nPAZgzatqB9Vqw" uri="tasks/Especificar%20el%20Plan%20de%20verificación%20del%20software%202.xmi"/>
+    <resourceDescriptors xmi:id="_IrUg0As4EeiCgPZABByP4Q" id="-qbb9g4h7mXFDKGwIn9yCbw" uri="guidances/guidelines/Guía%20para%20realizar%20una%20Lista%20de%20Comprobación.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -137,9 +139,19 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
               <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44QT8Eeijd9RhshXkDQ" name="Especificar el plan de verificación del software" guid="_k5U44QT8Eeijd9RhshXkDQ" presentationName="Especificar el plan de verificación del software">
-              <methodElementProperty xmi:id="_ogaUUQT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
-              <presentation xmi:id="-QADIKkpTxUb4oxmEGk1YFQ" href="uma://-QADIKkpTxUb4oxmEGk1YFQ#-QADIKkpTxUb4oxmEGk1YFQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pZH38AsxEeiCgPZABByP4Q" name="Especificar el Plan de verificación del software" guid="_pZH38AsxEeiCgPZABByP4Q" presentationName="Especificar el Plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" performedBy="_X_FUYa02EeeTbJlYDwtuwA">
+              <methodElementProperty xmi:id="_ss1rcAsxEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-_OceTX88nPAZgzatqB9Vqw" href="uma://-_OceTX88nPAZgzatqB9Vqw#-_OceTX88nPAZgzatqB9Vqw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_cg5ZkAs3EeiCgPZABByP4Q" name="Guía para el Análisis de Valor Límite" guid="_cg5ZkAs3EeiCgPZABByP4Q" presentationName="Guía para el Análisis de Valor Límite" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_ye4T0As3EeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_2NyOgAs3EeiCgPZABByP4Q" name="Guía para realizar una Lista de Comprobación" guid="_2NyOgAs3EeiCgPZABByP4Q" presentationName="Guía para realizar una Lista de Comprobación" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_-FgYsAs3EeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-qbb9g4h7mXFDKGwIn9yCbw" href="uma://-qbb9g4h7mXFDKGwIn9yCbw#-qbb9g4h7mXFDKGwIn9yCbw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_ErUPEAs4EeiCgPZABByP4Q" name="Guía para el Análisis de Flujo de Control" guid="_ErUPEAs4EeiCgPZABByP4Q" presentationName="Guía para el Análisis de Flujo de Control" briefDescription="Técnica que forma parte del análisis estático UNE-EN 50128 - A19">
+              <methodElementProperty xmi:id="_WqApQAs4EeiCgPZABByP4Q" name="me_edited" value="true"/>
             </contentElements>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">

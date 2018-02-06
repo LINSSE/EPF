@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_OceTX88nPAZgzatqB9Vqw" name=",_pZH38AsxEeiCgPZABByP4Q" guid="-_OceTX88nPAZgzatqB9Vqw" authors="Emanuel Irrazabal" changeDate="2018-02-06T08:37:40.732-0300" version="0.9">
+  <mainDescription>&lt;p>&#xD;
+    La especificación del plan de verificación consistirá en un único formulario que ordenará las tareas de comprobación y&#xD;
+    tendrá como documentos relacionados el documento de ciclo de vida y las diferentes guías con las técnicas de&#xD;
+    verificación.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Seleccionar la estrategia y las herramientas de verificación de cada fase del desarrollo software.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>
