@@ -46,6 +46,7 @@
     <resourceDescriptors xmi:id="_BVUVEAtjEeiCgPZABByP4Q" id="-TTPJ_TOf_o4qn60Tw5auhA" uri="guidances/guidelines/Guía%20para%20la%20Simulación%20de%20Procesos.xmi"/>
     <resourceDescriptors xmi:id="_0Za0cAtkEeiCgPZABByP4Q" id="-kDo8pv07rvBPchHB65O7Aw" uri="guidances/checklists/A5%20Verificación%20y%20Ensayos.xmi"/>
     <resourceDescriptors xmi:id="_erRQgAtlEeiCgPZABByP4Q" id="-7d9RoWIHDRzHqI1vC6mwpA" uri="guidances/checklists/A6%20Integración.xmi"/>
+    <resourceDescriptors xmi:id="_11oycAtyEeiCgPZABByP4Q" id="-yGbpinjXbYLRhqkJh3APvw" uri="guidances/checklists/A7%20Ensayos%20de%20Software%20en%20Conjunto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -233,6 +234,10 @@
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_hWE0cAtmEeiCgPZABByP4Q" name="Guía para la Verificación del cumplimiento de los Requisitos de las Prestaciones" guid="_hWE0cAtmEeiCgPZABByP4Q" presentationName="Guía para la Verificación del cumplimiento de los Requisitos de las Prestaciones" briefDescription="Técnica que forma parte de los Ensayos de Prestaciones UNE-EN 50128 - A18">
               <methodElementProperty xmi:id="_l7cdEAtmEeiCgPZABByP4Q" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_yo2tYAtyEeiCgPZABByP4Q" name="A7 Ensayos de Software en Conjunto" guid="_yo2tYAtyEeiCgPZABByP4Q" presentationName="A7 Ensayos de Software en Conjunto" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y &#x9;7. 7 de la norma UNE-En 50128. Tabla A7" guidelines="_BiDCIAtmEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
+              <methodElementProperty xmi:id="_10XnIAtyEeiCgPZABByP4Q" name="me_edited" value="true"/>
+              <presentation xmi:id="-yGbpinjXbYLRhqkJh3APvw" href="uma://-yGbpinjXbYLRhqkJh3APvw#-yGbpinjXbYLRhqkJh3APvw"/>
             </contentElements>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">
