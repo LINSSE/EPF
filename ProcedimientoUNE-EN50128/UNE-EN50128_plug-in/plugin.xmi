@@ -55,7 +55,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkpjGEeeafv7hrIg7lQ" name="Categories" guid="_R1hfkpjGEeeafv7hrIg7lQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfk5jGEeeafv7hrIg7lQ" name="Domains" guid="_R1hfk5jGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ _zjV9gAtjEeiCgPZABByP4Q _Y2LFYAtlEeiCgPZABByP4Q _yo2tYAtyEeiCgPZABByP4Q" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
             <methodElementProperty xmi:id="_osht4MAVEeepstfmonv3dA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_c8M2wMPAEeeLc_rF2D1YWQ" name="Tareas" guid="_c8M2wMPAEeeLc_rF2D1YWQ" presentationName="Tareas">
