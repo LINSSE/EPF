@@ -4,7 +4,8 @@
     <sectionDescription>Evaluar el tipo de proyecto de acuerdo con la documentación de Fase 1 a 4 de la norma EN 50126.</sectionDescription>
   </sections>
   <sections xmi:id="_UDYOYNnZEeeandfM8vtSQw" name="Seleccionar el tipo de proyecto y crear el entorno colaborativo" guid="_UDYOYNnZEeeandfM8vtSQw">
-    <sectionDescription>&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot; border=&quot;1&quot;>&#xD;
+    <sectionDescription>&lt;br />&#xD;
+&lt;table title=&quot;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;85%&quot; border=&quot;1&quot;>&#xD;
     &lt;tbody>&#xD;
         &lt;tr>&#xD;
             &lt;td>&#xD;
@@ -39,6 +40,19 @@
             &lt;/td>&#xD;
         &lt;/tr>&#xD;
     &lt;/tbody>&#xD;
-&lt;/table></sectionDescription>
+&lt;/table>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Crear el proyecto de pruebas para los ensayos con la herramienta testlink: &lt;a&#xD;
+    href=&quot;C:/Users/Cortes/Documents/GitHub/EPF/ProcedimientoUNE-EN50128/UNE-EN50128_plug-in/tasks/testlink.linsse.com.ar&quot;&#xD;
+    target=&quot;_blank&quot;>crear&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    En caso de no tener acceso a alguno de los entornos comunicarse con el jefe del proyecto o el área de calidad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
