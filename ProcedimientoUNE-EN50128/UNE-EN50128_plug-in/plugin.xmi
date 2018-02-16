@@ -47,6 +47,7 @@
     <resourceDescriptors xmi:id="_0Za0cAtkEeiCgPZABByP4Q" id="-kDo8pv07rvBPchHB65O7Aw" uri="guidances/checklists/A5%20Verificación%20y%20Ensayos.xmi"/>
     <resourceDescriptors xmi:id="_erRQgAtlEeiCgPZABByP4Q" id="-7d9RoWIHDRzHqI1vC6mwpA" uri="guidances/checklists/A6%20Integración.xmi"/>
     <resourceDescriptors xmi:id="_11oycAtyEeiCgPZABByP4Q" id="-yGbpinjXbYLRhqkJh3APvw" uri="guidances/checklists/A7%20Ensayos%20de%20Software%20en%20Conjunto.xmi"/>
+    <resourceDescriptors xmi:id="__qcMgBGVEeiO57Qqij8wWw" id="-Ji_evfh6VifsSBao432QjA" uri="tasks/Ejecutar%20el%20plan%20de%20verificación%20del%20software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -59,7 +60,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_c8M2wMPAEeeLc_rF2D1YWQ" name="Tareas" guid="_c8M2wMPAEeeLc_rF2D1YWQ" presentationName="Tareas">
             <methodElementProperty xmi:id="_hatpcMPAEeeLc_rF2D1YWQ" name="me_edited" value="true"/>
-            <subdiscipline xmi:id="_hFcsQOW7Eee3O4UYWqsU5g" name="planificacion" guid="_hFcsQOW7Eee3O4UYWqsU5g" presentationName="Planificacion" tasks="_KkbQoK03EeeTbJlYDwtuwA _MwanEK03EeeTbJlYDwtuwA">
+            <subdiscipline xmi:id="_hFcsQOW7Eee3O4UYWqsU5g" name="planificacion" guid="_hFcsQOW7Eee3O4UYWqsU5g" presentationName="Planificacion" tasks="_KkbQoK03EeeTbJlYDwtuwA _MwanEK03EeeTbJlYDwtuwA _pZH38AsxEeiCgPZABByP4Q">
               <methodElementProperty xmi:id="_ipAJsOW7Eee3O4UYWqsU5g" name="me_edited" value="true"/>
             </subdiscipline>
             <subdiscipline xmi:id="_jJ5QQOW7Eee3O4UYWqsU5g" name="requerimientos" guid="_jJ5QQOW7Eee3O4UYWqsU5g" presentationName="Requerimientos" tasks="_9WxGMOZSEeeoX-3oEkoa6Q _Dl0pcOZTEeeoX-3oEkoa6Q _GV0r4OZTEeeoX-3oEkoa6Q">
@@ -151,8 +152,9 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_juSpIAT8Eeijd9RhshXkDQ" name="new_task" guid="_juSpIAT8Eeijd9RhshXkDQ" presentationName="New Task"/>
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
               <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-Ji_evfh6VifsSBao432QjA" href="uma://-Ji_evfh6VifsSBao432QjA#-Ji_evfh6VifsSBao432QjA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pZH38AsxEeiCgPZABByP4Q" name="Especificar el Plan de verificación del software" guid="_pZH38AsxEeiCgPZABByP4Q" presentationName="Especificar el plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" guidelines="_gIz4cAtYEeiCgPZABByP4Q" performedBy="_X_FUYa02EeeTbJlYDwtuwA">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pZH38AsxEeiCgPZABByP4Q" name="Especificar el Plan de verificación del software" guid="_pZH38AsxEeiCgPZABByP4Q" presentationName="Especificar el plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" checklists="_zjV9gAtjEeiCgPZABByP4Q _Y2LFYAtlEeiCgPZABByP4Q _yo2tYAtyEeiCgPZABByP4Q" guidelines="_gIz4cAtYEeiCgPZABByP4Q" performedBy="_X_FUYa02EeeTbJlYDwtuwA">
               <methodElementProperty xmi:id="_ss1rcAsxEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-_OceTX88nPAZgzatqB9Vqw" href="uma://-_OceTX88nPAZgzatqB9Vqw#-_OceTX88nPAZgzatqB9Vqw"/>
             </contentElements>

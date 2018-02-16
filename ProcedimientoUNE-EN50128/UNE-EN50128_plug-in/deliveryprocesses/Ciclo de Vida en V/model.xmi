@@ -20,6 +20,8 @@
     <resourceDescriptors xmi:id="_Rp6qkAX1Eei-0Y9CFnbgCQ" id="-1-r8XDh7hRtGW8uaRIFeTw" uri="content.xmi"/>
     <resourceDescriptors xmi:id="_Rp74sAX1Eei-0Y9CFnbgCQ" id="-McKeE1gLTuOWS1Um_vDWcA" uri="content.xmi"/>
     <resourceDescriptors xmi:id="_Rp9G0AX1Eei-0Y9CFnbgCQ" id="-cA9doEGLJYNz6mnVm-Tygg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_SkMwYBMNEeisT5thlnqPXQ" id="-85T9CmYEty5dZyGjeEMRyg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_SkPMoBMNEeisT5thlnqPXQ" id="-gfuyBhftd-pxLN2wEaF1Cw" uri="content.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_SHQ1oLqNEeexnaZ05SXmkw" name="Ciclo de Vida en V" guid="_SHQ1oLqNEeexnaZ05SXmkw">
     <methodElementProperty xmi:id="_SHRcsLqNEeexnaZ05SXmkw" name="pkg_loadCheck" value="true"/>
@@ -36,6 +38,7 @@
           <methodElementProperty xmi:id="_dzKtAOaIEeexkdd4W9kOcQ" name="descriptor_customization" value="2"/>
           <presentation xmi:id="-CcKyR1uPLLjOyD7iykX1vA" href="uma://-oga0e-lEfZgtevQILy_IHg#-CcKyR1uPLLjOyD7iykX1vA"/>
           <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_9WxGMOZSEeeoX-3oEkoa6Q"/>
+          <selectedSteps href="uma://-5T6eapZ3B4D4U-JKZFeL2Q#_-Z350AaPEeiKn-WiuD8_HQ"/>
           <selectedSteps href="uma://-5T6eapZ3B4D4U-JKZFeL2Q#_kU0PYOZ4Eee3VMeDAXBNcw"/>
           <selectedSteps href="uma://-5T6eapZ3B4D4U-JKZFeL2Q#_niKNwOZ7Eee3VMeDAXBNcw"/>
           <selectedSteps href="uma://-5T6eapZ3B4D4U-JKZFeL2Q#_jQeHYOaBEee3VMeDAXBNcw"/>
@@ -246,8 +249,25 @@
         </processElements>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WGmPIMM3EeeLc_rF2D1YWQ" name="Plan de Verificacion del Software" guid="_WGmPIMM3EeeLc_rF2D1YWQ">
-        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_WGmPIcM3EeeLc_rF2D1YWQ" name="Plan de Verificacion del Software" guid="_WGmPIcM3EeeLc_rF2D1YWQ" presentationName="Desarrollar el Plan de Verificación del Software" superActivities="_yEo_0L6AEeeiGtSEVKM1dA" linkToPredecessor="_S8qasAaLEei-4bEcYtDGGQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_WGmPIcM3EeeLc_rF2D1YWQ" name="Plan de Verificacion del Software" guid="_WGmPIcM3EeeLc_rF2D1YWQ" presentationName="Desarrollar el Plan de Verificación del Software" superActivities="_yEo_0L6AEeeiGtSEVKM1dA" linkToPredecessor="_S8qasAaLEei-4bEcYtDGGQ" breakdownElements="_R811cBMNEeisT5thlnqPXQ _R82cgBMNEeisT5thlnqPXQ"/>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_S8qasAaLEei-4bEcYtDGGQ" guid="_S8qasAaLEei-4bEcYtDGGQ" pred="_GnAUocM3EeeLc_rF2D1YWQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_R811cBMNEeisT5thlnqPXQ" name="Especificar el Plan de verificación del software" guid="_R811cBMNEeisT5thlnqPXQ" presentationName="Especificar el plan de verificación del software" briefDescription="El plan de verificación registrará los diferentes pasos y técnicas a ser utilizados en el proyecto de desarrollo para comprobar el cumplimiento de los requisitos de cada fase. UNE EN 50128 6.2.1.1" superActivities="_WGmPIcM3EeeLc_rF2D1YWQ" performedPrimarilyBy="_R82cgBMNEeisT5thlnqPXQ">
+          <methodElementProperty xmi:id="_R9adMBMNEeisT5thlnqPXQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-85T9CmYEty5dZyGjeEMRyg" href="uma://-oga0e-lEfZgtevQILy_IHg#-85T9CmYEty5dZyGjeEMRyg"/>
+          <checklists href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_zjV9gAtjEeiCgPZABByP4Q"/>
+          <checklists href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_Y2LFYAtlEeiCgPZABByP4Q"/>
+          <checklists href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_yo2tYAtyEeiCgPZABByP4Q"/>
+          <guidelines href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_gIz4cAtYEeiCgPZABByP4Q"/>
+          <Task href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_pZH38AsxEeiCgPZABByP4Q"/>
+          <selectedSteps href="uma://-_OceTX88nPAZgzatqB9Vqw#_HSugoBGjEeiO57Qqij8wWw"/>
+          <selectedSteps href="uma://-_OceTX88nPAZgzatqB9Vqw#_K3JpoBGjEeiO57Qqij8wWw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_R82cgBMNEeisT5thlnqPXQ" name="Verificador (VER)" guid="_R82cgBMNEeisT5thlnqPXQ" presentationName="Verificador (VER)" briefDescription="Entidad responsable de una o más actividades de verificación." isPlanned="false" superActivities="_WGmPIcM3EeeLc_rF2D1YWQ">
+          <methodElementProperty xmi:id="_R82cgRMNEeisT5thlnqPXQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_R9bEQBMNEeisT5thlnqPXQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-gfuyBhftd-pxLN2wEaF1Cw" href="uma://-oga0e-lEfZgtevQILy_IHg#-gfuyBhftd-pxLN2wEaF1Cw"/>
+          <Role href="uma://_R1hfkJjGEeeafv7hrIg7lQ#_X_FUYa02EeeTbJlYDwtuwA"/>
+        </processElements>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aqGPgMM3EeeLc_rF2D1YWQ" name="Plan de Validacion del Software" guid="_aqGPgMM3EeeLc_rF2D1YWQ">
         <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_aqGPgcM3EeeLc_rF2D1YWQ" name="Plan de Validacion del Software" guid="_aqGPgcM3EeeLc_rF2D1YWQ" presentationName="Desarrollar el Plan de Validación del Software" superActivities="_yEo_0L6AEeeiGtSEVKM1dA" linkToPredecessor="_x2kHEAaLEei-4bEcYtDGGQ"/>

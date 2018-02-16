@@ -560,12 +560,16 @@ Este procedimiento general se usa para gestionar los requisitos del software de 
 normativa UNE-EN 50128.&lt;/span></purpose>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CcKyR1uPLLjOyD7iykX1vA" name="obtencin_de_requisitos,_KjAeAOZTEeeoX-3oEkoa6Q" guid="-CcKyR1uPLLjOyD7iykX1vA">
-    <refinedDescription>&lt;p id=&quot;docs-internal-guid-eb5482d6-7a37-e225-84f8-ffd79133a8f0&quot;&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    <refinedDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     Resultados esperados : Requerimientos software del sistema.&lt;br />&#xD;
     Alcance: El Sistema de Gestión de Requerimientos del Software.&lt;br />&#xD;
     Errores a evitar: Fuentes de entradas de requerimientos no identificadas, canales de comunicación no definidos y&#xD;
-    requerimientos mal obtenidos.&lt;br />&#xD;
+    requerimientos mal obtenidos.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Salida: Se deben rellenar las tablas correspondientes en el siguiente formulario: &lt;a&#xD;
+    href=&quot;https://docs.google.com/document/d/1RjD0ShtcEjmbxT75fKRufKyuPdG_QBBfx3XmEek9KzA/edit#heading=h.ca32993wjl6i&quot;&#xD;
+    target=&quot;_blank&quot;>F_ERS_01 Especificación de Requisitos Software - Proyecto XX&lt;/a>&lt;br />&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dHuLxEB-LL9S9mlZQH0tbw" name="Gestor de requisitos (RQM),_9iJz0OZzEee3VMeDAXBNcw" guid="-dHuLxEB-LL9S9mlZQH0tbw">
@@ -659,9 +663,17 @@ style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGI
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1-r8XDh7hRtGW8uaRIFeTw" name="especificacin_de_requisitos,_LrvAoOZTEeeoX-3oEkoa6Q" guid="-1-r8XDh7hRtGW8uaRIFeTw">
-    <refinedDescription>Resultados esperados: Especificación de requisitos del software.&lt;br />&#xD;
-Alcance: El Sistema de Gestión de Requerimientos.&lt;br />&#xD;
-Errores a evitar: Requerimientos contradictorios, mal interpretados o mal definidos.</refinedDescription>
+    <refinedDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Resultados esperados : Especificación de requisitos del software.&lt;br />&#xD;
+    Alcance: El Sistema de Gestión de Requerimientos del Software.&lt;br />&#xD;
+    Errores a evitar: Requerimientos contradictorios, mal interpretados o mal definidos.&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 7.133pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    Salida: Se deben rellenar las tablas correspondientes en el siguiente formulario: &lt;a&#xD;
+    href=&quot;https://docs.google.com/document/d/1RjD0ShtcEjmbxT75fKRufKyuPdG_QBBfx3XmEek9KzA/edit#heading=h.ca32993wjl6i&quot;&#xD;
+    target=&quot;_blank&quot;>F_ERS_01 Especificación de Requisitos Software - Proyecto XX&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-McKeE1gLTuOWS1Um_vDWcA" name="verificacin_de_requisitos,_MP-WIOZTEeeoX-3oEkoa6Q" guid="-McKeE1gLTuOWS1Um_vDWcA">
     <refinedDescription>Resultados esperados: Requerimientos del sistema validados. Especificación de ensayos del software en conjunto. Informe de&#xD;
@@ -713,6 +725,58 @@ Errores a evitar: Requerimientos mal especificados o no verificados.</refinedDes
 &lt;p>&#xD;
     &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>8. debe seleccionar los equipos para el&#xD;
     ensayo del software&lt;/font>&lt;/font>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-85T9CmYEty5dZyGjeEMRyg" name="Especificar el Plan de verificación del software,_R811cBMNEeisT5thlnqPXQ" guid="-85T9CmYEty5dZyGjeEMRyg">
+    <refinedDescription>&lt;p>&#xD;
+    La especificación del plan de verificación consistirá en un único formulario que ordenará las tareas de comprobación y&#xD;
+    tendrá como documentos relacionados el documento de ciclo de vida y las diferentes guías con las técnicas de&#xD;
+    verificación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Salida: Se deben rellenar las tablas correspondientes en el siguiente formulario: &lt;a&#xD;
+    href=&quot;https://drive.google.com/open?id=1_tMhFV-3X4EB-FZvxy4Kk13af84ixvpERnQN5YKPQfY&quot; target=&quot;_blank&quot;>F_PVS_01 Plan de&#xD;
+    Verificación del Software - Proyecto XX&lt;/a>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gfuyBhftd-pxLN2wEaF1Cw" name="Verificador (VER),_R82cgBMNEeisT5thlnqPXQ" guid="-gfuyBhftd-pxLN2wEaF1Cw">
+    <refinedDescription>&lt;p align=&quot;left&quot;>&#xD;
+    &lt;b>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPS-BoldMT&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPS-BoldMT&quot;>Responsabilidades:&lt;/font>&lt;/font>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>1. debe desarrollar un Plan de&#xD;
+    Verificación del Software (que puede incluir cuestiones relativas a la calidad)&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>exponiendo qué necesita verificarse y qué tipos de&#xD;
+    procesos (por ejemplo, revisiones, análisis, etc.) y ensayos&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>se requieren como prueba&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>2. debe comprobar la adecuación&#xD;
+    (compleción, coherencia, corrección, relevancia y trazabilidad) de las pruebas&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>documentadas a partir de las revisiones, de la&#xD;
+    integración y de los ensayos con los objetivos de verificación&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>especificados&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>3. debe identificar las anomalías,&#xD;
+    evaluarlas en términos del riesgo (impacto) que suponen, y registrarlas y&lt;/font>&lt;/font> &lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>comunicarlas al organismo competente de la gestión de&#xD;
+    las modificaciones para su evaluación y toma de&lt;/font>&lt;/font> &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>decisiones&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>4. debe gestionar el proceso de&#xD;
+    verificación (revisión, integración y ensayos) y garantizar la independencia de las&lt;/font>&lt;/font>&amp;nbsp;&lt;font size=&quot;2&quot;&#xD;
+    face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>actividades según sea necesario&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;left&quot;>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>5. debe desarrollar y mantener&#xD;
+    registros de las actividades de verificación&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>&lt;font size=&quot;2&quot; face=&quot;TimesNewRomanPSMT&quot;>6. debe desarrollar un Informe de&#xD;
+    Verificación exponiendo el resultado de las actividades de verificación&lt;/font>&lt;/font>&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

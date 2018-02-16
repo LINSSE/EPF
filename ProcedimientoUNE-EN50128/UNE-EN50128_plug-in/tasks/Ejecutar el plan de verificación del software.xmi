@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ji_evfh6VifsSBao432QjA" name="Ejecutar el plan de verificación del software,_k5U44AT8Eeijd9RhshXkDQ" guid="-Ji_evfh6VifsSBao432QjA" changeDate="2018-02-14T11:47:35.328-0300">
+  <sections xmi:id="_9LOioBGWEeiO57Qqij8wWw" name="1- Identificar los roles y personas resposable de cada rol" guid="_9LOioBGWEeiO57Qqij8wWw">
+    <sectionDescription>&lt;p>&#xD;
+    Se debe registar la información:&amp;nbsp;1 y&amp;nbsp;2 de la siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;img alt=&quot;&quot; src=&quot;resources/Sem título101.png&quot; width=&quot;527&quot; height=&quot;109&quot; />&lt;br />&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_-NeCwBGWEeiO57Qqij8wWw" name="2- Identificar las tareas de verificación" guid="_-NeCwBGWEeiO57Qqij8wWw">
+    <sectionDescription>&lt;p>&#xD;
+    Se identificarán las tareas de verificación para cada fase, las guías de verificación relacionadas y los roles&#xD;
+    responsables para el desarrollo de esta tarea.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Estas tareas de verificación tendrán en cuenta los ensayos de caja negra, ensayos de caja blanca, listas de&#xD;
+    comprobación y otras técnicas de acuerdo con las siguientes&amp;nbsp;guías: &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UNE-EN50128_plug-in/guidances/checklists/A5 Verificación y Ensayos_94C4C5E0.html&quot;&#xD;
+    guid=&quot;_zjV9gAtjEeiCgPZABByP4Q&quot;>A5 Verificación y Ensayos&lt;/a>, &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UNE-EN50128_plug-in/guidances/checklists/A6 Integración_D5231110.html&quot; guid=&quot;_Y2LFYAtlEeiCgPZABByP4Q&quot;>A6&#xD;
+    Integración&lt;/a>&amp;nbsp;y &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../UNE-EN50128_plug-in/guidances/checklists/A7 Ensayos de Software en Conjunto_A49F1502.html&quot;&#xD;
+    guid=&quot;_yo2tYAtyEeiCgPZABByP4Q&quot;>A7 Ensayos de Software en Conjunto&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Registrar la información en la siguiente tabla:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/Sem título102.png&quot; width=&quot;600&quot; height=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
