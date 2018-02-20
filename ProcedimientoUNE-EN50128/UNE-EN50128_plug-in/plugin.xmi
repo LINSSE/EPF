@@ -22,7 +22,7 @@
     <resourceDescriptors xmi:id="_C9toQLj7EeepNNDSMGJFeQ" id="-Nspk7JZlvp5DUIKUIb5A9A" uri="guidances/checklists/checklist_SIL_3-4.xmi"/>
     <resourceDescriptors xmi:id="_SHW8QLqNEeexnaZ05SXmkw" id="_SHQ1oLqNEeexnaZ05SXmkw" uri="deliveryprocesses/Ciclo%20de%20Vida%20en%20V/model.xmi"/>
     <resourceDescriptors xmi:id="_ERt_sLsdEee0oJqAmnTP4g" id="_ERn5ELsdEee0oJqAmnTP4g" uri="deliveryprocesses/Garantia%20de%20Calidad/model.xmi"/>
-    <resourceDescriptors xmi:id="_5rll0NnZEeeandfM8vtSQw" id="-YIhnYAjVRzBF0A0X4d-4jA" uri="tasks/Construir_el_entorno_de_gestin_colaborativa_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_5rll0NnZEeeandfM8vtSQw" id="-YIhnYAjVRzBF0A0X4d-4jA" uri="tasks/Construir%20el%20entorno%20de%20gestión%20colaborativa%20del%20proyecto.xmi"/>
     <resourceDescriptors xmi:id="_GC0QgOZ4Eee3VMeDAXBNcw" id="-5T6eapZ3B4D4U-JKZFeL2Q" uri="tasks/obtencion_de_requisitos.xmi"/>
     <resourceDescriptors xmi:id="_NuvfwOaLEee5Z7c-_0eY9A" id="-9PC3Ct1zSKdjwbI-VRxxHQ" uri="guidances/templates/Formulario%20-%20Especificacin_de_requisitos_software_-_proyecto_xx.xmi"/>
     <resourceDescriptors xmi:id="_Q1EQ0AUyEei-0Y9CFnbgCQ" id="-DzX54ypx8CP1md335Pg-sQ" uri="tasks/especificacin_de_requisitos.xmi"/>
@@ -55,7 +55,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfkpjGEeeafv7hrIg7lQ" name="Categories" guid="_R1hfkpjGEeeafv7hrIg7lQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hfk5jGEeeafv7hrIg7lQ" name="Domains" guid="_R1hfk5jGEeeafv7hrIg7lQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R1hflJjGEeeafv7hrIg7lQ" name="Disciplines" guid="_R1hflJjGEeeafv7hrIg7lQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ _zjV9gAtjEeiCgPZABByP4Q _Y2LFYAtlEeiCgPZABByP4Q _yo2tYAtyEeiCgPZABByP4Q" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_nJz98MAVEeepstfmonv3dA" name="guias" guid="_nJz98MAVEeepstfmonv3dA" presentationName="Guias" checklists="_niwWsLj0EeepNNDSMGJFeQ _3K5W8Lj5EeepNNDSMGJFeQ _8-ma8Lj5EeepNNDSMGJFeQ _zjV9gAtjEeiCgPZABByP4Q _Y2LFYAtlEeiCgPZABByP4Q _yo2tYAtyEeiCgPZABByP4Q" guidelines="_UNY7ALgkEeePcv8WYT7Ymg _fQbZYLgeEeePcv8WYT7Ymg _doCdQLg0EeePcv8WYT7Ymg _IM-wkAT5Eeijd9RhshXkDQ _ErUPEAs4EeiCgPZABByP4Q _y2FFUAtXEeiCgPZABByP4Q _cg5ZkAs3EeiCgPZABByP4Q _wClNgAtYEeiCgPZABByP4Q _gIz4cAtYEeiCgPZABByP4Q _WZjS8AtaEeiCgPZABByP4Q _d7qVUAthEeiCgPZABByP4Q _jWVY0AtiEeiCgPZABByP4Q _FbFRkAtYEeiCgPZABByP4Q _AByQoAtjEeiCgPZABByP4Q _hWE0cAtmEeiCgPZABByP4Q _9IS0oAtaEeiCgPZABByP4Q _0kdn0AtZEeiCgPZABByP4Q _8Gs8IAtXEeiCgPZABByP4Q _slZpEAtlEeiCgPZABByP4Q _BiDCIAtmEeiCgPZABByP4Q _VySBIAtmEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q _zr9jcAtiEeiCgPZABByP4Q _2NyOgAs3EeiCgPZABByP4Q">
             <methodElementProperty xmi:id="_osht4MAVEeepstfmonv3dA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_c8M2wMPAEeeLc_rF2D1YWQ" name="Tareas" guid="_c8M2wMPAEeeLc_rF2D1YWQ" presentationName="Tareas">
@@ -149,7 +149,6 @@
               <methodElementProperty xmi:id="_yNFDYAT7Eeijd9RhshXkDQ" name="me_edited" value="true"/>
               <presentation xmi:id="-hDOwk6fTL45TgAC9t-3ROA" href="uma://-hDOwk6fTL45TgAC9t-3ROA#-hDOwk6fTL45TgAC9t-3ROA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_juSpIAT8Eeijd9RhshXkDQ" name="new_task" guid="_juSpIAT8Eeijd9RhshXkDQ" presentationName="New Task"/>
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
               <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
               <presentation xmi:id="-Ji_evfh6VifsSBao432QjA" href="uma://-Ji_evfh6VifsSBao432QjA#-Ji_evfh6VifsSBao432QjA"/>
@@ -323,7 +322,7 @@
             <methodElementProperty xmi:id="_-GAu8Lj5EeepNNDSMGJFeQ" name="me_edited" value="true"/>
             <presentation xmi:id="-Nspk7JZlvp5DUIKUIb5A9A" href="uma://-Nspk7JZlvp5DUIKUIb5A9A#-Nspk7JZlvp5DUIKUIb5A9A"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-RFmwNnYEeeandfM8vtSQw" name="Construir_el_entorno_de_gestin_colaborativa_del_proyecto" guid="_-RFmwNnYEeeandfM8vtSQw" presentationName="Construir el entorno de gestión colaborativa del proyecto" performedBy="_X_EtUq02EeeTbJlYDwtuwA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-RFmwNnYEeeandfM8vtSQw" name="Construir el entorno de gestión colaborativa del proyecto" guid="_-RFmwNnYEeeandfM8vtSQw" presentationName="Construir el entorno de gestión colaborativa del proyecto" performedBy="_X_EtUq02EeeTbJlYDwtuwA">
             <methodElementProperty xmi:id="_5rZYkNnZEeeandfM8vtSQw" name="me_edited" value="true"/>
             <presentation xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" href="uma://-YIhnYAjVRzBF0A0X4d-4jA#-YIhnYAjVRzBF0A0X4d-4jA"/>
           </contentElements>

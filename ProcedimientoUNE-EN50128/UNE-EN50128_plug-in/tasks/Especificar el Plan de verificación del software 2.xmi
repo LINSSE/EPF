@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_OceTX88nPAZgzatqB9Vqw" name=",_pZH38AsxEeiCgPZABByP4Q" guid="-_OceTX88nPAZgzatqB9Vqw" authors="Emanuel Irrazabal" changeDate="2018-02-14T13:21:17.093-0300" version="0.9">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_OceTX88nPAZgzatqB9Vqw" name=",_pZH38AsxEeiCgPZABByP4Q" guid="-_OceTX88nPAZgzatqB9Vqw" authors="Emanuel Irrazabal" changeDate="2018-02-20T10:01:12.631-0300" version="0.9">
   <mainDescription>&lt;p>&#xD;
     La especificación del plan de verificación consistirá en un único formulario que ordenará las tareas de comprobación y&#xD;
     tendrá como documentos relacionados el documento de ciclo de vida y las diferentes guías con las técnicas de&#xD;
@@ -8,7 +8,8 @@
 &lt;p>&#xD;
     Salida: Se deben rellenar las tablas correspondientes en el siguiente formulario: &lt;a&#xD;
     href=&quot;https://drive.google.com/open?id=1_tMhFV-3X4EB-FZvxy4Kk13af84ixvpERnQN5YKPQfY&quot; target=&quot;_blank&quot;>F_PVS_01 Plan de&#xD;
-    Verificación del Software - Proyecto XX&lt;/a>&#xD;
+    Verificación del Software - Proyecto XX&lt;/a> que será utilizado por el jefe de proyecto para la planificación de las&#xD;
+    tareas en la herramienta de gestión colaborativa.&#xD;
 &lt;/p></mainDescription>
   <sections xmi:id="_HSugoBGjEeiO57Qqij8wWw" name="1- Identificar los roles y personas resposable de cada rol" guid="_HSugoBGjEeiO57Qqij8wWw">
     <sectionDescription>&lt;p>&#xD;

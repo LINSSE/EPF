@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" name=",_-RFmwNnYEeeandfM8vtSQw" guid="-YIhnYAjVRzBF0A0X4d-4jA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YIhnYAjVRzBF0A0X4d-4jA" name="Construir el entorno de gestión colaborativa del proyecto,_-RFmwNnYEeeandfM8vtSQw" guid="-YIhnYAjVRzBF0A0X4d-4jA" authors="Emanuel Irrazabal" changeDate="2018-02-20T10:07:57.798-0300" version="0.9">
+  <mainDescription>Se describen los pasos iniciales para la configuración de las herramientas que serán utilizadas a lo largo de un proyecto.</mainDescription>
+  <sections xmi:id="_GfDDwBY_EeiunKskc9rsJg" name="Seleccionar nombre del proyecto" guid="_GfDDwBY_EeiunKskc9rsJg">
+    <sectionDescription>Es importante seleccionar un nombre descriptivo del proyecto y, preferiblemente unas siglas también representantivas y de&#xD;
+fácil dicción. Esto facilitará la sensación de pertenencia con el proyecto, así como la mejora de la comunicación.</sectionDescription>
+  </sections>
   <sections xmi:id="_GxVwkNnZEeeandfM8vtSQw" name="Evaluar el tipo de proyecto" guid="_GxVwkNnZEeeandfM8vtSQw">
     <sectionDescription>Evaluar el tipo de proyecto de acuerdo con la documentación de Fase 1 a 4 de la norma EN 50126.</sectionDescription>
   </sections>
@@ -43,10 +48,13 @@
 &lt;/table>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
-    Crear el proyecto de pruebas para los ensayos con la herramienta testlink: &lt;a&#xD;
-    href=&quot;C:/Users/Cortes/Documents/GitHub/EPF/ProcedimientoUNE-EN50128/UNE-EN50128_plug-in/tasks/testlink.linsse.com.ar&quot;&#xD;
+    Crear el proyecto de pruebas para los ensayos con la herramienta testlink: &lt;a href=&quot;testlink.linsse.com.ar&quot;&#xD;
     target=&quot;_blank&quot;>crear&lt;/a>.&#xD;
 &lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;WIDTH: 600px&quot; alt=&quot;&quot; src=&quot;resources/Nuevo proyecto de prueba.png&quot; width=&quot;600&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
 &lt;p>&#xD;
     En caso de no tener acceso a alguno de los entornos comunicarse con el jefe del proyecto o el área de calidad.&#xD;
 &lt;/p>&#xD;
