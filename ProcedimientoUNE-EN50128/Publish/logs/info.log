@@ -1,115 +1,146 @@
-Info: CustomCategory:custom_category: 988 mini seconds publishing element
-Info: : 9030 mini-second(s) publishing element DeliveryProcess:Ciclo de Vida en V[UNE-EN50128_plug-in\deliveryprocesses\Ciclo de Vida en V_2ADFEBFF.html]
-Info: DeliveryProcess:Ciclo de Vida en V: 9032 mini seconds publishing element
-Info: DeliveryProcess:Ciclo de Vida en V: 1604 mini seconds publishing process specific layout data
-Info: Phase:FASE 0 - Configurar entorno de gestion: 418 mini seconds publishing element
-Info: Phase:FasePlanificacion: 678 mini seconds publishing element
-Info: Activity:Plan de Garantia de Calidad del Software: 313 mini seconds publishing element
-Info: Activity:Plan de Gestion de la Configuracion del Software: 296 mini seconds publishing element
-Info: Activity:Plan de Verificacion del Software: 341 mini seconds publishing element
-Info: Activity:Plan de Validacion del Software: 303 mini seconds publishing element
-Info: Activity:Plan de Mantenimiento del Software: 377 mini seconds publishing element
-Info: Phase:FaseRequistos: 485 mini seconds publishing element
-Info: Activity:especif: 457 mini seconds publishing element
-Info: Activity:especificacion ensayos: 330 mini seconds publishing element
-Info: Activity:informeVerificacion: 278 mini seconds publishing element
-Info: Phase:New Phase_2: 446 mini seconds publishing element
-Info: Activity:Especificacion de la Arquitectura del Software: 387 mini seconds publishing element
-Info: Activity:Especificacion del Diseno del Software: 276 mini seconds publishing element
-Info: Activity:Especificacion de la Interfaz del Software: 287 mini seconds publishing element
-Info: Activity:Especificacion de Ensayos de Integracion del Software: 335 mini seconds publishing element
-Info: Activity:Especificacion de Ensayos de Integracion del Software/Hardware: 267 mini seconds publishing element
-Info: Activity:Informe de Verficacion de Diseno y Arquitectura de Software: 319 mini seconds publishing element
-Info: Phase:FaseDiseno: 324 mini seconds publishing element
-Info: Activity:Especificacion de Diseno de los Componentes: 289 mini seconds publishing element
-Info: Activity:Especificacion de Ensayos de los Componentes: 285 mini seconds publishing element
-Info: Activity:Informe de Verificacion del Diseno de los Componentes Software: 265 mini seconds publishing element
-Info: Phase:FaseImplementacion: 292 mini seconds publishing element
-Info: Activity:Codigo Fuente del Software y Documentacion de Apoyo: 313 mini seconds publishing element
-Info: Phase:FaseEnsayos: 371 mini seconds publishing element
-Info: Activity:Informe de Ensayos de los Componentes Software: 259 mini seconds publishing element
-Info: Activity:Informe de Verificacion del Codigo Fuente del Software: 293 mini seconds publishing element
-Info: Phase:FaseIntegracion: 369 mini seconds publishing element
-Info: Activity:Informe de Ensayos de Integracion del Software: 335 mini seconds publishing element
-Info: Activity:Informe de Ensayos de Integracion del Software/Hardware: 270 mini seconds publishing element
-Info: Activity:Informe de Verificacion de la Integracion del Software: 322 mini seconds publishing element
-Info: Phase:FaseValidacion: 344 mini seconds publishing element
-Info: Activity:Informe de Ensayos del Software en Conjunto: 273 mini seconds publishing element
-Info: Activity:Informe de Validacion del Software : 272 mini seconds publishing element
-Info: Phase:FaseMantenimiento: 287 mini seconds publishing element
-Info: Activity:Registros de Mantenimiento del Software: 323 mini seconds publishing element
-Info: Activity:Registros de Modificaciones del Software: 276 mini seconds publishing element
-Info: Phase:FaseEvaluacion: 322 mini seconds publishing element
-Info: Activity:Plan de Evaluacion del Software: 271 mini seconds publishing element
-Info: Activity:Informe de Evaluacion del Software: 371 mini seconds publishing element
-Info: RoleSet:roles: 37 mini seconds publishing element
-Info: : 2417 mini-second(s) publishing element Role:Disenador (DES)[UNE-EN50128_plug-in\roles\Disenador DES_76321F6A.html]
-Info: Role:Disenador (DES): 2417 mini seconds publishing element
-Info: Role:Encargado de los ensayos (TST): 120 mini seconds publishing element
-Info: Role:Evaluador (ASR): 108 mini seconds publishing element
-Info: Role:Gestor de Configuracion: 129 mini seconds publishing element
-Info: Role:Gestor de requisitos (RQM): 146 mini seconds publishing element
-Info: Role:Implementador (IMP): 112 mini seconds publishing element
-Info: Role:Integrador (INT): 88 mini seconds publishing element
-Info: Role:Jefe de proyecto (PM): 251 mini seconds publishing element
-Info: Role:Validador (VAL): 123 mini seconds publishing element
-Info: Role:Verificador (VER): 168 mini seconds publishing element
-Info: WorkProductType:productos: 64 mini seconds publishing element
-Info: Artifact:Informe de Verificacion de Garantia de Calidad del Software: 512 mini seconds publishing element
-Info: Artifact:Plan de Garantia de Calidad del Software: 58 mini seconds publishing element
-Info: Artifact:Especificacin_de_requisitos_software_ERS: 68 mini seconds publishing element
-Info: Artifact:Especificacin_de_ensayos_del_software_en_conjunto_ESC: 38 mini seconds publishing element
-Info: Artifact:Informe_de_validacin_y_verificacin_de_los_requisitos_del_software_VRS: 38 mini seconds publishing element
-Info: Discipline:Tareas: 40 mini seconds publishing element
-Info: Discipline:planificacion: 35 mini seconds publishing element
-Info: Task:Redactar Plan de Garantia de Calidad del Software: 729 mini seconds publishing element
-Info: Task:Redactar Informe de Verificacion de Garantia de Calidad del Software: 33 mini seconds publishing element
-Info: Task:Especificar el Plan de verificación del software: 96 mini seconds publishing element
-Info: Discipline:requerimientos: 52 mini seconds publishing element
-Info: Task:obtencion_de_requisitos: 215 mini seconds publishing element
-Info: Task:especificacin_de_requisitos: 261 mini seconds publishing element
-Info: Task:verificacin_de_requisitos: 269 mini seconds publishing element
-Info: Discipline:entorno: 11 mini seconds publishing element
-Info: Task:Construir_el_entorno_de_gestin_colaborativa_del_proyecto: 38 mini seconds publishing element
-Info: Discipline:guias: 37 mini seconds publishing element
-Info: Checklist:A5 Verificación y Ensayos: 415 mini seconds publishing element
-Info: Checklist:A6 Integración: 39 mini seconds publishing element
-Info: Checklist:A7 Ensayos de Software en Conjunto: 61 mini seconds publishing element
-Info: Guideline:Estructura SIL 0: 272 mini seconds publishing element
-Info: Guideline:Estructura SIL 1-2: 25 mini seconds publishing element
-Info: Guideline:Estructura SIL 3-4: 26 mini seconds publishing element
-Info: Checklist:checklist_SIL_0: 66 mini seconds publishing element
-Info: Checklist:checklist_SIL_1-2: 69 mini seconds publishing element
-Info: Checklist:checklist_SIL_3-4: 55 mini seconds publishing element
-Info: TaskDescriptor:Construir_el_entorno_de_gestin_colaborativa_del_proyecto: 412 mini seconds publishing element
-Info: TaskDescriptor:Redactar Plan de Garantia de Calidad del Software: 118 mini seconds publishing element
-Info: TaskDescriptor:Redactar Informe de Verificacion de Garantia de Calidad del Software: 86 mini seconds publishing element
-Info: TaskDescriptor:Especificar el Plan de verificación del software: 83 mini seconds publishing element
-Info: TaskDescriptor:obtencion_de_requisitos: 132 mini seconds publishing element
-Info: TaskDescriptor:especificacin_de_requisitos: 137 mini seconds publishing element
-Info: TaskDescriptor:verificacin_de_requisitos: 147 mini seconds publishing element
-Info: RoleDescriptor:Disenador (DES): 483 mini seconds publishing element
-Info: RoleDescriptor:Encargado de los ensayos (TST): 68 mini seconds publishing element
-Info: RoleDescriptor:Evaluador (ASR): 64 mini seconds publishing element
-Info: RoleDescriptor:Gestor de Configuracion: 112 mini seconds publishing element
-Info: RoleDescriptor:Gestor de requisitos (RQM): 65 mini seconds publishing element
-Info: RoleDescriptor:Implementador (IMP): 108 mini seconds publishing element
-Info: RoleDescriptor:Integrador (INT): 138 mini seconds publishing element
-Info: RoleDescriptor:Jefe de proyecto (PM): 113 mini seconds publishing element
-Info: RoleDescriptor:Validador (VAL): 78 mini seconds publishing element
-Info: RoleDescriptor:Verificador (VER): 70 mini seconds publishing element
-Info: WorkProductDescriptor:Especificacin_de_ensayos_del_software_en_conjunto_ESC: 478 mini seconds publishing element
-Info: WorkProductDescriptor:Especificacin_de_requisitos_software_ERS: 94 mini seconds publishing element
-Info: WorkProductDescriptor:Informe_de_validacin_y_verificacin_de_los_requisitos_del_software_VRS: 84 mini seconds publishing element
-Info: WorkProductDescriptor:Informe de Verificacion de Garantia de Calidad del Software: 67 mini seconds publishing element
-Info: WorkProductDescriptor:Plan de Garantia de Calidad del Software: 86 mini seconds publishing element
-Info: RoleDescriptor:Jefe de proyecto (PM): 132 mini seconds publishing element
-Info: RoleDescriptor:Verificador (VER): 80 mini seconds publishing element
-Info: WorkProductDescriptor:Plan de Garantia de Calidad del Software: 96 mini seconds publishing element
-Info: RoleDescriptor:Verificador (VER): 97 mini seconds publishing element
-Info: RoleDescriptor:Encargado de los ensayos (TST): 68 mini seconds publishing element
-Info: RoleDescriptor:Gestor de requisitos (RQM): 99 mini seconds publishing element
-Info: Template:Formulario - Plan de Garantia de Calidad del Software: 363 mini seconds publishing element
-Info: Template:Formulario - Especificacin_de_requisitos_software_-_proyecto_xx: 29 mini seconds publishing element
-Info: Template:Formulario - Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx: 48 mini seconds publishing element
-Info: : Publishing time: 0 minutes 41 seconds
+Info: : 1426 mini-second(s) publishing element CustomCategory:custom_category[UNE-EN50128_plug-in\customcategories\custom_category_4B3CFC44.html]
+Info: CustomCategory:custom_category: 1430 mini seconds publishing element
+Info: : 22001 mini-second(s) publishing element DeliveryProcess:Ciclo de Vida en V[UNE-EN50128_plug-in\deliveryprocesses\Ciclo de Vida en V_2ADFEBFF.html]
+Info: DeliveryProcess:Ciclo de Vida en V: 22003 mini seconds publishing element
+Info: DeliveryProcess:Ciclo de Vida en V: 6208 mini seconds publishing process specific layout data
+Info: Phase:FASE 0 - Configurar entorno de gestion: 277 mini seconds publishing element
+Info: Phase:FasePlanificacion: 643 mini seconds publishing element
+Info: Activity:Plan de Garantia de Calidad del Software: 413 mini seconds publishing element
+Info: Activity:Plan de Gestion de la Configuracion del Software: 409 mini seconds publishing element
+Info: Activity:Plan de Verificacion del Software: 252 mini seconds publishing element
+Info: Activity:Plan de Validacion del Software: 142 mini seconds publishing element
+Info: Activity:Plan de Mantenimiento del Software: 138 mini seconds publishing element
+Info: Phase:FaseRequistos: 370 mini seconds publishing element
+Info: : 1238 mini-second(s) publishing element Activity:especif[UNE-EN50128_plug-in\deliveryprocesses\especif_DD8EA3FC.html]
+Info: Activity:especif: 1240 mini seconds publishing element
+Info: Activity:especificacion ensayos: 157 mini seconds publishing element
+Info: Activity:informeVerificacion: 132 mini seconds publishing element
+Info: Phase:New Phase_2: 287 mini seconds publishing element
+Info: Activity:Especificacion de la Arquitectura del Software: 143 mini seconds publishing element
+Info: Activity:Especificacion del Diseno del Software: 132 mini seconds publishing element
+Info: Activity:Especificacion de la Interfaz del Software: 128 mini seconds publishing element
+Info: Activity:Especificacion de Ensayos de Integracion del Software: 135 mini seconds publishing element
+Info: Activity:Especificacion de Ensayos de Integracion del Software/Hardware: 130 mini seconds publishing element
+Info: Activity:Informe de Verficacion de Diseno y Arquitectura de Software: 130 mini seconds publishing element
+Info: Phase:FaseDiseno: 153 mini seconds publishing element
+Info: Activity:Especificacion de Diseno de los Componentes: 134 mini seconds publishing element
+Info: Activity:Especificacion de Ensayos de los Componentes: 126 mini seconds publishing element
+Info: Activity:Informe de Verificacion del Diseno de los Componentes Software: 128 mini seconds publishing element
+Info: Phase:FaseImplementacion: 170 mini seconds publishing element
+Info: Activity:Codigo Fuente del Software y Documentacion de Apoyo: 138 mini seconds publishing element
+Info: Phase:FaseEnsayos: 187 mini seconds publishing element
+Info: Activity:Informe de Ensayos de los Componentes Software: 152 mini seconds publishing element
+Info: Activity:Informe de Verificacion del Codigo Fuente del Software: 127 mini seconds publishing element
+Info: Phase:FaseIntegracion: 168 mini seconds publishing element
+Info: Activity:Informe de Ensayos de Integracion del Software: 128 mini seconds publishing element
+Info: Activity:Informe de Ensayos de Integracion del Software/Hardware: 128 mini seconds publishing element
+Info: Activity:Informe de Verificacion de la Integracion del Software: 134 mini seconds publishing element
+Info: Phase:FaseValidacion: 165 mini seconds publishing element
+Info: Activity:Informe de Ensayos del Software en Conjunto: 136 mini seconds publishing element
+Info: Activity:Informe de Validacion del Software : 157 mini seconds publishing element
+Info: Phase:FaseMantenimiento: 153 mini seconds publishing element
+Info: Activity:Registros de Mantenimiento del Software: 132 mini seconds publishing element
+Info: Activity:Registros de Modificaciones del Software: 139 mini seconds publishing element
+Info: Phase:FaseEvaluacion: 135 mini seconds publishing element
+Info: Activity:Plan de Evaluacion del Software: 138 mini seconds publishing element
+Info: Activity:Informe de Evaluacion del Software: 128 mini seconds publishing element
+Info: RoleSet:roles: 38 mini seconds publishing element
+Info: : 5231 mini-second(s) publishing element Role:Disenador (DES)[UNE-EN50128_plug-in\roles\Disenador DES_76321F6A.html]
+Info: Role:Disenador (DES): 5233 mini seconds publishing element
+Info: Role:Encargado de los ensayos (TST): 221 mini seconds publishing element
+Info: Role:Evaluador (ASR): 112 mini seconds publishing element
+Info: Role:Gestor de Configuracion: 84 mini seconds publishing element
+Info: Role:Gestor de requisitos (RQM): 169 mini seconds publishing element
+Info: Role:Implementador (IMP): 74 mini seconds publishing element
+Info: Role:Integrador (INT): 89 mini seconds publishing element
+Info: Role:Jefe de proyecto (PM): 145 mini seconds publishing element
+Info: Role:Validador (VAL): 140 mini seconds publishing element
+Info: Role:Verificador (VER): 155 mini seconds publishing element
+Info: WorkProductType:productos: 46 mini seconds publishing element
+Info: Artifact:Informe de Verificacion de Garantia de Calidad del Software: 835 mini seconds publishing element
+Info: Artifact:Plan de Garantia de Calidad del Software: 129 mini seconds publishing element
+Info: Artifact:Especificacin_de_requisitos_software_ERS: 45 mini seconds publishing element
+Info: Artifact:Especificacin_de_ensayos_del_software_en_conjunto_ESC: 31 mini seconds publishing element
+Info: Artifact:Informe_de_validacin_y_verificacin_de_los_requisitos_del_software_VRS: 43 mini seconds publishing element
+Info: Discipline:Tareas: 41 mini seconds publishing element
+Info: Discipline:planificacion: 26 mini seconds publishing element
+Info: Task:Redactar Plan de Garantia de Calidad del Software: 218 mini seconds publishing element
+Info: Task:Redactar Informe de Verificacion de Garantia de Calidad del Software: 30 mini seconds publishing element
+Info: Task:Especificar el Plan de verificación del software: 7715 mini-seconds referencing external URL: https://drive.google.com/open?id=1_tMhFV-3X4EB-FZvxy4Kk13af84ixvpERnQN5YKPQfY
+Info: : 7838 mini-second(s) publishing element Task:Especificar el Plan de verificación del software[UNE-EN50128_plug-in\tasks\Especificar el Plan de verificación del software_FEC98DE0.html]
+Info: Task:Especificar el Plan de verificación del software: 7839 mini seconds publishing element
+Info: Discipline:requerimientos: 22 mini seconds publishing element
+Info: Task:obtencion_de_requisitos: 450 mini-seconds referencing external URL: https://docs.google.com/document/d/1RjD0ShtcEjmbxT75fKRufKyuPdG_QBBfx3XmEek9KzA/edit#heading=h.ca32993wjl6i
+Info: Task:obtencion_de_requisitos: 659 mini seconds publishing element
+Info: Task:especificacin_de_requisitos: 240 mini seconds publishing element
+Info: Task:verificacin_de_requisitos: 125 mini seconds publishing element
+Info: Discipline:entorno: 20 mini seconds publishing element
+Info: Task:Construir el entorno de gestión colaborativa del proyecto: 467 mini seconds publishing element
+Info: Discipline:guias: 108 mini seconds publishing element
+Info: Checklist:A5 Verificación y Ensayos: 953 mini seconds publishing element
+Info: Checklist:A6 Integración: 37 mini seconds publishing element
+Info: Checklist:A7 Ensayos de Software en Conjunto: 33 mini seconds publishing element
+Info: Guideline:Estructura SIL 0: 539 mini seconds publishing element
+Info: Guideline:Estructura SIL 1-2: 29 mini seconds publishing element
+Info: Guideline:Estructura SIL 3-4: 25 mini seconds publishing element
+Info: Guideline:Guía de Calibración de Multímetro digital: 26 mini seconds publishing element
+Info: Guideline:Guía para Prototipado y Animación: 25 mini seconds publishing element
+Info: Guideline:Guía para el Análisis Dinámico: 50 mini seconds publishing element
+Info: Guideline:Guía para el Análisis Estático: 41 mini seconds publishing element
+Info: Guideline:Guía para el Análisis de Flujo de Control: 23 mini seconds publishing element
+Info: Guideline:Guía para el Análisis de Flujo de Datos: 22 mini seconds publishing element
+Info: Guideline:Guía para el Análisis de Valor Límite y Clases de Equivalencia: 32 mini seconds publishing element
+Info: Guideline:Guía para el Modelado de las Prestaciones: 23 mini seconds publishing element
+Info: Guideline:Guía para la Cobertura de Ensayos para el Código: 32 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos Funcionales y de Caja Negra: 28 mini seconds publishing element
+Info: Guideline:Guía para la Ejecución de Ensayos a partir de Diagramas de Causa Efecto: 26 mini seconds publishing element
+Info: Guideline:Guía para la Revisión del Diseño: 21 mini seconds publishing element
+Info: Guideline:Guía para la Simulación de Procesos: 23 mini seconds publishing element
+Info: Guideline:Guía para la Verificación del cumplimiento de los Requisitos de las Prestaciones: 34 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos basados en la Estructura: 27 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos basados en la Inserción de Errores: 23 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos basados en la Suposición de Errores: 1143 mini-seconds referencing external URL: https://www.sei.cmu.edu/downloads/sei-cert-c-coding-standard-2016-v01.pdf
+Info: : 1172 mini-second(s) publishing element Guideline:Guía para los Ensayos basados en la Suposición de Errores[UNE-EN50128_plug-in\guidances\guidelines\Guía para los Ensayos basados en la Suposición de Errores_4286070D.html]
+Info: Guideline:Guía para los Ensayos basados en la Suposición de Errores: 1175 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos de Avalancha y de Sobrecarga: 22 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos de Prestaciones: 43 mini seconds publishing element
+Info: Guideline:Guía para los Ensayos de Tiempo de Respuesta y Memoria: 21 mini seconds publishing element
+Info: Guideline:Guía para realizar una Lista de Comprobación: 26 mini seconds publishing element
+Info: Checklist:checklist_SIL_0: 42 mini seconds publishing element
+Info: Checklist:checklist_SIL_1-2: 45 mini seconds publishing element
+Info: Checklist:checklist_SIL_3-4: 50 mini seconds publishing element
+Info: TaskDescriptor:Construir el entorno de gestión colaborativa del proyecto: 22 mini seconds publishing element
+Info: TaskDescriptor:Redactar Plan de Garantia de Calidad del Software: 70 mini seconds publishing element
+Info: TaskDescriptor:Redactar Informe de Verificacion de Garantia de Calidad del Software: 12 mini seconds publishing element
+Info: TaskDescriptor:Especificar el Plan de verificación del software: 18 mini seconds publishing element
+Info: TaskDescriptor:obtencion_de_requisitos: 32 mini seconds publishing element
+Info: TaskDescriptor:especificacin_de_requisitos: 40 mini seconds publishing element
+Info: TaskDescriptor:verificacin_de_requisitos: 33 mini seconds publishing element
+Info: RoleDescriptor:Disenador (DES): 13 mini seconds publishing element
+Info: RoleDescriptor:Encargado de los ensayos (TST): 12 mini seconds publishing element
+Info: RoleDescriptor:Evaluador (ASR): 11 mini seconds publishing element
+Info: RoleDescriptor:Gestor de Configuracion: 11 mini seconds publishing element
+Info: RoleDescriptor:Gestor de requisitos (RQM): 11 mini seconds publishing element
+Info: RoleDescriptor:Implementador (IMP): 11 mini seconds publishing element
+Info: RoleDescriptor:Integrador (INT): 11 mini seconds publishing element
+Info: RoleDescriptor:Jefe de proyecto (PM): 11 mini seconds publishing element
+Info: RoleDescriptor:Validador (VAL): 18 mini seconds publishing element
+Info: RoleDescriptor:Verificador (VER): 12 mini seconds publishing element
+Info: WorkProductDescriptor:Especificacin_de_ensayos_del_software_en_conjunto_ESC: 19 mini seconds publishing element
+Info: WorkProductDescriptor:Especificacin_de_requisitos_software_ERS: 33 mini seconds publishing element
+Info: WorkProductDescriptor:Informe_de_validacin_y_verificacin_de_los_requisitos_del_software_VRS: 13 mini seconds publishing element
+Info: WorkProductDescriptor:Informe de Verificacion de Garantia de Calidad del Software: 12 mini seconds publishing element
+Info: WorkProductDescriptor:Plan de Garantia de Calidad del Software: 13 mini seconds publishing element
+Info: RoleDescriptor:Jefe de proyecto (PM): 11 mini seconds publishing element
+Info: RoleDescriptor:Verificador (VER): 11 mini seconds publishing element
+Info: WorkProductDescriptor:Plan de Garantia de Calidad del Software: 9 mini seconds publishing element
+Info: RoleDescriptor:Verificador (VER): 10 mini seconds publishing element
+Info: RoleDescriptor:Encargado de los ensayos (TST): 14 mini seconds publishing element
+Info: RoleDescriptor:Gestor de requisitos (RQM): 21 mini seconds publishing element
+Info: Template:Formulario - Plan de Garantia de Calidad del Software: 287 mini-seconds referencing external URL: https://drive.google.com/open?id=1890zVetJMwqghYxhl-EWT8xZ1Y27B4OyU5UD1yvHJpw
+Info: Template:Formulario - Plan de Garantia de Calidad del Software: 854 mini seconds publishing element
+Info: Template:Formulario - Especificacin_de_requisitos_software_-_proyecto_xx: 144 mini seconds publishing element
+Info: Template:Formulario - Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx: 353 mini-seconds referencing external URL: https://docs.google.com/document/d/1ay0Ld0R4XCA6tVQoC0qJ8b1bxwHetnpelXd-cwm7M3k/edit?pli=1
+Info: Template:Formulario - Especificacin_de_ensayos_del_software_en_conjunto_-_proyecto_xx: 377 mini seconds publishing element
+Info: : 9 seconds validating external links
+Info: : Publishing time: 1 minutes 20 seconds

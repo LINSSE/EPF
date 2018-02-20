@@ -48,6 +48,7 @@
     <resourceDescriptors xmi:id="_erRQgAtlEeiCgPZABByP4Q" id="-7d9RoWIHDRzHqI1vC6mwpA" uri="guidances/checklists/A6%20Integración.xmi"/>
     <resourceDescriptors xmi:id="_11oycAtyEeiCgPZABByP4Q" id="-yGbpinjXbYLRhqkJh3APvw" uri="guidances/checklists/A7%20Ensayos%20de%20Software%20en%20Conjunto.xmi"/>
     <resourceDescriptors xmi:id="__qcMgBGVEeiO57Qqij8wWw" id="-Ji_evfh6VifsSBao432QjA" uri="tasks/Ejecutar%20el%20plan%20de%20verificación%20del%20software.xmi"/>
+    <resourceDescriptors xmi:id="_Z-4WMBZjEeiunKskc9rsJg" id="--t7VIQ06rXXZV3gc9f3nUQ" uri="tasks/Gestionar%20las%20tareas%20en%20el%20entorno%20colaborativo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -239,6 +240,14 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_yo2tYAtyEeiCgPZABByP4Q" name="A7 Ensayos de Software en Conjunto" guid="_yo2tYAtyEeiCgPZABByP4Q" presentationName="A7 Ensayos de Software en Conjunto" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y &#x9;7. 7 de la norma UNE-En 50128. Tabla A7" guidelines="_BiDCIAtmEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
               <methodElementProperty xmi:id="_10XnIAtyEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-yGbpinjXbYLRhqkJh3APvw" href="uma://-yGbpinjXbYLRhqkJh3APvw#-yGbpinjXbYLRhqkJh3APvw"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Pfj3oBZjEeiunKskc9rsJg" name="Planificacion" guid="_Pfj3oBZjEeiunKskc9rsJg" presentationName="Planificacion">
+            <methodElementProperty xmi:id="_PfmT4BZjEeiunKskc9rsJg" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_SiKF8BZjEeiunKskc9rsJg" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TU800BZjEeiunKskc9rsJg" name="Gestionar las tareas en el entorno colaborativo" guid="_TU800BZjEeiunKskc9rsJg" presentationName="Gestionar las tareas en el entorno colaborativo">
+              <methodElementProperty xmi:id="_Z-q60BZjEeiunKskc9rsJg" name="me_edited" value="true"/>
+              <presentation xmi:id="--t7VIQ06rXXZV3gc9f3nUQ" href="uma://--t7VIQ06rXXZV3gc9f3nUQ#--t7VIQ06rXXZV3gc9f3nUQ"/>
             </contentElements>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_X_DfMK02EeeTbJlYDwtuwA" name="Disenador (DES)" guid="_X_DfMK02EeeTbJlYDwtuwA" presentationName="Diseñador (DES)" briefDescription="Entidad que analiza y transforma los requisitos especificados en soluciones de diseño aceptables que tengan el nivel de&#xD;&#xA;integridad de seguridad requerido.">

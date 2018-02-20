@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--t7VIQ06rXXZV3gc9f3nUQ" name=",_TU800BZjEeiunKskc9rsJg" guid="--t7VIQ06rXXZV3gc9f3nUQ" changeDate="2018-02-20T14:28:03.437-0300">
+  <mainDescription>&lt;p>&#xD;
+    La creación de un proyecto genera un conjunto de tareas preestablecidas. Para continuar con la construcción del entorno&#xD;
+    es necesario:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Definir los miembros del proyecto, actualizando en caso de ser necesario teniendo en cuenta los roles del equipo de&#xD;
+    acuerdo con el nivel SIL.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2. Definir los tiempos de las tareas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    3. Actualizar las tareas y sus descripciones en caso de que ya se cuenta con la información.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Las tareas en el entorno colaborativo se diferencian de acuerdo a la fase donde se realizan. Para mantener una&#xD;
+    trazabilidad adecuada es necesario gestionar a los requerimientos como tareas individuales. El identificador de cada&#xD;
+    tarea / requerimiento podrá ser utilizado como elemento de trazabilidad. Las tareas de transformación de los&#xD;
+    requerimientos hacia el análisis, diseño, codificación o mantenimiento generarán el desarrollo de documentación que&#xD;
+    será almacenada en el entorno en línea haciendo referencia a dos tipos de identificador. Por un lado el identificador&#xD;
+    de la tarea principal que se está llevando adelante y por otro lado los identificadores (si fuera más de uno) de los&#xD;
+    requerimientos relacionados con el desarrollo llevado adelante hasta el momento.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para el caso de los ensayos también se tendrán en cuenta los identificadores de los requerimientos, trazando los casos&#xD;
+    de ensayo por requerimiento.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Las tareas que se crean en el entorno colaborativo y que están relacionadas con las fases de análisis y documentación&#xD;
+    deben ser actualizadas con la información documental, agregando nuevas entradas con la URL de la última versión de los&#xD;
+    archivos. Los formularios mantienen un control de versiones que será utilizado para mencionar la relación entre los&#xD;
+    cambios, agregados y los requerimientos; facilitando la trazabilidad.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Las tareas que se crean en el entorno colaborativo y que están relacionadas con algún tipo de ensayo se realizarán&#xD;
+    teniendo en cuenta la adición de la información de enlace con otras herramientas que se encargan de realizar el ensayo&#xD;
+    y que mantienen el informe del mismo. Se espera que una persona al revisar la tarea de un ensayo tenga toda la&#xD;
+    información necesaria para: obtener los casos de ensayo o casos de prueba,el plan, las ejecuciones y los resultados.&#xD;
+    Asimismo es necesario almacenar las configuraciones necesarias para los ensayos, el equipamiento y los roles y&#xD;
+    responsabilidades en el ensayo cuando no sea explícito a partir de la asignación de tareas en la herramienta&#xD;
+    coalaborativa. Es conveniente dejar constancia de los resultados en caso de que no sea posible hacerlo en las&#xD;
+    plataformas donde se realizó el ensayo así como los pasos previos al ensayo, como la calibración del equipamiento.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
