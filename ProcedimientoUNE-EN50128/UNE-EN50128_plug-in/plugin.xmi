@@ -67,7 +67,7 @@
             <subdiscipline xmi:id="_jJ5QQOW7Eee3O4UYWqsU5g" name="requerimientos" guid="_jJ5QQOW7Eee3O4UYWqsU5g" presentationName="Requerimientos" tasks="_9WxGMOZSEeeoX-3oEkoa6Q _Dl0pcOZTEeeoX-3oEkoa6Q _GV0r4OZTEeeoX-3oEkoa6Q">
               <methodElementProperty xmi:id="_k73kMOW7Eee3O4UYWqsU5g" name="me_edited" value="true"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_WPc9oOW8Eee3O4UYWqsU5g" name="entorno" guid="_WPc9oOW8Eee3O4UYWqsU5g" presentationName="Entorno" tasks="_-RFmwNnYEeeandfM8vtSQw">
+            <subdiscipline xmi:id="_WPc9oOW8Eee3O4UYWqsU5g" name="Entorno" guid="_WPc9oOW8Eee3O4UYWqsU5g" presentationName="Entorno" tasks="_-RFmwNnYEeeandfM8vtSQw">
               <methodElementProperty xmi:id="_X8S58OW8Eee3O4UYWqsU5g" name="me_edited" value="true"/>
             </subdiscipline>
           </contentElements>
