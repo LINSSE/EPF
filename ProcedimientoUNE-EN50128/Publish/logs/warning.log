@@ -4,7 +4,6 @@ Warning: Activity:Plan de Verificacion del Software: missing resource file './..
 Warning: Activity:Plan de Verificacion del Software: missing resource file './../../UNE-EN50128_plug-in/tasks/Especificar el Plan de verificaci&oacute;n del software_FEC98DE0.html'
 Warning: Role:Jefe de proyecto (PM): missing resource file './../../UNE-EN50128_plug-in/tasks/Construir el entorno de gesti&oacute;n colaborativa del proyecto_3FF85749.html'
 Warning: Role:Verificador (VER): missing resource file './../../UNE-EN50128_plug-in/tasks/Especificar el Plan de verificaci&oacute;n del software_FEC98DE0.html'
-Warning: Task:Especificar el Plan de verificación del software: Unable to connect to URL 'https://drive.google.com/open?id=1_tMhFV-3X4EB-FZvxy4Kk13af84ixvpERnQN5YKPQfY': Server redirected too many  times (20)
 Warning: Task:Especificar el Plan de verificación del software: missing resource file './../../UNE-EN50128_plug-in/guidances/checklists/A5 Verificaci&oacute;n y Ensayos_94C4C5E0.html'
 Warning: Task:Especificar el Plan de verificación del software: missing resource file './../../UNE-EN50128_plug-in/guidances/checklists/A6 Integraci&oacute;n_D5231110.html'
 Warning: Task:Especificar el Plan de verificación del software: missing resource file './../../UNE-EN50128_plug-in/guidances/guidelines/Gu&iacute;a para el An&aacute;lisis Est&aacute;tico_7DB4EC3C.html'

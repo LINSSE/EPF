@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kDo8pv07rvBPchHB65O7Aw" name="A5 Verificación y Ensayos,_zjV9gAtjEeiCgPZABByP4Q" guid="-kDo8pv07rvBPchHB65O7Aw" authors="Emanuel Irrazabal" changeDate="2018-02-06T14:40:20.197-0300" version="0.1">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kDo8pv07rvBPchHB65O7Aw" name="A5 Verificación y Ensayos,_zjV9gAtjEeiCgPZABByP4Q" guid="-kDo8pv07rvBPchHB65O7Aw" authors="Emanuel Irrazabal" changeDate="2018-02-20T14:38:17.821-0300" version="0.1">
   <mainDescription>&lt;p>&#xD;
     A continuación se describen las técnicas y buenas prácticas a tenerse en cuenta en las actividades de verificación y&#xD;
     ensayos de los proyectos de desarrollo software. Este conjunto de guías servirá como material de consulta y apoyo&#xD;
     referenciad en los pasos y procedimientos del ciclo de vida del proyecto. Asimismo servirá como base para las&#xD;
     evaluaciones internas, auditorías y revisiones.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para la gestión general de los ensayos se utilizará &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../UNE-EN50128_plug-in/guidances/toolmentors/Uso de Testlink para realizar ensayos_37EA2544.html&quot;&#xD;
+    guid=&quot;_Bl22IAT6Eeijd9RhshXkDQ&quot;>Uso de Testlink para realizar ensayos&lt;/a>.&#xD;
 &lt;/p></mainDescription>
   <sections xmi:id="_0sjoUAtjEeiCgPZABByP4Q" name="Análisis Estático" guid="_0sjoUAtjEeiCgPZABByP4Q"/>
   <sections xmi:id="_-WJ_0AtjEeiCgPZABByP4Q" name="Análisis y Ensayos Dinámicos" guid="_-WJ_0AtjEeiCgPZABByP4Q"/>
