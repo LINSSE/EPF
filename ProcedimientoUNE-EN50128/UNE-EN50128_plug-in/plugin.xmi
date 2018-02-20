@@ -31,7 +31,6 @@
     <resourceDescriptors xmi:id="_lXZacAX4Eei-0Y9CFnbgCQ" id="-CEoHXIq7zGGXhKZCP4H2Wg" uri="guidances/templates/Formulario%20-%20Informe_de_verificacin_de_los_requisitos_del_software_-_proyecto_xx.xmi"/>
     <resourceDescriptors xmi:id="_INft8AT5Eeijd9RhshXkDQ" id="-r_3SoiJDGea_kKIeHDFA3A" uri="tasks/Calibrar%20el%20equipo%20de%20medición.xmi"/>
     <resourceDescriptors xmi:id="_qD8D8AT5Eeijd9RhshXkDQ" id="-Wc3pVSyeeyBvuIIqoet4mw" uri="guidances/guidelines/Guía%20de%20Calibración%20de%20Multímetro%20digital.xmi"/>
-    <resourceDescriptors xmi:id="_yNO0YAT7Eeijd9RhshXkDQ" id="-hDOwk6fTL45TgAC9t-3ROA" uri="guidances/toolmentors/Uso%20de%20Testlink%20para%20realizar%20ensayos.xmi"/>
     <resourceDescriptors xmi:id="_uPQD8AsyEeiCgPZABByP4Q" id="-_OceTX88nPAZgzatqB9Vqw" uri="tasks/Especificar%20el%20Plan%20de%20verificación%20del%20software%202.xmi"/>
     <resourceDescriptors xmi:id="_IrUg0As4EeiCgPZABByP4Q" id="-qbb9g4h7mXFDKGwIn9yCbw" uri="guidances/guidelines/Guía%20para%20realizar%20una%20Lista%20de%20Comprobación.xmi"/>
     <resourceDescriptors xmi:id="_GG9OMAtaEeiCgPZABByP4Q" id="-ryNTrhPryA0imLh8YH0s1A" uri="guidances/guidelines/Guía%20para%20los%20Ensayos%20basados%20en%20la%20Inserción%20de%20Errores.xmi"/>
@@ -49,6 +48,7 @@
     <resourceDescriptors xmi:id="_11oycAtyEeiCgPZABByP4Q" id="-yGbpinjXbYLRhqkJh3APvw" uri="guidances/checklists/A7%20Ensayos%20de%20Software%20en%20Conjunto.xmi"/>
     <resourceDescriptors xmi:id="__qcMgBGVEeiO57Qqij8wWw" id="-Ji_evfh6VifsSBao432QjA" uri="tasks/Ejecutar%20el%20plan%20de%20verificación%20del%20software.xmi"/>
     <resourceDescriptors xmi:id="_Z-4WMBZjEeiunKskc9rsJg" id="--t7VIQ06rXXZV3gc9f3nUQ" uri="tasks/Gestionar%20las%20tareas%20en%20el%20entorno%20colaborativo.xmi"/>
+    <resourceDescriptors xmi:id="_RjQ38BZnEeiunKskc9rsJg" id="-x_TawuP8oc7dgRtlTtm3UA" uri="guidances/guidelines/Uso%20de%20Testlink.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_R1hfkJjGEeeafv7hrIg7lQ" name="UNE-EN50128_plug-in" guid="_R1hfkJjGEeeafv7hrIg7lQ">
     <methodElementProperty xmi:id="_R1tFwJjGEeeafv7hrIg7lQ" name="plugin_synFree" value="true"/>
@@ -146,10 +146,6 @@
               <methodElementProperty xmi:id="_qDuBgAT5Eeijd9RhshXkDQ" name="me_edited" value="true"/>
               <presentation xmi:id="-Wc3pVSyeeyBvuIIqoet4mw" href="uma://-Wc3pVSyeeyBvuIIqoet4mw#-Wc3pVSyeeyBvuIIqoet4mw"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Bl22IAT6Eeijd9RhshXkDQ" name="Uso de Testlink para realizar ensayos" guid="_Bl22IAT6Eeijd9RhshXkDQ" presentationName="Uso de Testlink para realizar ensayos" briefDescription="Se describirá el uso de la herramienta Testlink para el desarrollo de los ensayos de softwaro, tanto especificación como ejecución e informes.">
-              <methodElementProperty xmi:id="_yNFDYAT7Eeijd9RhshXkDQ" name="me_edited" value="true"/>
-              <presentation xmi:id="-hDOwk6fTL45TgAC9t-3ROA" href="uma://-hDOwk6fTL45TgAC9t-3ROA#-hDOwk6fTL45TgAC9t-3ROA"/>
-            </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k5U44AT8Eeijd9RhshXkDQ" name="Ejecutar el plan de verificación del software" guid="_k5U44AT8Eeijd9RhshXkDQ" presentationName="Ejecutar los ensayos de integración del software">
               <methodElementProperty xmi:id="_ogaUUAT8Eeijd9RhshXkDQ" name="me_edited" value="true"/>
               <presentation xmi:id="-Ji_evfh6VifsSBao432QjA" href="uma://-Ji_evfh6VifsSBao432QjA#-Ji_evfh6VifsSBao432QjA"/>
@@ -217,7 +213,7 @@
               <methodElementProperty xmi:id="_BVLLIAtjEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-TTPJ_TOf_o4qn60Tw5auhA" href="uma://-TTPJ_TOf_o4qn60Tw5auhA#-TTPJ_TOf_o4qn60Tw5auhA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_zjV9gAtjEeiCgPZABByP4Q" name="A5 Verificación y Ensayos" guid="_zjV9gAtjEeiCgPZABByP4Q" presentationName="A5 Verificación y Ensayos" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y 7. 3 de la norma UNE-En 50128. Tabla A5" guidelines="_wClNgAtYEeiCgPZABByP4Q _gIz4cAtYEeiCgPZABByP4Q _d7qVUAthEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
+            <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_zjV9gAtjEeiCgPZABByP4Q" name="A5 Verificación y Ensayos" guid="_zjV9gAtjEeiCgPZABByP4Q" presentationName="A5 Verificación y Ensayos" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y 7. 3 de la norma UNE-En 50128. Tabla A5" guidelines="_wClNgAtYEeiCgPZABByP4Q _gIz4cAtYEeiCgPZABByP4Q _d7qVUAthEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q __eS2oBZmEeiunKskc9rsJg">
               <methodElementProperty xmi:id="_0ZH5gAtkEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-kDo8pv07rvBPchHB65O7Aw" href="uma://-kDo8pv07rvBPchHB65O7Aw#-kDo8pv07rvBPchHB65O7Aw"/>
             </contentElements>
@@ -240,6 +236,10 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_yo2tYAtyEeiCgPZABByP4Q" name="A7 Ensayos de Software en Conjunto" guid="_yo2tYAtyEeiCgPZABByP4Q" presentationName="A7 Ensayos de Software en Conjunto" briefDescription="Conjunto de técnicas recomendables para cumplir con los puntos 6.2 y &#x9;7. 7 de la norma UNE-En 50128. Tabla A7" guidelines="_BiDCIAtmEeiCgPZABByP4Q _9h_p4AthEeiCgPZABByP4Q">
               <methodElementProperty xmi:id="_10XnIAtyEeiCgPZABByP4Q" name="me_edited" value="true"/>
               <presentation xmi:id="-yGbpinjXbYLRhqkJh3APvw" href="uma://-yGbpinjXbYLRhqkJh3APvw#-yGbpinjXbYLRhqkJh3APvw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="__eS2oBZmEeiunKskc9rsJg" name="Uso de Testlink" guid="__eS2oBZmEeiunKskc9rsJg" presentationName="Uso de Testlink" briefDescription="Se describirá el uso de la herramienta Testlink para el desarrollo de los ensayos de softwaro, tanto especificación como ejecución e informes.">
+              <methodElementProperty xmi:id="_RjBnYBZnEeiunKskc9rsJg" name="me_edited" value="true"/>
+              <presentation xmi:id="-x_TawuP8oc7dgRtlTtm3UA" href="uma://-x_TawuP8oc7dgRtlTtm3UA#-x_TawuP8oc7dgRtlTtm3UA"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Pfj3oBZjEeiunKskc9rsJg" name="Planificacion" guid="_Pfj3oBZjEeiunKskc9rsJg" presentationName="Planificacion">

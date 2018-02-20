@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hDOwk6fTL45TgAC9t-3ROA" name="new_toolmentor,_Bl22IAT6Eeijd9RhshXkDQ" guid="-hDOwk6fTL45TgAC9t-3ROA" authors="Emanuel Irrazabal" changeDate="2018-02-20T10:06:13.893-0300" version="0.5">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x_TawuP8oc7dgRtlTtm3UA" name="Uso de Testlink,__eS2oBZmEeiunKskc9rsJg" guid="-x_TawuP8oc7dgRtlTtm3UA" changeDate="2018-02-20T14:55:06.433-0300">
   <mainDescription>&lt;p>&#xD;
     Las especificaciones de ensayos se realizan con la herramienta teslink. Cada especificación estará conformada por un&#xD;
     conjunto de casos de ensayos, planificándose su ejecución. A continuación se detallan los pasos para el uso de testlink&#xD;
@@ -17,7 +17,7 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     El proyecto de prueba deberá estar creado&amp;nbsp;en la tarea de &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../../UNE-EN50128_plug-in/tasks/Construir_el_entorno_de_gestin_colaborativa_del_proyecto_3FF85749.html&quot;&#xD;
+    href=&quot;./../../../UNE-EN50128_plug-in/tasks/Construir el entorno de gestión colaborativa del proyecto_3FF85749.html&quot;&#xD;
     guid=&quot;_-RFmwNnYEeeandfM8vtSQw&quot;>Construir el entorno de gestión colaborativa del proyecto&lt;/a>&amp;nbsp;y deberás tener un&#xD;
     usuario asignado.&amp;nbsp;&#xD;
 &lt;/p>&#xD;
@@ -75,7 +75,7 @@
     ejecutado.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/Nuevo caso de prueba.png&quot; width=&quot;600&quot; />&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/Nuevo%20caso%20de%20prueba.png&quot; width=&quot;600&quot; />&#xD;
 &lt;/p>&#xD;
 &lt;br />&#xD;
 &lt;p>&#xD;
@@ -133,8 +133,5 @@
 &lt;p>&#xD;
     Es adecuado dejar constancia de los informes y anexar los resultados en las diferentes tareas de Redmine. También es&#xD;
     posible dejar un enlace al informe.&#xD;
-&lt;/p>&#xD;
-&lt;br />&#xD;
-&lt;br />&#xD;
-&lt;br /></mainDescription>
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
